@@ -25,7 +25,6 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 .form{max-width:760px;margin:auto}.field{margin-bottom:16px}.field label{display:block;font-weight:700;margin-bottom:7px}.field input,.field select{width:100%;padding:13px 14px;border:1px solid var(--border);border-radius:11px;background:#fff;outline:none}.field input:focus,.field select:focus{border-color:var(--primary);box-shadow:0 0 0 3px #e9e7ff}
 .options{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.choice{padding:12px;border:1px solid var(--border);border-radius:11px;background:#fff;text-align:center;font-weight:700}.choice.selected{border-color:var(--primary);background:#f0efff;color:var(--primary)}
 .paybox{text-align:center;max-width:650px;margin:auto}.price{font-size:48px;font-weight:900;margin:5px}.qr{width:250px;height:250px;margin:18px auto;border:12px solid white;box-shadow:0 8px 28px rgba(0,0,0,.12);border-radius:14px;background:#fff}.upi{font-weight:800;background:#f8fafc;border:1px dashed #cbd5e1;padding:10px;border-radius:10px}
-.notice{padding:13px 15px;border-radius:12px;background:#fff7ed;color:#9a3412;border:1px solid #fed7aa;line-height:1.5}
 .test-layout{display:grid;grid-template-columns:250px 1fr;gap:18px}.qnav{position:sticky;top:85px;height:max-content}.qnums{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-top:15px}.qnum{padding:9px 0;border-radius:8px;background:#f3f4f6;text-align:center;font-weight:700}.qnum.answered{background:#dcfce7;color:#166534}.qnum.current{outline:2px solid var(--primary)}.timer{font-size:24px;font-weight:900;color:var(--danger)}
 .question{font-size:20px;line-height:1.55;font-weight:750;margin:18px 0;white-space:pre-line}.answer{display:block;width:100%;padding:14px;margin:10px 0;border:1px solid var(--border);border-radius:12px;background:white;text-align:left;font-size:15px}.answer.selected{border-color:var(--primary);background:#f0efff;font-weight:700}.test-actions{display:flex;justify-content:space-between;gap:10px;margin-top:25px}
 .result-score{text-align:center}.score{font-size:72px;font-weight:950;color:var(--primary);line-height:1}.result-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:25px 0}.result-item{text-align:center;padding:18px;border-radius:15px;background:#f8fafc}.result-item b{display:block;font-size:27px}
@@ -55,29 +54,29 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <div class="hero">
 <div style="font-weight:800;letter-spacing:.08em">TELANGANA GROUP-II PREPARATION</div>
 <h1>Practice. Analyse.<br>Improve.</h1>
-<p>A modern mock-test platform for Paper-I to Paper-IV with 25 / 50 / 100 question attempts, difficulty selection, English/Telugu display, result reports and leaderboard[cite: 2].</p>
+<p>A modern mock-test platform for Paper-I to Paper-IV with 25 / 50 / 100 question attempts, difficulty selection, English/Telugu display, result reports and leaderboard.</p>
 <button class="btn primary" onclick="showScreen('details')">🚀 Start Mock Test</button>
 <div class="stats">
-<div class="stat"><b>4</b>Papers[cite: 2]</div><div class="stat"><b>600</b>Marks TSPSC Pattern[cite: 2]</div><div class="stat"><b>₹10</b>Per Paid Attempt[cite: 2]</div>
+<div class="stat"><b>4</b>Papers</div><div class="stat"><b>600</b>Marks TSPSC Pattern</div><div class="stat"><b>₹10</b>Per Paid Attempt</div>
 </div>
 </div>
-<div class="section-title"><h2>What is included</h2><div class="muted">Fast on-demand question loader hosted directly on GitHub Pages[cite: 1, 2].</div></div>
+<div class="section-title"><h2>What is included</h2><div class="muted">Fast on-demand question loader hosted directly on GitHub Pages[cite: 1].</div></div>
 <div class="grid4">
-<div class="card"><b>📚 Syllabus-wise</b><p class="muted">Strictly mapped to TSPSC Papers I, II, III, and IV[cite: 2].</p></div>
-<div class="card"><b>🎯 Difficulty Tiers</b><p class="muted">Dynamically loads Basic, Medium, or Advanced JSON files[cite: 2].</p></div>
-<div class="card"><b>🔄 Real Randomization</b><p class="muted">Shuffles questions on every single test attempt[cite: 2].</p></div>
-<div class="card"><b>📄 PDF Reports</b><p class="muted">Instant scoring breakdown, analysis, and printable scorecard[cite: 2].</p></div>
+<div class="card"><b>📚 Syllabus-wise</b><p class="muted">Strictly mapped to TSPSC Papers I, II, III, and IV.</p></div>
+<div class="card"><b>🎯 Difficulty Tiers</b><p class="muted">Dynamically loads Basic, Medium, or Advanced JSON files.</p></div>
+<div class="card"><b>🔄 Real Randomization</b><p class="muted">Shuffles questions on every single test attempt.</p></div>
+<div class="card"><b>📄 PDF Reports</b><p class="muted">Instant scoring breakdown, analysis, and printable scorecard.</p></div>
 </div>
 </section>
 
 <section id="papers" class="screen">
-<div class="section-title"><h2>Select a Paper</h2><p class="muted">Choose the Group-II paper you want to practise[cite: 2].</p></div>
+<div class="section-title"><h2>Select a Paper</h2><p class="muted">Choose the Group-II paper you want to practise.</p></div>
 <div id="paperGrid" class="grid"></div>
 </section>
 
 <section id="details" class="screen">
 <div class="card form">
-<div class="section-title"><h2>👤 Candidate Details</h2><p class="muted">These details are recorded for your passkey and PDF result report[cite: 2].</p></div>
+<div class="section-title"><h2>👤 Candidate Details</h2><p class="muted">These details are recorded for your passkey and PDF result report.</p></div>
 <div class="field"><label>Full Name *</label><input id="candidateName" placeholder="Enter your full name"></div>
 <div class="field"><label>Mobile Number *</label><input id="candidateMobile" inputmode="numeric" placeholder="10-digit mobile number"></div>
 <div class="field"><label>Email</label><input id="candidateEmail" type="email" placeholder="you@example.com"></div>
@@ -92,10 +91,10 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <section id="payment" class="screen">
 <div class="card paybox">
 <div class="section-title"><h2>🔐 Test Access Fee</h2><p id="paymentSummary" class="muted"></p></div>
-<div class="price">₹10</div><p class="muted">One-time test attempt fee[cite: 2]</p>
+<div class="price">₹10</div><p class="muted">One-time test attempt fee</p>
 <div id="qrBox" class="qr"></div>
 <div class="upi" id="upiText">UPI ID: YOUR-UPI-ID@BANK</div>
-<p class="muted" style="margin-top:12px;">Scan the QR using GooglePay, PhonePe, or Paytm[cite: 2].</p>
+<p class="muted" style="margin-top:12px;">Scan the QR using GooglePay, PhonePe, or Paytm.</p>
 
 <div class="field" style="text-align:left; margin-top:20px;">
   <label>Enter 12-Digit Bank UTR / UPI Reference Number: *</label>
@@ -110,7 +109,7 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <section id="passkey" class="screen">
 <div class="card form" style="text-align:center">
 <div style="font-size:55px">🎉</div><h2>Passkey Generated</h2>
-<p class="muted">Your access passkey for this attempt[cite: 2]:</p>
+<p class="muted">Your access passkey for this attempt:</p>
 <div id="passkeyDisplay" style="font-size:26px;font-weight:950;letter-spacing:.12em;padding:16px;background:#f3f4f6;border-radius:14px;color:var(--primary);margin:15px 0;"></div>
 <div class="field" style="text-align:left;margin-top:15px"><label>Enter Passkey to Begin</label><input id="passkeyInput" placeholder="G2-XXXX-XXXX"></div>
 <button class="btn primary" style="width:100%" onclick="verifyPasskey()">Load Questions & Start Test 🚀</button>
@@ -122,7 +121,7 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <div class="card qnav">
 <div style="display:flex;justify-content:space-between;gap:10px"><b>Questions</b><span id="timer" class="timer">00:00</span></div>
 <div class="qnums" id="qnums"></div>
-<p class="muted" style="font-size:12px;margin-top:15px">Green = Answered[cite: 2]</p>
+<p class="muted" style="font-size:12px;margin-top:15px">Green = Answered</p>
 <button class="btn danger" style="width:100%;margin-top:8px" onclick="submitTest()">Submit Test</button>
 </div>
 <div class="card">
@@ -150,18 +149,18 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 </section>
 
 <section id="leaderboard" class="screen">
-<div class="section-title"><h2>🏆 Leaderboard</h2><p class="muted">Recent attempts recorded in your session[cite: 2].</p></div>
+<div class="section-title"><h2>🏆 Leaderboard</h2><p class="muted">Recent attempts recorded in your session.</p></div>
 <div class="card"><div style="overflow:auto"><table class="table"><thead><tr><th>Rank</th><th>Candidate</th><th>Paper</th><th>Score</th><th>Accuracy</th></tr></thead><tbody id="leaderboardBody"></tbody></table></div></div>
 </section>
 
 <section id="admin" class="screen">
 <div id="adminLock" class="card admin-lock">
-<h2>👑 Admin Access</h2><p class="muted">View verified test attempts[cite: 2].</p>
+<h2>👑 Admin Access</h2><p class="muted">View verified test attempts.</p>
 <div class="field"><label>Admin Key</label><input id="adminKey" type="password" placeholder="Enter admin key"></div>
 <button class="btn primary" style="width:100%" onclick="adminLogin()">Unlock Admin</button>
 </div>
 <div id="adminPanel" class="hidden">
-<div class="section-title"><h2>Admin Dashboard</h2><p class="muted">Live session telemetry[cite: 2].</p></div>
+<div class="section-title"><h2>Admin Dashboard</h2><p class="muted">Live session telemetry.</p></div>
 <div class="grid4">
 <div class="card"><b>Total Attempts</b><h2 id="aAttempts">0</h2></div>
 <div class="card"><b>Users</b><h2 id="aUsers">0</h2></div>
@@ -179,7 +178,7 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <script>
 const CONFIG = {
   TEST_FEE: 10,
-  PAYMENT_UPI_ID: "YOUR-UPI-ID@BANK", // Update with your actual UPI ID[cite: 2]
+  PAYMENT_UPI_ID: "YOUR-UPI-ID@BANK",
   DEMO_ADMIN_KEY: "ADMIN-DEMO-123"
 };
 
@@ -220,7 +219,7 @@ function init(){
     <div class="card paper-card">
       <span class="tag">${p}</span>
       <h3>${titles[p]}</h3>
-      <p class="muted">Official syllabus practice tests with bilingual support[cite: 2].</p>
+      <p class="muted">Official syllabus practice tests with bilingual support.</p>
       <button class="btn primary" onclick="choosePaper('${p}')">Attempt ₹10 →</button>
     </div>
   `).join("");
@@ -277,17 +276,17 @@ function submitPaymentUTR(){
   showScreen("passkey");
 }
 
-// DYNAMIC FILE FETCHING ENGINE - MAPS ROMAN LABELS DIRECTLY TO NUMBERED FOLDERS
+// DYNAMIC FILE FETCHING ENGINE MATCHING YOUR EXACT GITHUB REPOSITORY STRUCTURE
 async function fetchPaperQuestions(paper, difficulty){
-  const paperMap = {
-    "Paper-I": "paper1",
-    "Paper-II": "paper2",
-    "Paper-III": "paper3",
-    "Paper-IV": "paper4"
+  const meta = {
+    "Paper-I":   { folder: "paper1", prefix: "paperi" },
+    "Paper-II":  { folder: "paper2", prefix: "paperii" },
+    "Paper-III": { folder: "paper3", prefix: "paperiii" },
+    "Paper-IV":  { folder: "paper4", prefix: "paperiv" }
   };
 
-  const folder = paperMap[paper] || "paper1";
-  const filePath = `data/${folder}/${folder}_${difficulty.toLowerCase()}.json`;
+  const selected = meta[paper] || meta["Paper-I"];
+  const filePath = `data/${selected.folder}/${selected.prefix}_${difficulty.toLowerCase()}.json`;
 
   toast(`Loading ${difficulty} questions for ${paper}...`);
   const response = await fetch(filePath);
@@ -316,13 +315,12 @@ async function verifyPasskey(){
       throw new Error("The selected question file is empty.");
     }
 
-    // Shuffle pool and take requested question count
     const pool = [...rawBank].sort(() => Math.random() - 0.5);
     state.testQuestions = pool.slice(0, Math.min(state.count, pool.length));
 
     state.answers = {};
     state.current = 0;
-    state.seconds = state.testQuestions.length * 60; // 1 minute per question[cite: 2]
+    state.seconds = state.testQuestions.length * 60;
 
     clearInterval(state.timer);
     state.timer = setInterval(() => {

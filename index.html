@@ -277,10 +277,17 @@ function submitPaymentUTR(){
   showScreen("passkey");
 }
 
-// DYNAMIC FILE FETCHING ENGINE BASED ON GENERATED JSON FILES
+// DYNAMIC FILE FETCHING ENGINE - MAPS ROMAN LABELS DIRECTLY TO NUMBERED FOLDERS
 async function fetchPaperQuestions(paper, difficulty){
-  const slug = paper.toLowerCase().replace("-", ""); 
-  const filePath = `data/${slug}/${slug}_${difficulty.toLowerCase()}.json`;
+  const paperMap = {
+    "Paper-I": "paper1",
+    "Paper-II": "paper2",
+    "Paper-III": "paper3",
+    "Paper-IV": "paper4"
+  };
+
+  const folder = paperMap[paper] || "paper1";
+  const filePath = `data/${folder}/${folder}_${difficulty.toLowerCase()}.json`;
 
   toast(`Loading ${difficulty} questions for ${paper}...`);
   const response = await fetch(filePath);

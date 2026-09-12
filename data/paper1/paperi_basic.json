@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "P1_BAS_001",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Who is the current Secretary-General of the United Nations?",
+    "te": "ఐక్యరాజ్యసమితి ప్రస్తుత సెక్రటరీ జనరల్ ఎవరు?",
+    "opts": [
+      "António Guterres",
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Tedros Adhanom"
+    ],
+    "ans": 0,
+    "exp": "António Guterres is a Portuguese politician and diplomat serving as the ninth Secretary-General of the United Nations since 2017."
+  },
+  {
+    "id": "P1_BAS_002",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Which city hosted the G20 Summit in September 2023?",
+    "te": "సెప్టెంబర్ 2023లో G20 శిఖరాగ్ర సమావేశం ఏ నగరంలో జరిగింది?",
+    "opts": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "ans": 1,
+    "exp": "The 18th G20 Summit was held at Bharat Mandapam International Exhibition-Convention Centre, New Delhi."
+  },
+  {
+    "id": "P1_BAS_003",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Who is the current Chief Minister of Telangana?",
+    "te": "తెలంగాణ ప్రస్తుత ముఖ్యమంత్రి ఎవరు?",
+    "opts": [
+      "K. Chandrashekar Rao",
+      "A. Revanth Reddy",
+      "Mallu Bhatti Vikramarka",
+      "Uttam Kumar Reddy"
+    ],
+    "ans": 1,
+    "exp": "A. Revanth Reddy took oath as the second Chief Minister of Telangana in December 2023."
+  },
+  {
+    "id": "P1_BAS_004",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "What is the name of India's first dedicated solar mission launched by ISRO?",
+    "te": "ఇస్రో ప్రారంభించిన భారతదేశపు మొట్టమొదటి ప్రత్యేక సౌర మిషన్ పేరు ఏమిటి?",
+    "opts": [
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Gaganyaan",
+      "Mangalyaan"
+    ],
+    "ans": 1,
+    "exp": "Aditya-L1 is the first Indian space-based observatory to study the Sun, launched in September 2023."
+  },
+  {
+    "id": "P1_BAS_005",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Which country won the ICC Men's Cricket World Cup 2023?",
+    "te": "ఐసీసీ పురుషుల క్రికెట్ ప్రపంచ కప్ 2023ను ఏ దేశం గెలుచుకుంది?",
+    "opts": [
+      "India",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "ans": 1,
+    "exp": "Australia won their sixth ICC Men's Cricket World Cup title by defeating India in the final held at Ahmedabad."
+  },
+  {
+    "id": "P1_BAS_006",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Where is the headquarters of the United Nations (UN) located?",
+    "te": "ఐక్యరాజ్యసమితి (UN) ప్రధాన కార్యాలయం ఎక్కడ ఉంది?",
+    "opts": [
+      "New York",
+      "Geneva",
+      "Paris",
+      "Washington D.C."
+    ],
+    "ans": 0,
+    "exp": "The United Nations headquarters is situated in New York City, USA, established on land donated by John D. Rockefeller Jr."
+  },
+  {
+    "id": "P1_BAS_007",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Which country hosted the 18th G20 Summit in September 2023?",
+    "te": "సెప్టెంబర్ 2023లో 18వ G20 శిఖరాగ్ర సమావేశానికి ఏ దేశం ఆతిథ్యం ఇచ్చింది?",
+    "opts": [
+      "Brazil",
+      "Indonesia",
+      "India",
+      "South Africa"
+    ],
+    "ans": 2,
+    "exp": "India hosted the 18th G20 Summit in New Delhi with the theme 'Vasudhaiva Kutumbakam' or 'One Earth, One Family, One Future'."
+  },
+  {
+    "id": "P1_BAS_008",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "In the international grouping 'BRICS', what does the letter 'S' stand for?",
+    "te": "అంతర్జాతీయ కూటమి 'BRICS'లో, 'S' అక్షరం దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Singapore",
+      "South Korea",
+      "South Africa",
+      "Switzerland"
+    ],
+    "ans": 2,
+    "exp": "BRICS stands for Brazil, Russia, India, China, and South Africa. South Africa joined the group in 2010."
+  },
+  {
+    "id": "P1_BAS_009",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Who is the current Secretary-General of the United Nations (as of 2024)?",
+    "te": "ఐక్యరాజ్యసమితి ప్రస్తుత సెక్రటరీ జనరల్ (2024 నాటికి) ఎవరు?",
+    "opts": [
+      "Ban Ki-moon",
+      "Antonio Guterres",
+      "Kofi Annan",
+      "Tedros Adhanom"
+    ],
+    "ans": 1,
+    "exp": "Antonio Guterres, a Portuguese politician and diplomat, is the ninth Secretary-General of the United Nations."
+  },
+  {
+    "id": "P1_BAS_010",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Where is the Secretariat of the South Asian Association for Regional Cooperation (SAARC) located?",
+    "te": "దక్షిణాసియా ప్రాంతీయ సహకార సంస్థ (SAARC) సచివాలయం ఎక్కడ ఉంది?",
+    "opts": [
+      "New Delhi",
+      "Dhaka",
+      "Kathmandu",
+      "Colombo"
+    ],
+    "ans": 2,
+    "exp": "The SAARC Secretariat was established in Kathmandu, Nepal, on 16 January 1987."
+  },
+  {
+    "id": "P1_BAS_011",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Which was India's first indigenously built satellite launched in 1975?",
+    "te": "1975లో ప్రయోగించిన భారతదేశపు మొట్టమొదటి స్వదేశీ పరిజ్ఞానంతో తయారైన ఉపగ్రహం ఏది?",
+    "opts": [
+      "Aryabhata",
+      "Bhaskara",
+      "Rohini",
+      "Apple"
+    ],
+    "ans": 0,
+    "exp": "Aryabhata was India's first satellite, named after the famous 5th-century Indian astronomer and mathematician."
+  },
+  {
+    "id": "P1_BAS_012",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Who is widely regarded as the 'Father of the Indian Space Program'?",
+    "te": "భారత అంతరిక్ష కార్యక్రమ పితామహుడు అని ఎవరిని పిలుస్తారు?",
+    "opts": [
+      "Homi J. Bhabha",
+      "Vikram Sarabhai",
+      "A.P.J. Abdul Kalam",
+      "Satish Dhawan"
+    ],
+    "ans": 1,
+    "exp": "Dr. Vikram Sarabhai is considered the father of the Indian space program and was instrumental in establishing ISRO."
+  },
+  {
+    "id": "P1_BAS_013",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "What was the code name of India's first successful nuclear bomb test in 1974?",
+    "te": "1974లో భారతదేశం నిర్వహించిన మొదటి విజయవంతమైన అణు పరీక్ష కోడ్ పేరు ఏమిటి?",
+    "opts": [
+      "Operation Shakti",
+      "Smiling Buddha",
+      "Operation Vijay",
+      "Operation Meghdoot"
+    ],
+    "ans": 1,
+    "exp": "Smiling Buddha (Pokhran-I) was the assigned code name of India's first successful nuclear bomb test on 18 May 1974."
+  },
+  {
+    "id": "P1_BAS_014",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Who is popularly known as the 'Missile Man of India'?",
+    "te": "భారతదేశపు 'మిస్సైల్ మ్యాన్' అని ఎవరిని పిలుస్తారు?",
+    "opts": [
+      "C.V. Raman",
+      "Jagadish Chandra Bose",
+      "A.P.J. Abdul Kalam",
+      "Homi J. Bhabha"
+    ],
+    "ans": 2,
+    "exp": "Dr. A.P.J. Abdul Kalam is known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology."
+  },
+  {
+    "id": "P1_BAS_015",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "In which year did India successfully launch the Mars Orbiter Mission (Mangalyaan)?",
+    "te": "భారతదేశం మార్స్ ఆర్బిటర్ మిషన్ (మంగళయాన్)ను ఏ సంవత్సరంలో విజయవంతంగా ప్రయోగించింది?",
+    "opts": [
+      "2010",
+      "2012",
+      "2013",
+      "2015"
+    ],
+    "ans": 2,
+    "exp": "The Mars Orbiter Mission (MOM), also called Mangalyaan, was launched on 5 November 2013 by the Indian Space Research Organisation (ISRO)."
+  },
+  {
+    "id": "P1_BAS_016",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "What is the primary objective of disaster mitigation strategies?",
+    "te": "విపత్తు ఉపశమన (Mitigation) వ్యూహాల యొక్క ప్రాథమిక లక్ష్యం ఏమిటి?",
+    "opts": [
+      "To provide immediate emergency relief",
+      "To reduce the risk and impact of a disaster",
+      "To conduct search and rescue operations",
+      "To provide compensation to victims"
+    ],
+    "ans": 1,
+    "exp": "Mitigation involves taking measures prior to a disaster to reduce its impact and the risks associated with it."
+  },
+  {
+    "id": "P1_BAS_017",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered a 'non-structural' mitigation measure?",
+    "te": "కింది వాటిలో ఏది 'నిర్మాణాత్మక కాని' (non-structural) ఉపశమన చర్యగా పరిగణించబడుతుంది?",
+    "opts": [
+      "Building flood walls",
+      "Constructing earthquake-resistant buildings",
+      "Land-use planning and zoning",
+      "Strengthening embankments"
+    ],
+    "ans": 2,
+    "exp": "Non-structural measures refer to policies, awareness, and land-use planning that do not involve physical construction."
+  },
+  {
+    "id": "P1_BAS_018",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Afforestation (planting trees) is an effective mitigation strategy for which of the following disasters?",
+    "te": "అడవుల పెంపకం (చెట్లను నాటడం) కింది ఏ విపత్తులకు సమర్థవంతమైన ఉపశమన వ్యూహం?",
+    "opts": [
+      "Earthquakes",
+      "Volcanic eruptions",
+      "Soil erosion and Landslides",
+      "Nuclear accidents"
+    ],
+    "ans": 2,
+    "exp": "Trees help bind the soil and reduce the speed of water flow, effectively preventing soil erosion and landslides."
+  },
+  {
+    "id": "P1_BAS_019",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Who is the ex-officio Chairperson of the National Disaster Management Authority (NDMA) in India?",
+    "te": "భారతదేశంలో జాతీయ విపత్తు నిర్వహణ సంస్థ (NDMA) పదవీరీత్యా అధ్యక్షులు ఎవరు?",
+    "opts": [
+      "President of India",
+      "Prime Minister of India",
+      "Union Home Minister",
+      "Minister of Environment"
+    ],
+    "ans": 1,
+    "exp": "The Prime Minister of India is the ex-officio Chairperson of the NDMA, which is the apex body for disaster management."
+  },
+  {
+    "id": "P1_BAS_020",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Which phase of the disaster management cycle focuses on avoiding the potential adverse impacts of hazards through action taken in advance?",
+    "te": "ముందస్తు చర్యల ద్వారా విపత్తుల ప్రతికూల ప్రభావాలను నివారించడంపై విపత్తు నిర్వహణ చక్రంలోని ఏ దశ దృష్టి సారిస్తుంది?",
+    "opts": [
+      "Recovery",
+      "Response",
+      "Prevention",
+      "Rehabilitation"
+    ],
+    "ans": 2,
+    "exp": "Prevention refers to activities designed to provide prior protection from disasters and avoid their adverse impacts."
+  },
+  {
+    "id": "P1_BAS_021",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which is the largest continent in the world by land area?",
+    "te": "భూభాగం పరంగా ప్రపంచంలో అతిపెద్ద ఖండం ఏది?",
+    "opts": [
+      "Asia",
+      "Africa",
+      "North America",
+      "Antarctica"
+    ],
+    "ans": 0,
+    "exp": "Asia is the largest continent on Earth, covering approximately 30% of the world's land area."
+  },
+  {
+    "id": "P1_BAS_022",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which is the longest river in India?",
+    "te": "భారతదేశంలో అతి పొడవైన నది ఏది?",
+    "opts": [
+      "Godavari",
+      "Ganga",
+      "Brahmaputra",
+      "Indus"
+    ],
+    "ans": 1,
+    "exp": "The Ganga is the longest river in India, flowing over 2,525 km from the Himalayas to the Bay of Bengal."
+  },
+  {
+    "id": "P1_BAS_023",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "What is the official State Bird of Telangana?",
+    "te": "తెలంగాణ రాష్ట్ర అధికారిక పక్షి ఏది?",
+    "opts": [
+      "Peacock",
+      "Great Indian Bustard",
+      "Indian Roller (Pala Pitta)",
+      "House Sparrow"
+    ],
+    "ans": 2,
+    "exp": "The Indian Roller, locally known as Pala Pitta, is the state bird of Telangana."
+  },
+  {
+    "id": "P1_BAS_024",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which of the following states does NOT share a border with Telangana?",
+    "te": "కింది వాటిలో ఏ రాష్ట్రం తెలంగాణతో సరిహద్దును పంచుకోదు?",
+    "opts": [
+      "Maharashtra",
+      "Karnataka",
+      "Tamil Nadu",
+      "Chhattisgarh"
+    ],
+    "ans": 2,
+    "exp": "Telangana is a landlocked state bordered by Maharashtra, Chhattisgarh, Karnataka, and Andhra Pradesh, but not Tamil Nadu."
+  },
+  {
+    "id": "P1_BAS_025",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which mountain range separates Europe from Asia?",
+    "te": "ఐరోపాను ఆసియా నుండి వేరు చేసే పర్వత శ్రేణి ఏది?",
+    "opts": [
+      "Himalayas",
+      "Andes",
+      "Ural Mountains",
+      "Alps"
+    ],
+    "ans": 2,
+    "exp": "The Ural Mountains form a natural boundary between the continents of Europe and Asia."
+  },
+  {
+    "id": "P1_BAS_026",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Who discovered the Harappan civilization in 1921?",
+    "te": "1921లో హరప్పా నాగరికతను ఎవరు కనుగొన్నారు?",
+    "opts": [
+      "Dayaram Sahni",
+      "R.D. Banerji",
+      "John Marshall",
+      "Alexander Cunningham"
+    ],
+    "ans": 0,
+    "exp": "Rai Bahadur Dayaram Sahni led the excavations at Harappa in 1921, marking the discovery of the Indus Valley Civilization."
+  },
+  {
+    "id": "P1_BAS_027",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Where was Gautama Buddha born?",
+    "te": "గౌతమ బుద్ధుడు ఎక్కడ జన్మించాడు?",
+    "opts": [
+      "Sarnath",
+      "Lumbini",
+      "Kushinagar",
+      "Bodh Gaya"
+    ],
+    "ans": 1,
+    "exp": "Gautama Buddha was born in Lumbini (modern-day Nepal) around 563 BCE."
+  },
+  {
+    "id": "P1_BAS_028",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Who was the founder of the Mughal Empire in India?",
+    "te": "భారతదేశంలో మొఘల్ సామ్రాజ్య స్థాపకుడు ఎవరు?",
+    "opts": [
+      "Akbar",
+      "Humayun",
+      "Babur",
+      "Shah Jahan"
+    ],
+    "ans": 2,
+    "exp": "Babur founded the Mughal Empire after defeating Ibrahim Lodi in the First Battle of Panipat in 1526."
+  },
+  {
+    "id": "P1_BAS_029",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Who presided over the first session of the Indian National Congress in 1885?",
+    "te": "1885లో జరిగిన భారత జాతీయ కాంగ్రెస్ మొదటి సమావేశానికి ఎవరు అధ్యక్షత వహించారు?",
+    "opts": [
+      "A.O. Hume",
+      "W.C. Bonnerjee",
+      "Dadabhai Naoroji",
+      "Badruddin Tyabji"
+    ],
+    "ans": 1,
+    "exp": "Womesh Chandra Bonnerjee was the first president of the INC session held in Bombay."
+  },
+  {
+    "id": "P1_BAS_030",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "The Kalinga War, which changed Emperor Ashoka's life, took place in which year?",
+    "te": "అశోక చక్రవర్తి జీవితాన్ని మార్చిన కళింగ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+    "opts": [
+      "261 BCE",
+      "273 BCE",
+      "232 BCE",
+      "250 BCE"
+    ],
+    "ans": 0,
+    "exp": "The Kalinga War was fought in 261 BCE, leading Ashoka to renounce war and embrace Buddhism."
+  },
+  {
+    "id": "P1_BAS_031",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "Which of the following is officially recognized as the State Festival of Telangana?",
+    "te": "ఈ క్రింది వాటిలో తెలంగాణ రాష్ట్ర పండుగగా అధికారికంగా గుర్తించబడినది ఏది?",
+    "opts": [
+      "Bathukamma",
+      "Ugadi",
+      "Sankranti",
+      "Deepavali"
+    ],
+    "ans": 0,
+    "exp": "Bathukamma is a floral festival celebrated by the women of Telangana and is recognized as the state festival along with Bonalu."
+  },
+  {
+    "id": "P1_BAS_032",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "The famous Thousand Pillar Temple, a fine specimen of Kakatiya architecture, is located in which district?",
+    "te": "కాకతీయ వాస్తుశిల్పానికి నిదర్శనమైన ప్రసిద్ధ వేయి స్తంభాల గుడి ఏ జిల్లాలో ఉంది?",
+    "opts": [
+      "Hanamkonda",
+      "Nalgonda",
+      "Khammam",
+      "Mahabubnagar"
+    ],
+    "ans": 0,
+    "exp": "The Thousand Pillar Temple is a historic Hindu temple located in the town of Hanamkonda, built during the Kakatiya dynasty."
+  },
+  {
+    "id": "P1_BAS_033",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "Who is popularly known as 'Praja Kavi' (People's Poet) in Telangana?",
+    "te": "తెలంగాణలో 'ప్రజా కవి'గా ప్రసిద్ధి చెందిన వారు ఎవరు?",
+    "opts": [
+      "Kaloji Narayana Rao",
+      "Dasarathi Krishnamacharyulu",
+      "C. Narayana Reddy",
+      "Pothana"
+    ],
+    "ans": 0,
+    "exp": "Kaloji Narayana Rao is known as the People's Poet (Praja Kavi) of Telangana, and his birthday is celebrated as Telangana Language Day."
+  },
+  {
+    "id": "P1_BAS_034",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "In which year was the Ramappa Temple inscribed as a UNESCO World Heritage Site?",
+    "te": "రామప్ప దేవాలయం ఏ సంవత్సరంలో యునెస్కో ప్రపంచ వారసత్వ ప్రదేశంగా గుర్తించబడింది?",
+    "opts": [
+      "2021",
+      "2014",
+      "2018",
+      "2023"
+    ],
+    "ans": 0,
+    "exp": "The Kakatiya Rudreshwara (Ramappa) Temple was inscribed as a UNESCO World Heritage Site in July 2021."
+  },
+  {
+    "id": "P1_BAS_035",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "Which famous dance form of Telangana was revived by Dr. Nataraja Ramakrishna?",
+    "te": "డాక్టర్ నటరాజ రామకృష్ణ ఏ ప్రసిద్ధ తెలంగాణ నృత్య రూపాన్ని పునరుద్ధరించారు?",
+    "opts": [
+      "Perini Sivatandavam",
+      "Kuchipudi",
+      "Kathakali",
+      "Bharatanatyam"
+    ],
+    "ans": 0,
+    "exp": "Perini Sivatandavam is an ancient dance form from the Kakatiya era that was revived by Dr. Nataraja Ramakrishna."
+  },
+  {
+    "id": "P1_BAS_036",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "What is the primary objective of the 'Rythu Bandhu' scheme launched by the Telangana government?",
+    "te": "తెలంగాణ ప్రభుత్వం ప్రారంభించిన 'రైతు బంధు' పథకం యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "Investment support for farmers",
+      "Free seeds distribution",
+      "Crop insurance",
+      "Interest-free loans"
+    ],
+    "ans": 0,
+    "exp": "Rythu Bandhu is an Investment Support Scheme to provide financial assistance to farmers for purchase of inputs like seeds, fertilizers, and pesticides."
+  },
+  {
+    "id": "P1_BAS_037",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "What does 'TS-iPASS' stand for in the context of Telangana's industrial policy?",
+    "te": "తెలంగాణ పారిశ్రామిక విధానం నేపథ్యంలో 'TS-iPASS' అంటే ఏమిటి?",
+    "opts": [
+      "Telangana State Industrial Project Approval and Self-Certification System",
+      "Telangana State Investment Promotion and Single Service",
+      "Telangana State Industrial Policy and Safety System",
+      "Telangana State Infrastructure Project and Service System"
+    ],
+    "ans": 0,
+    "exp": "TS-iPASS stands for Telangana State Industrial Project Approval and Self-Certification System, which provides single-window clearance for industries."
+  },
+  {
+    "id": "P1_BAS_038",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "Under the 'Kalyana Lakshmi' and 'Shaadi Mubarak' schemes, what is the current financial assistance provided to eligible brides?",
+    "te": "'కళ్యాణ లక్ష్మి' మరియు 'షాదీ ముబారక్' పథకాల కింద అర్హులైన వధువులకు ప్రస్తుతం అందిస్తున్న ఆర్థిక సహాయం ఎంత?",
+    "opts": [
+      "Rs. 50,116",
+      "Rs. 75,116",
+      "Rs. 1,00,116",
+      "Rs. 1,11,116"
+    ],
+    "ans": 2,
+    "exp": "The Telangana government provides Rs. 1,00,116 as financial assistance to the families of brides from SC, ST, BC, and minority communities."
+  },
+  {
+    "id": "P1_BAS_039",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "What is the main goal of 'Mission Bhagiratha' in Telangana?",
+    "te": "తెలంగాణలో 'మిషన్ భగీరథ' ప్రధాన లక్ష్యం ఏమిటి?",
+    "opts": [
+      "Construction of new dams",
+      "Providing safe drinking water to every household",
+      "Cleaning of the Musi river",
+      "Promoting organic farming"
+    ],
+    "ans": 1,
+    "exp": "Mission Bhagiratha aims to provide safe and treated piped drinking water to every household in the state."
+  },
+  {
+    "id": "P1_BAS_040",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "Which of the following categories is NOT a beneficiary of the 'Aasara Pensions' scheme?",
+    "te": "'ఆసరా పెన్షన్లు' పథకం కింద ఈ క్రింది వాటిలో ఏ వర్గం లబ్ధిదారు కాదు?",
+    "opts": [
+      "Old age people",
+      "Widows",
+      "Weavers",
+      "Government employees"
+    ],
+    "ans": 3,
+    "exp": "Aasara Pensions are intended for vulnerable sections like the elderly, widows, weavers, and disabled persons, not for government employees."
+  },
+  {
+    "id": "P1_BAS_041",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
+    "te": "భారత రాజ్యాంగంలోని ఏ అధికరణ 'అస్పృశ్యత'ను నిర్మూలిస్తుంది మరియు దానిని ఏ రూపంలోనైనా పాటించడాన్ని నిషేధిస్తుంది?",
+    "opts": [
+      "Article 14",
+      "Article 15",
+      "Article 17",
+      "Article 19"
+    ],
+    "ans": 2,
+    "exp": "Article 17 of the Indian Constitution abolishes untouchability and its practice in any form is a punishable offense."
+  },
+  {
+    "id": "P1_BAS_042",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "In which year was the 'Rights of Persons with Disabilities Act' passed by the Indian Parliament, replacing the 1995 Act?",
+    "te": "1995 చట్టం స్థానంలో భారత పార్లమెంటు 'వికలాంగుల హక్కుల చట్టం'ను ఏ సంవత్సరంలో ఆమోదించింది?",
+    "opts": [
+      "2014",
+      "2015",
+      "2016",
+      "2018"
+    ],
+    "ans": 2,
+    "exp": "The Rights of Persons with Disabilities Act was passed in 2016 to comply with the United Nations Convention on the Rights of Persons with Disabilities."
+  },
+  {
+    "id": "P1_BAS_043",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Which Constitutional Amendment Act provided 33% reservation for women in Panchayati Raj Institutions?",
+    "te": "పంచాయతీరాజ్ సంస్థలలో మహిళలకు 33% రిజర్వేషన్లు కల్పించిన రాజ్యాంగ సవరణ చట్టం ఏది?",
+    "opts": [
+      "71st Amendment",
+      "72nd Amendment",
+      "73rd Amendment",
+      "74th Amendment"
+    ],
+    "ans": 2,
+    "exp": "The 73rd Constitutional Amendment Act, 1992, mandated 1/3rd (33%) reservation for women in local self-government bodies."
+  },
+  {
+    "id": "P1_BAS_044",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution deals with the establishment of the National Commission for Scheduled Castes?",
+    "te": "భారత రాజ్యాంగంలోని ఏ అధికరణ షెడ్యూల్డ్ కులాల జాతీయ కమిషన్ ఏర్పాటు గురించి తెలుపుతుంది?",
+    "opts": [
+      "Article 330",
+      "Article 332",
+      "Article 338",
+      "Article 338A"
+    ],
+    "ans": 2,
+    "exp": "Article 338 provides for the National Commission for Scheduled Castes, while 338A provides for the National Commission for Scheduled Tribes."
+  },
+  {
+    "id": "P1_BAS_045",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "The process of denying certain groups or individuals full access to various opportunities and resources is known as:",
+    "te": "కొన్ని సమూహాలు లేదా వ్యక్తులకు వివిధ అవకాశాలు మరియు వనరులకు పూర్తి ప్రాప్తిని నిరాకరించే ప్రక్రియను ఏమంటారు?",
+    "opts": [
+      "Social Inclusion",
+      "Social Exclusion",
+      "Social Stratification",
+      "Social Mobility"
+    ],
+    "ans": 1,
+    "exp": "Social exclusion is the process in which individuals or entire communities of people are systematically blocked from rights, opportunities, and resources."
+  },
+  {
+    "id": "P1_BAS_046",
+    "paper": "Paper-I",
+    "topic": "Logical Reasoning, Analytical Ability and Data Interpretation",
+    "difficulty": "Basic",
+    "en": "Complete the following number series: 5, 10, 20, 40, ?",
+    "te": "ఈ క్రింది సంఖ్య శ్రేణిని పూర్తి చేయండి: 5, 10, 20, 40, ?",
+    "opts": [
+      "60",
+      "70",
+      "80",
+      "100"
+    ],
+    "ans": 2,
+    "exp": "Each number in the series is multiplied by 2 to get the next number. 40 * 2 = 80."
+  },
+  {
+    "id": "P1_BAS_047",
+    "paper": "Paper-I",
+    "topic": "Logical Reasoning, Analytical Ability and Data Interpretation",
+    "difficulty": "Basic",
+    "en": "If 'CAT' is coded as 'DBU', how is 'DOG' coded in that language?",
+    "te": "'CAT' ను 'DBU' గా కోడ్ చేస్తే, అదే భాషలో 'DOG' ను ఎలా కోడ్ చేస్తారు?",
+    "opts": [
+      "EPH",
+      "FPH",
+      "EOH",
+      "EQH"
+    ],
+    "ans": 0,
+    "exp": "Each letter is shifted by one position forward (C+1=D, A+1=B, T+1=U). Similarly, D+1=E, O+1=P, G+1=H."
+  },
+  {
+    "id": "P1_BAS_048",
+    "paper": "Paper-I",
+    "topic": "Logical Reasoning, Analytical Ability and Data Interpretation",
+    "difficulty": "Basic",
+    "en": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+    "te": "ఒక ఫోటోను చూపిస్తూ ఒక వ్యక్తి ఇలా అన్నాడు, 'నాకు సోదరులు లేదా సోదరీమణులు లేరు కానీ ఆ వ్యక్తి తండ్రి నా తండ్రి కుమారుడు.' అది ఎవరి ఫోటో?",
+    "opts": [
+      "His father's",
+      "His son's",
+      "His own",
+      "His nephew's"
+    ],
+    "ans": 1,
+    "exp": "Since the man has no siblings, 'my father's son' is the man himself. So, the man in the photo's father is the speaker. Thus, it is his son's photo."
+  },
+  {
+    "id": "P1_BAS_049",
+    "paper": "Paper-I",
+    "topic": "Logical Reasoning, Analytical Ability and Data Interpretation",
+    "difficulty": "Basic",
+    "en": "Find the odd one out from the following numbers: 27, 64, 125, 144.",
+    "te": "ఈ క్రింది సంఖ్యలలో భిన్నమైన దానిని గుర్తించండి: 27, 64, 125, 144.",
+    "opts": [
+      "27",
+      "64",
+      "125",
+      "144"
+    ],
+    "ans": 3,
+    "exp": "27 (3^3), 64 (4^3), and 125 (5^3) are perfect cubes, while 144 (12^2) is a perfect square."
+  },
+  {
+    "id": "P1_BAS_050",
+    "paper": "Paper-I",
+    "topic": "Logical Reasoning, Analytical Ability and Data Interpretation",
+    "difficulty": "Basic",
+    "en": "The average of five numbers is 20. If each number is multiplied by 3, what will be the new average?",
+    "te": "ఐదు సంఖ్యల సగటు 20. ప్రతి సంఖ్యను 3తో గుణిస్తే, కొత్త సగటు ఎంత అవుతుంది?",
+    "opts": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "ans": 2,
+    "exp": "If every observation in a data set is multiplied by a constant 'k', the average is also multiplied by 'k'. New average = 20 * 3 = 60."
+  },
+  {
+    "id": "P1_BAS_051",
+    "paper": "Paper-I",
+    "topic": "Basic English (10th Standard Standard Grammar and Vocabulary)",
+    "difficulty": "Basic",
+    "en": "Choose the correct article to fill in the blank: 'He is ____ honest man.'",
+    "te": "ఖాళీని పూరించడానికి సరైన ఆర్టికల్‌ను ఎంచుకోండి: 'He is ____ honest man.'",
+    "opts": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "ans": 1,
+    "exp": "The word 'honest' begins with a silent 'h' and a vowel sound /ɒ/, so 'an' is the correct article."
+  },
+  {
+    "id": "P1_BAS_052",
+    "paper": "Paper-I",
+    "topic": "Basic English (10th Standard Standard Grammar and Vocabulary)",
+    "difficulty": "Basic",
+    "en": "Identify the correct preposition: 'The cat is sitting ____ the table.'",
+    "te": "సరైన ప్రిపోజిషన్‌ను గుర్తించండి: 'The cat is sitting ____ the table.'",
+    "opts": [
+      "under",
+      "between",
+      "into",
+      "at"
+    ],
+    "ans": 0,
+    "exp": "'Under' is used to indicate a position directly below something."
+  },
+  {
+    "id": "P1_BAS_053",
+    "paper": "Paper-I",
+    "topic": "Basic English (10th Standard Standard Grammar and Vocabulary)",
+    "difficulty": "Basic",
+    "en": "Fill in the blank with the correct form of the verb: 'She ____ to school every day.'",
+    "te": "క్రియ యొక్క సరైన రూపంతో ఖాళీని పూరించండి: 'She ____ to school every day.'",
+    "opts": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "ans": 1,
+    "exp": "For third-person singular subjects (She) in the Simple Present Tense, the verb takes 's' or 'es'."
+  },
+  {
+    "id": "P1_BAS_054",
+    "paper": "Paper-I",
+    "topic": "Basic English (10th Standard Standard Grammar and Vocabulary)",
+    "difficulty": "Basic",
+    "en": "What is the synonym of the word 'Happy'?",
+    "te": "'Happy' అనే పదానికి సమానార్థక పదం (Synonym) ఏమిటి?",
+    "opts": [
+      "Sad",
+      "Angry",
+      "Joyful",
+      "Brave"
+    ],
+    "ans": 2,
+    "exp": "'Joyful' is a synonym for 'Happy' as both mean feeling or showing pleasure."
+  },
+  {
+    "id": "P1_BAS_055",
+    "paper": "Paper-I",
+    "topic": "Basic English (10th Standard Standard Grammar and Vocabulary)",
+    "difficulty": "Basic",
+    "en": "Choose the correct conjunction to join the sentences: 'He worked hard ____ he failed the exam.'",
+    "te": "వాక్యాలను కలపడానికి సరైన కంజంక్షన్‌ను ఎంచుకోండి: 'He worked hard ____ he failed the exam.'",
+    "opts": [
+      "and",
+      "but",
+      "because",
+      "so"
+    ],
+    "ans": 1,
+    "exp": "'But' is used to connect two statements that contrast with each other."
+  },
+  {
+    "id": "P1_BAS_056",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Who is the current President of India?",
+    "te": "భారతదేశ ప్రస్తుత రాష్ట్రపతి ఎవరు?",
+    "opts": [
+      "Droupadi Murmu",
+      "Jagdeep Dhankhar",
+      "Ram Nath Kovind",
+      "Pratibha Patil"
+    ],
+    "ans": 0,
+    "exp": "Droupadi Murmu is the 15th and current President of India, serving since 25 July 2022."
+  },
+  {
+    "id": "P1_BAS_057",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Who is the current Chief Minister of Telangana?",
+    "te": "తెలంగాణ ప్రస్తుత ముఖ్యమంత్రి ఎవరు?",
+    "opts": [
+      "K. Chandrashekar Rao",
+      "A. Revanth Reddy",
+      "Mallu Bhatti Vikramarka",
+      "Uttam Kumar Reddy"
+    ],
+    "ans": 1,
+    "exp": "Anumula Revanth Reddy took oath as the second Chief Minister of Telangana on December 7, 2023."
+  },
+  {
+    "id": "P1_BAS_058",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Which country hosted the 18th G20 Summit in September 2023?",
+    "te": "సెప్టెంబర్ 2023లో 18వ G20 శిఖరాగ్ర సమావేశానికి ఏ దేశం ఆతిథ్యం ఇచ్చింది?",
+    "opts": [
+      "Brazil",
+      "Indonesia",
+      "India",
+      "South Africa"
+    ],
+    "ans": 2,
+    "exp": "The 18th G20 Summit was held in New Delhi, India, with the theme 'Vasudhaiva Kutumbakam'."
+  },
+  {
+    "id": "P1_BAS_059",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "What is the name of India's first solar mission launched by ISRO in 2023?",
+    "te": "2023లో ISRO ప్రయోగించిన భారతదేశపు మొట్టమొదటి సౌర మిషన్ పేరు ఏమిటి?",
+    "opts": [
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Gaganyaan",
+      "Mangalyaan-2"
+    ],
+    "ans": 1,
+    "exp": "Aditya-L1 is India's first space-based observatory-class solar mission to study the Sun."
+  },
+  {
+    "id": "P1_BAS_060",
+    "paper": "Paper-I",
+    "topic": "Current Affairs (Regional, National, International)",
+    "difficulty": "Basic",
+    "en": "Who is the current Secretary-General of the United Nations?",
+    "te": "ఐక్యరాజ్యసమితి ప్రస్తుత సెక్రటరీ జనరల్ ఎవరు?",
+    "opts": [
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "António Guterres",
+      "Tedros Adhanom"
+    ],
+    "ans": 2,
+    "exp": "António Guterres is a Portuguese politician serving as the ninth Secretary-General of the United Nations."
+  },
+  {
+    "id": "P1_BAS_061",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Where is the headquarters of the United Nations (UN) located?",
+    "te": "ఐక్యరాజ్యసమితి (UN) ప్రధాన కార్యాలయం ఎక్కడ ఉంది?",
+    "opts": [
+      "New York",
+      "Geneva",
+      "Paris",
+      "Washington D.C."
+    ],
+    "ans": 0,
+    "exp": "The United Nations headquarters is located in New York City, USA, on land considered international territory."
+  },
+  {
+    "id": "P1_BAS_062",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Which of the following countries is NOT a member of the SAARC organization?",
+    "te": "ఈ క్రింది దేశాలలో ఏది సార్క్ (SAARC) సంస్థలో సభ్యదేశం కాదు?",
+    "opts": [
+      "India",
+      "Pakistan",
+      "Myanmar",
+      "Nepal"
+    ],
+    "ans": 2,
+    "exp": "SAARC consists of 8 members: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. Myanmar is not a member."
+  },
+  {
+    "id": "P1_BAS_063",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Which country hosted the 18th G20 Summit in September 2023?",
+    "te": "సెప్టెంబర్ 2023లో 18వ జి20 (G20) శిఖరాగ్ర సమావేశానికి ఏ దేశం ఆతిథ్యం ఇచ్చింది?",
+    "opts": [
+      "Brazil",
+      "India",
+      "Indonesia",
+      "South Africa"
+    ],
+    "ans": 1,
+    "exp": "India hosted the 18th G20 Summit in New Delhi with the theme 'Vasudhaiva Kutumbakam'."
+  },
+  {
+    "id": "P1_BAS_064",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "How many permanent members are there in the United Nations Security Council (UNSC)?",
+    "te": "ఐక్యరాజ్యసమితి భద్రతా మండలి (UNSC)లో ఎన్ని శాశ్వత సభ్య దేశాలు ఉన్నాయి?",
+    "opts": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "ans": 1,
+    "exp": "The UNSC has 5 permanent members (P5): China, France, Russia, the UK, and the USA."
+  },
+  {
+    "id": "P1_BAS_065",
+    "paper": "Paper-I",
+    "topic": "International Relations and Events",
+    "difficulty": "Basic",
+    "en": "Where is the headquarters of the World Health Organization (WHO) situated?",
+    "te": "ప్రపంచ ఆరోగ్య సంస్థ (WHO) ప్రధాన కార్యాలయం ఎక్కడ ఉంది?",
+    "opts": [
+      "London",
+      "Rome",
+      "Geneva",
+      "Vienna"
+    ],
+    "ans": 2,
+    "exp": "The World Health Organization (WHO) is a specialized agency of the UN headquartered in Geneva, Switzerland."
+  },
+  {
+    "id": "P1_BAS_066",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Which was India's first satellite launched into space in 1975?",
+    "te": "1975లో అంతరిక్షంలోకి ప్రయోగించబడిన భారతదేశపు మొట్టమొదటి ఉపగ్రహం ఏది?",
+    "opts": [
+      "Aryabhata / ఆర్యభట్ట",
+      "Bhaskara-I / భాస్కర-I",
+      "Rohini / రోహిణి",
+      "INSAT-1A / ఇన్‌శాట్-1A"
+    ],
+    "ans": 0,
+    "exp": "Aryabhata was India's first satellite, launched on 19 April 1975 using a Soviet Kosmos-3M launch vehicle."
+  },
+  {
+    "id": "P1_BAS_067",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Who is widely regarded as the 'Father of the Indian Space Program'?",
+    "te": "'భారత అంతరిక్ష కార్యక్రమ పితామహుడు'గా ఎవరిని పరిగణిస్తారు?",
+    "opts": [
+      "Dr. Vikram Sarabhai / డాక్టర్ విక్రమ్ సారాభాయ్",
+      "Dr. Homi J. Bhabha / డాక్టర్ హోమీ జె. బాబా",
+      "Dr. A.P.J. Abdul Kalam / డాక్టర్ ఎ.పి.జె. అబ్దుల్ కలాం",
+      "Prof. Satish Dhawan / ప్రొఫెసర్ సతీష్ ధావన్"
+    ],
+    "ans": 0,
+    "exp": "Dr. Vikram Sarabhai is considered the Father of the Indian Space Program, having established ISRO and INCOSPAR."
+  },
+  {
+    "id": "P1_BAS_068",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "What was the code name for India's first successful nuclear test conducted at Pokhran in 1974?",
+    "te": "1974లో పోఖ్రాన్‌లో నిర్వహించిన భారతదేశపు మొట్టమొదటి విజయవంతమైన అణు పరీక్ష కోడ్ పేరు ఏమిటి?",
+    "opts": [
+      "Operation Vijay / ఆపరేషన్ విజయ్",
+      "Smiling Buddha / స్మైలింగ్ బుద్ధ",
+      "Operation Shakti / ఆపరేషన్ శక్తి",
+      "Operation Meghdoot / ఆపరేషన్ మేఘదూత్"
+    ],
+    "ans": 1,
+    "exp": "The 1974 test at Pokhran, Rajasthan, was assigned the code name 'Smiling Buddha' (officially designated as Pokhran-I)."
+  },
+  {
+    "id": "P1_BAS_069",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Which was India's first indigenously developed supercomputer built by C-DAC in 1991?",
+    "te": "1991లో C-DAC ద్వారా స్వదేశీ పరిజ్ఞానంతో అభివృద్ధి చేయబడిన భారతదేశపు మొట్టమొదటి సూపర్ కంప్యూటర్ ఏది?",
+    "opts": [
+      "PARAM 8000 / పరమ్ 8000",
+      "PARAM Padma / పరమ్ పద్మ",
+      "Pratyush / ప్రత్యూష్",
+      "Mihir / మిహిర్"
+    ],
+    "ans": 0,
+    "exp": "PARAM 8000, developed by the Centre for Development of Advanced Computing (C-DAC) under Dr. Vijay Bhatkar, was India's first supercomputer."
+  },
+  {
+    "id": "P1_BAS_070",
+    "paper": "Paper-I",
+    "topic": "General Science: India's Achievements in Science and Technology",
+    "difficulty": "Basic",
+    "en": "Which Indian lunar mission detected evidence of water molecules on the Moon's surface?",
+    "te": "చంద్రుని ఉపరితలంపై నీటి అణువుల ఉనికిని కనుగొన్న భారత చంద్ర మిషన్ ఏది?",
+    "opts": [
+      "Chandrayaan-1 / చంద్రయాన్-1",
+      "Chandrayaan-2 / చంద్రయాన్-2",
+      "Chandrayaan-3 / చంద్రయాన్-3",
+      "Mangalyaan / మంగళ్యాన్"
+    ],
+    "ans": 0,
+    "exp": "India's first lunar probe, Chandrayaan-1 (launched in 2008), made the landmark discovery of water molecules on the lunar surface."
+  },
+  {
+    "id": "P1_BAS_071",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "What is the primary objective of disaster mitigation strategies?",
+    "te": "విపత్తు నివారణ వ్యూహాల యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To completely eliminate natural phenomena / సహజ దృగ్విషయాలను పూర్తిగా తొలగించడం",
+      "To reduce the potential impact and risks of disasters / విపత్తుల సంభావ్య ప్రభావం మరియు నష్టాలను తగ్గించడం",
+      "To provide relief only after a disaster occurs / విపత్తు సంభవించిన తర్వాత మాత్రమే సహాయం అందించడం",
+      "To predict the exact minute of a disaster / విపత్తు యొక్క ఖచ్చితమైన నిమిషాన్ని అంచనా వేయడం"
+    ],
+    "ans": 1,
+    "exp": "Mitigation strategies aim to minimize the loss of life and property by reducing the impact of disasters before they strike."
+  },
+  {
+    "id": "P1_BAS_072",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered a structural mitigation measure?",
+    "te": "కింది వాటిలో ఏది నిర్మాణపరమైన నివారణ చర్యగా పరిగణించబడుతుంది?",
+    "opts": [
+      "Building cyclone shelters / తుఫాను ఆశ్రయాలను నిర్మించడం",
+      "Conducting public awareness campaigns / ప్రజలలో అవగాహన కార్యక్రమాలు నిర్వహించడం",
+      "Enacting zoning laws / జోనింగ్ చట్టాలను అమలు చేయడం",
+      "Establishing early warning systems training / ముందస్తు హెచ్చరిక వ్యవస్థల శిక్షణ ఏర్పాటు చేయడం"
+    ],
+    "ans": 0,
+    "exp": "Structural mitigation involves physical construction or engineering measures, such as building dams, dykes, and cyclone shelters."
+  },
+  {
+    "id": "P1_BAS_073",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "National Disaster Management Authority (NDMA) in India is headed by whom?",
+    "te": "భారతదేశంలో నేషనల్ డిజాస్టర్ మేనేజ్మెంట్ అథారిటీ (NDMA)కి ఎవరు అధిపతిగా ఉంటారు?",
+    "opts": [
+      "President of India / భారతదేశ రాష్ట్రపతి",
+      "Prime Minister of India / భారతదేశ ప్రధాన మంత్రి",
+      "Union Home Minister / కేంద్ర హోం మంత్రి",
+      "Minister of Environment / పర్యావరణ మంత్రి"
+    ],
+    "ans": 1,
+    "exp": "The Prime Minister of India is the ex-officio Chairperson of the National Disaster Management Authority (NDMA)."
+  },
+  {
+    "id": "P1_BAS_074",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "Planting trees along coastal areas is a primary mitigation strategy against which disaster?",
+    "te": "తీర ప్రాంతాల వెంబడి మొక్కలు నాటడం ఏ విపత్తుకు వ్యతిరేకంగా ప్రాథమిక నివారణ వ్యూహం?",
+    "opts": [
+      "Earthquakes / భూకంపాలు",
+      "Cyclones and Tsunamis / తుఫానులు మరియు సునామీలు",
+      "Droughts / కరువులు",
+      "Landslides / కొండచరలు విరిగిపడటం"
+    ],
+    "ans": 1,
+    "exp": "Mangroves and coastal shelterbelts act as natural buffers to reduce the impact of cyclones and tsunamis."
+  },
+  {
+    "id": "P1_BAS_075",
+    "paper": "Paper-I",
+    "topic": "Environmental Issues: Disaster Management - Prevention and Mitigation Strategies",
+    "difficulty": "Basic",
+    "en": "What does the term 'Capacity Building' in disaster management refer to?",
+    "te": "విపత్తు నిర్వహణలో 'కెపాసిటీ బిల్డింగ్' (సామర్థ్య పెంపుదల) అనే పదం దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Increasing the financial debt of a nation / దేశ ఆర్థిక రుణాన్ని పెంచడం",
+      "Strengthening the skills, resources, and abilities of communities to manage disasters / విపత్తులను నిర్వహించడానికి సంఘాల నైపుణ్యాలు, వనరులు మరియు సామర్థ్యాలను బలోపేతం చేయడం",
+      "Expanding the geographical area of cities / నగరాల భౌగోళిక విస్తీర్ణాన్ని విస్తరించడం",
+      "Increasing the frequency of disaster occurrences / విపత్తుల సంభవించే ఫ్రీక్వెన్సీని పెంచడం"
+    ],
+    "ans": 1,
+    "exp": "Capacity building involves strengthening the knowledge, skills, and systems of individuals and communities to effectively prevent and respond to disasters."
+  },
+  {
+    "id": "P1_BAS_076",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which is the largest and deepest ocean in the world?",
+    "te": "ప్రపంచంలోకెల్లా అతిపెద్ద మరియు లోతైన మహాసముద్రం ఏది?",
+    "opts": [
+      "Pacific Ocean / పసిఫిక్ మహాసముద్రం",
+      "Atlantic Ocean / అట్లాంటిక్ మహాసముద్రం",
+      "Indian Ocean / హిందూ మహాసముద్రం",
+      "Arctic Ocean / ఆర్కిటిక్ మహాసముద్రం"
+    ],
+    "ans": 0,
+    "exp": "The Pacific Ocean is both the largest and deepest of the world's oceans, covering more than 30% of the Earth's surface."
+  },
+  {
+    "id": "P1_BAS_077",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which is the highest mountain peak located in India?",
+    "te": "భారతదేశంలో ఉన్న అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+    "opts": [
+      "K2 (Mount Godwin-Austen) / కె2",
+      "Kangchenjunga / కాంచన్‌జంగా",
+      "Nanda Devi / నందాదేవి",
+      "Anamudi / అనైముడి"
+    ],
+    "ans": 1,
+    "exp": "Kangchenjunga (8,586 m), located on the border between India (Sikkim) and Nepal, is the highest peak located within undisputed Indian territory."
+  },
+  {
+    "id": "P1_BAS_078",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "The Tropic of Cancer passes through how many Indian States?",
+    "te": "కర్కటరేఖ భారతదేశంలోని ఎన్ని రాష్ట్రాల గుండా వెళుతుంది?",
+    "opts": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "ans": 2,
+    "exp": "The Tropic of Cancer (23.5° N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+  },
+  {
+    "id": "P1_BAS_079",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "Which is the longest river that flows through the state of Telangana?",
+    "te": "తెలంగాణ రాష్ట్రం గుండా ప్రవహించే అత్యంత పొడవైన నది ఏది?",
+    "opts": [
+      "Krishna / కృష్ణా",
+      "Godavari / గోదావరి",
+      "Manjira / మంజీరా",
+      "Musi / మూసి"
+    ],
+    "ans": 1,
+    "exp": "The Godavari is the longest river flowing through Telangana, entering the state at Kandakurthi in Nizamabad district."
+  },
+  {
+    "id": "P1_BAS_080",
+    "paper": "Paper-I",
+    "topic": "World Geography, Indian Geography and Geography of Telangana State",
+    "difficulty": "Basic",
+    "en": "How many Indian states share land borders with Telangana?",
+    "te": "తెలంగాణ రాష్ట్రంతో ఎన్ని భారతీయ రాష్ట్రాలు భూ సరిహద్దును పంచుకుంటున్నాయి?",
+    "opts": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "ans": 1,
+    "exp": "Telangana is a landlocked state bordered by 4 states: Maharashtra to the north/northwest, Chhattisgarh to the northeast, Karnataka to the west, and Andhra Pradesh to the south and east."
+  },
+  {
+    "id": "P1_BAS_081",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Which of the following Vedas is considered the oldest and contains hymns dedicated to various deities?",
+    "te": "కింది వాటిలో ఏ వేదాన్ని అత్యంత ప్రాచీనమైనదిగా పరిగణిస్తారు మరియు ఇది వివిధ దేవతలకు అంకితం చేయబడిన శ్లోకాలను కలిగి ఉంది?",
+    "opts": [
+      "Samaveda / సామవేదం",
+      "Yajurveda / యజుర్వేదం",
+      "Rigveda / రుగ్వేదం",
+      "Atharvaveda / అథర్వవేదం"
+    ],
+    "ans": 2,
+    "exp": "The Rigveda is the oldest of the four Vedas and consists of a collection of 1,028 hymns dedicated to Rigvedic deities. / రుగ్వేదం నాలుగు వేదాలలో అత్యంత ప్రాచీనమైనది మరియు ఇది రుగ్వైదిక దేవతలకు అంకితం చేయబడిన 1,028 సూక్తాలను కలిగి ఉంది."
+  },
+  {
+    "id": "P1_BAS_082",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Who was the founder of the Maurya Empire in ancient India?",
+    "te": "प्राచీన భారతదేశంలో మౌర్య సామ్రాజ్యాన్ని స్థాపించిన వారు ఎవరు?",
+    "opts": [
+      "Ashoka / అశోకుడు",
+      "Chandragupta Maurya / చంద్రగుప్త మౌర్యుడు",
+      "Bindusara / బిందుసారుడు",
+      "Samudragupta / సముద్రగుప్తుడు"
+    ],
+    "ans": 1,
+    "exp": "Chandragupta Maurya founded the Maurya Empire in 321 BCE with the help of Chanakya by overthrowing the Nanda Empire. / చాణక్యుని సహాయంతో నంద సామ్రాజాన్ని ఓడించి చంద్రగుప్త మౌర్యుడు క్రీ.పూ. 321లో మౌర్య సామ్రాజ్యాన్ని స్థాపించాడు."
+  },
+  {
+    "id": "P1_BAS_083",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "The famous rock-cut Kailash Temple at Ellora was built by which dynasty?",
+    "te": "ఎల్లోరాలోని ప్రసిద్ధ రాతితో చెక్కిన కైలాస ఆలయాన్ని ఏ రాజవంశం నిర్మించింది?",
+    "opts": [
+      "Rashtrakutas / రాష్ట్రకూటలు",
+      "Chalukyas / చాళుక్యులు",
+      "Pallavas / పల్లవులు",
+      "Cholas / చోళులు"
+    ],
+    "ans": 0,
+    "exp": "The monolithic Kailash Temple (Cave 16) at Ellora was built by the Rashtrakuta king Krishna I in the 8th century. / ఎల్లోరాలోని ఏకశిలా కైలాస ఆలయాన్ని (గుహ 16) 8వ శతాబ్దంలో రాష్ట్రకూట రాజు మొదటి కృష్ణుడు నిర్మించాడు."
+  },
+  {
+    "id": "P1_BAS_084",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "In which year did the Battle of Plassey take place, marking a major turning point in British Indian history?",
+    "te": "బ్రిటిష్ భారత చరిత్రలో ప్రధాన మలుపు తిప్పిన ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+    "opts": [
+      "1526",
+      "1757",
+      "1857",
+      "1947"
+    ],
+    "ans": 1,
+    "exp": "The Battle of Plassey was fought on June 23, 1757, establishing British political supremacy in Bengal. / ప్లాసీ యుద్ధం జూన్ 23, 1757న జరిగింది, ఇది బెంగాల్‌లో బ్రిటిష్ రాజకీయ ఆధిపత్యాన్ని స్థాపించింది."
+  },
+  {
+    "id": "P1_BAS_085",
+    "paper": "Paper-I",
+    "topic": "History and Cultural Heritage of India",
+    "difficulty": "Basic",
+    "en": "Who gave the famous slogan \"Swaraj is my birthright and I shall have it\"?",
+    "te": "\"స్వరాజ్యం నా జన్మహక్కు మరియు నేను దానిని సాధిస్తాను\" అనే ప్రసిద్ధ నినాదాన్ని ఎవరు ఇచ్చారు?",
+    "opts": [
+      "Mahatma Gandhi / మహాత్మా గాంధీ",
+      "Subhas Chandra Bose / సుభాష్ చంద్రబోస్",
+      "Bal Gangadhar Tilak / బాల్ గంగాధర్ తిలక్",
+      "Bhagat Singh / భగత్ సింగ్"
+    ],
+    "ans": 2,
+    "exp": "Bal Gangadhar Tilak raised the slogan of Swaraj, inspiring the nationalist movement during the Indian freedom struggle. / బాల్ గంగాధర్ తిలక్ స్వరాజ్య నినాదాన్ని లేవనెత్తి, భారత స్వాతంత్ర్య పోరాటంలో జాతీయవాద ఉద్యమానికి స్ఫూర్తినిచ్చారు."
+  },
+  {
+    "id": "P1_BAS_086",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "The nine-day floral festival of Telangana, 'Bathukamma', begins on which of the following days?",
+    "te": "తెలంగాణ పూల పండుగ అయిన 'బతుకమ్మ' తొమ్మిది రోజుల ఉత్సవాలు క్రింది ఏ రోజున ప్రారంభమవుతాయి?",
+    "opts": [
+      "Mahalaya Amavasya (Pethara Amavasya) / మహాలయ అమావాస్య (పెత్రమాస)",
+      "Ashwayuja Ashtami / ఆశ్వయుజ అష్టమి",
+      "Kartika Pournami / కార్తీక పౌర్ణమి",
+      "Deepavali Amavasya / దీపావళి అమావాస్య"
+    ],
+    "ans": 0,
+    "exp": "The Bathukamma festival begins on Mahalaya Amavasya (locally known as Pethara Amavasya or Engili Pula Bathukamma) and concludes on Durgashtami as Saddula Bathukamma."
+  },
+  {
+    "id": "P1_BAS_087",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "'Pochampally Ikat', renowned for its unique traditional tie-and-dye weaving style and GI tag, is situated in which district of Telangana?",
+    "te": "సాంప్రదాయ టై-అండ్-డై నేత శైలికి మరియు భౌగోళిక గుర్తింపు (GI ట్యాగ్) కు ప్రసిద్ధి చెందిన 'పోచంపల్లి ఇకత్' తెలంగాణలోని ఏ జిల్లాలో ఉంది?",
+    "opts": [
+      "Siddipet / సిద్దిపేట",
+      "Yadadri Bhuvanagiri / యాదాద్రి భువనగిరి",
+      "Nalgonda / నల్గొండ",
+      "Warangal / వరంగల్"
+    ],
+    "ans": 1,
+    "exp": "Bhoodan Pochampally, famous for its handwoven Ikat sarees, is located in the Yadadri Bhuvanagiri district of Telangana."
+  },
+  {
+    "id": "P1_BAS_088",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "Which famous temple of Telangana was inscribed as a UNESCO World Heritage Site in July 2021?",
+    "te": "జూలై 2021లో యునెస్కో (UNESCO) ప్రపంచ వారసత్వ ప్రదేశంగా గుర్తింపు పొందిన తెలంగాణలోని ప్రసిద్ధ దేవాలయం ఏది?",
+    "opts": [
+      "Ramappa Temple (Rudreshwara Temple) / రామప్ప దేవాలయం (రుద్రేశ్వర ఆలయం)",
+      "Thousand Pillar Temple / వేయి స్తంభాల గుడి",
+      "Bhadradri Sitaramachandra Swamy Temple / భద్రాద్రి సీతారామచంద్రస్వామి ఆలయం",
+      "Alampur Jogulamba Temple / అలంపూర్ జోగులాంబ ఆలయం"
+    ],
+    "ans": 0,
+    "exp": "The Kakatiya Rudreshwara (Ramappa) Temple at Palampet in Mulugu district was inscribed as a UNESCO World Heritage Site in July 2021."
+  },
+  {
+    "id": "P1_BAS_089",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "'Telangana Bhasha Dinotsavam' (Telangana Language Day) is celebrated every year on September 9th to commemorate the birth anniversary of which eminent personality?",
+    "te": "ఏ ప్రముఖ రచయిత/కవి జయంతిని పురస్కరించుకుని ప్రతి సంవత్సరం సెప్టెంబర్ 9న 'తెలంగాణ భాషా దినోత్సవం'గా జరుపుకుంటారు?",
+    "opts": [
+      "Dasarathi Krishnamacharyulu / దాశరథి కృష్ణమాచార్యులు",
+      "Kaloji Narayana Rao / కాళోజీ నారాయణరావు",
+      "C. Narayana Reddy / సి. నారాయణ రెడ్డి",
+      "Pothana / పోతన"
+    ],
+    "ans": 1,
+    "exp": "The Telangana government designated September 9th, the birth anniversary of Padma Vibhushan Kaloji Narayana Rao, as 'Telangana Bhasha Dinotsavam'."
+  },
+  {
+    "id": "P1_BAS_090",
+    "paper": "Paper-I",
+    "topic": "Society, Culture, Heritage, Arts and Literature of Telangana",
+    "difficulty": "Basic",
+    "en": "The famous biennial tribal festival 'Sammakka Saralamma Jatara' takes place in which district of Telangana?",
+    "te": "తెలంగాణలోని ప్రసిద్ధ ద్వైవార్షిక గిరిజన పండుగ 'సమ్మక్క సారలమ్మ జాతర' ఏ జిల్లాలో జరుగుతుంది?",
+    "opts": [
+      "Mulugu / ములుగు",
+      "Jayashankar Bhupalpally / జయశంకర్ భూపాలపల్లి",
+      "Mahabubabad / మహబూబాబాద్",
+      "Bhadradri Kothagudem / భద్రాద్రి కొత్తగూడెం"
+    ],
+    "ans": 0,
+    "exp": "Sammakka Saralamma Jatara (also known as Medaram Jatara) is held at Medaram village in Tadvai Mandal of Mulugu district."
+  },
+  {
+    "id": "TSPSC_G2_P1_001",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "What is the primary objective of the 'Rythu Bandhu' scheme implemented by the Telangana government?",
+    "te": "తెలంగాణ ప్రభుత్వం అమలు చేస్తున్న 'రైతు బంధు' పథకం యొక్క ప్రాథమిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Providing free electricity to industries / పరిశ్రమలకు ఉచిత విద్యుత్ అందించడం",
+      "Investment support for agriculture to farmers / రైతులకు వ్యవసాయ పెట్టుబడి సాయం అందించడం",
+      "Providing unemployment allowance to youth / యువతకు నిరుద్యోగ భృతి అందించడం",
+      "Financial assistance for marriages of poor girls / పేద ఆడపిల్లల వివాహాలకు ఆర్థిక సాయం"
+    ],
+    "ans": 1,
+    "exp": "Rythu Bandhu is a farmer investment support scheme providing financial assistance per acre per season to land-owning farmers in Telangana. / రైతు బంధు అనేది తెలంగాణలో భూమి ఉన్న రైతులకు ఎకరానికి ప్రతి సీజన్‌కు ఆర్థిక సహాయం అందించే రైతు పెట్టుబడి మద్దతు పథకం."
+  },
+  {
+    "id": "TSPSC_G2_P1_002",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "TS-iPASS is related to which of the following sectors in Telangana?",
+    "te": "TS-iPASS తెలంగాణలో క్రింది ఏ రంగానికి సంబంధించినది?",
+    "opts": [
+      "Agriculture and Irrigation / వ్యవసాయం మరియు నీటిపారుదల",
+      "Single-window industrial approvals / సింగిల్-విండో పారిశ్రామిక అనుమతులు",
+      "Free education and hostels / ఉచిత విద్య మరియు హాస్టళ్లు",
+      "Healthcare and sanitation / ఆరోగ్య సంరక్షణ మరియు పారిశుధ్యం"
+    ],
+    "ans": 1,
+    "exp": "TS-iPASS (Telangana State Industrial Project Approval and Self-Certification System) facilitates single-window clearances for setting up industries in the state. / TS-iPASS రాష్ట్రంలో పరిశ్రమల ఏర్పాటుకు సింగిల్-విండో అనుమతులను సులభతరం చేస్తుంది."
+  },
+  {
+    "id": "TSPSC_G2_P1_003",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "Which flagship mission of Telangana aims to provide safe drinking water to every household?",
+    "te": "ప్రతి ఇంటికి సురక్షితమైన తాగునీటిని అందించాలని లక్ష్యంగా పెట్టుకున్న తెలంగాణ యొక్క ప్రధాన మిషన్ ఏది?",
+    "opts": [
+      "Mission Kakatiya / మిషన్ కాకతీయ",
+      "Mission Bhagiratha / మిషన్ భగీరథ",
+      "Haritha Haram / హరిత హారం",
+      "Rythu Bharosa / రైతు భరోసా"
+    ],
+    "ans": 1,
+    "exp": "Mission Bhagiratha is designed to supply piped, treated drinking water to every household in rural and urban areas of Telangana. / తెలంగాణలోని గ్రామీణ మరియు పట్టణ ప్రాంతాలలో ప్రతి ఇంటికి పైపుల ద్వారా శుద్ధి చేసిన తాగునీటిని అందించడానికి మిషన్ భగీరథ రూపొందించబడింది."
+  },
+  {
+    "id": "TSPSC_G2_P1_004",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "What is the main focus of 'Mission Kakatiya' in Telangana?",
+    "te": "తెలంగాణలో 'మిషన్ కాకతీయ' యొక్క ప్రధాన దృష్టి ఎিসের మీద ఉంది?",
+    "opts": [
+      "Restoration of minor irrigation tanks and lakes / చిన్న నీటిపారుదల చెరువులు మరియు కుంటల పునరుద్ధరణ",
+      "Planting saplings across the state / రాష్ట్రవ్యాప్తంగా మొక్కలు నాటడం",
+      "Providing loans to women self-help groups / మహిళా స్వయం సహాయక సంఘాలకు రుణాలు ఇవ్వడం",
+      "Developing IT corridors in districts / జిల్లాలలో ఐటీ కారిడార్ల అభివృద్ధి"
+    ],
+    "ans": 0,
+    "exp": "Mission Kakatiya aims at the revival and restoration of minor irrigation tanks and water bodies in Telangana to improve agriculture. / వ్యవసాయాన్ని మెరుగుపరచడానికి తెలంగాణలోని చిన్న నీటిపారుదల చెరువులు మరియు జలవనరుల పునరుద్ధరణే మిషన్ కాకతీయ ముఖ్య ఉద్దేశం."
+  },
+  {
+    "id": "TSPSC_G2_P1_005",
+    "paper": "Paper-I",
+    "topic": "Policies of Telangana State (Welfare and Industrial Schemes)",
+    "difficulty": "Basic",
+    "en": "Which welfare scheme in Telangana provides financial assistance for the marriage of unmarried women from economically weaker sections?",
+    "te": "ఆర్థికంగా వెనుకబడిన వర్గాల పెళ్లి కాని మహిళల వివాహం కోసం తెలంగాణలో ఏ సంక్షేమ పథకం ఆర్థిక సహాయం అందిస్తుంది?",
+    "opts": [
+      "Kanti Velugu / కాంతి వెలుగు",
+      "Aasara Pensions / ఆసరా పెన్షన్లు",
+      "Kalyana Lakshmi / Shaadi Mubarak / కల్యాణ లక్ష్మి / షాదీ ముబారక్",
+      "Dalitha Bandhu / దళిత బంధు"
+    ],
+    "ans": 2,
+    "exp": "Kalyana Lakshmi and Shaadi Mubarak schemes provide financial aid to brides from economically weaker sections of society at the time of marriage. / కల్యాణ లక్ష్మి మరియు షాదీ ముబారక్ పథకాలు సమాజంలోని ఆర్థికంగా వెనుకబడిన వర్గాల వధువులకు వివాహ సమయంలో ఆర్థిక సహాయం అందిస్తాయి."
+  },
+  {
+    "id": "P1_BAS_096",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
+    "te": "భారత రాజ్యాంగంలోని ఏ అధికరణ 'అంటరానితనం'ను రద్దు చేసి, ఏ రూపంలోనైనా దాని ఆచరణను నిషేధిస్తుంది?",
+    "opts": [
+      "Article 14 / అధికరణ 14",
+      "Article 17 / అధికరణ 17",
+      "Article 19 / అధికరణ 19",
+      "Article 21 / అధికరణ 21"
+    ],
+    "ans": 1,
+    "exp": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form as a fundamental right under the Right to Equality."
+  },
+  {
+    "id": "P1_BAS_097",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Under the Rights of Persons with Disabilities (RPwD) Act, 2016, how many types of benchmark disabilities are recognized?",
+    "te": "వికలాంగుల హక్కుల చట్టం (RPwD Act), 2016 ప్రకారం ఎన్ని రకాల వైకల్యాలు గుర్తించబడ్డాయి?",
+    "opts": [
+      "7",
+      "14",
+      "21",
+      "28"
+    ],
+    "ans": 2,
+    "exp": "The Rights of Persons with Disabilities Act, 2016 increased the recognized number of disabilities from 7 (under the 1995 Act) to 21."
+  },
+  {
+    "id": "P1_BAS_098",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution provides for the establishment of the National Commission for Scheduled Tribes (NCST)?",
+    "te": "భారత రాజ్యాంగంలోని ఏ అధికరణ జాతీయ షెడ్యూల్డ్ తెగల కమిషన్ (NCST) ఏర్పాటును తెలియజేస్తుంది?",
+    "opts": [
+      "Article 338 / అధికరణ 338",
+      "Article 338A / అధికరణ 338A",
+      "Article 338B / అధికరణ 338B",
+      "Article 340 / అధికరణ 340"
+    ],
+    "ans": 1,
+    "exp": "Article 338A was inserted by the 89th Constitutional Amendment Act, 2003, creating a separate National Commission for Scheduled Tribes."
+  },
+  {
+    "id": "P1_BAS_099",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "According to the 73rd Constitutional Amendment Act, what is the minimum proportion of seats reserved for women in Panchayati Raj Institutions?",
+    "te": "73వ రాజ్యాంగ సవరణ చట్టం ప్రకారం, పంచాయతీ రాజ్ సంస్థలలో మహిళలకు కల్పించబడిన కనీస రిజర్వేషన్ నిష్పత్తి ఎంత?",
+    "opts": [
+      "One-fourth (1/4) / నాల్గవ వంతు (1/4)",
+      "One-third (1/3) / మూడవ వంతు (1/3)",
+      "One-half (1/2) / సగం (1/2)",
+      "Two-thirds (2/3) / మూడింట రెండు వంతులు (2/3)"
+    ],
+    "ans": 1,
+    "exp": "Article 243D(3) mandates that not less than one-third of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women."
+  },
+  {
+    "id": "P1_BAS_100",
+    "paper": "Paper-I",
+    "topic": "Social Exclusion: Rights Issues (Gender, Caste, Tribe, Disability) and Inclusive Policies",
+    "difficulty": "Basic",
+    "en": "In which year was the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act enacted by the Parliament of India?",
+    "te": "షెడ్యూల్డ్ కులాలు మరియు షెడ్యూల్డ్ తెగల (అత్యాచారాల నిరోధక) చట్టం భారత పార్లమెంటు ద్వారా ఏ సంవత్సరంలో ఆమోదించబడింది?",
+    "opts": [
+      "1976",
+      "1989",
+      "1995",
+      "2005"
+    ],
+    "ans": 1,
+    "exp": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was enacted in 1989 to prevent crimes and atrocities against members of SC and ST communities."
+  }
+]

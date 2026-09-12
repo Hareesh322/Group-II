@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "P3_MED_001",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "Which of the following methods is most appropriate for measuring the National Income of a developing country like India where a significant unorganized sector exists?",
+    "te": "భారతదేశం వంటి అభివృద్ధి చెందుతున్న దేశంలో, గణనీయమైన అసంఘటిత రంగం ఉన్నప్పుడు జాతీయ ఆదాయాన్ని లెక్కించడానికి క్రింది పద్ధతులలో ఏది అత్యంత అనుకూలమైనది?",
+    "opts": [
+      "Income Method only (కేవలం ఆదాయ పద్ధతి)",
+      "Expenditure Method only (కేవలం వ్యయ పద్ధతి)",
+      "Combination of Value Added (Product) and Income Methods (విలువ జోడించిన మరియు ఆదాయ పద్ధతుల కలయిక)",
+      "Net Export Method (నికర ఎగుమతుల పద్ధతి)"
+    ],
+    "ans": 2,
+    "exp": "In India, CSO (now NSO) uses a combination of the Product (Value Added) method for sectors like agriculture and manufacturing, and the Income method for services and the unorganized sector to arrive at accurate National Income estimates.",
+    "en_exp": "In India, CSO (now NSO) uses a combination of the Product (Value Added) method for sectors like agriculture and manufacturing, and the Income method for services and the unorganized sector to arrive at accurate National Income estimates."
+  },
+  {
+    "id": "P3_MED_002",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "What has been the general structural trend regarding the sectoral share in India's Gross Value Added (GVA) over the last few decades?",
+    "te": "గత కొన్ని దశాబ్దాలుగా భారతదేశ జివిఎ (GVA) లో రంగాలవారీ వాటాకు సంబంధించి సాధారణ నిర్మాణ ధోరణి ఏమిటి?",
+    "opts": [
+      "Decline in Agriculture share, rise in Industry and Services shares (వ్యవసాయ వాటా తగ్గుదల, పరిశ్రమలు మరియు సేవల వాటా పెరుగుదల)",
+      "Rise in Agriculture share, decline in Services share (వ్యవసాయ వాటా పెరుగుదల, సేవల వాటా తగ్గుదల)",
+      "Equal distribution and constant shares across all sectors (అన్ని రంగాలలో సమాన పంపిణీ మరియు స్థిరమైన వాటాలు)",
+      "Decline in Services share, rise in Agriculture share (సేవల వాటా తగ్గుదల, వ్యవసాయ వాటా పెరుగుదల)"
+    ],
+    "ans": 0,
+    "exp": "The structural transformation of the Indian economy has followed the classical path where the share of agriculture in GVA has steadily declined, while the shares of the services and industrial sectors have increased, with services dominating.",
+    "en_exp": "The structural transformation of the Indian economy has followed the classical path where the share of agriculture in GVA has steadily declined, while the shares of the services and industrial sectors have increased, with services dominating."
+  },
+  {
+    "id": "P3_MED_003",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "When National Income is calculated at constant prices, it is known as:",
+    "te": "జాతీయ ఆదాయాన్ని స్థిర ధరల వద్ద లెక్కిస్తే దానిని ఏమంటారు?",
+    "opts": [
+      "Nominal National Income (నామినల్ జాతీయ ఆదాయం)",
+      "Real National Income (వాస్తవ జాతీయ ఆదాయం)",
+      "Disposable National Income (వినియోగించదగిన జాతీయ ఆదాయం)",
+      "Per Capita Income at Current Prices (ప్రస్తుత ధరల వద్ద తలసరి ఆదాయం)"
+    ],
+    "ans": 1,
+    "exp": "National Income calculated at constant prices (base year prices) is termed Real National Income, as it eliminates the effect of inflation and reflects the actual change in the physical output of goods and services.",
+    "en_exp": "National Income calculated at constant prices (base year prices) is termed Real National Income, as it eliminates the effect of inflation and reflects the actual change in the physical output of goods and services."
+  },
+  {
+    "id": "P3_MED_004",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "Which of the following is excluded while estimating India's Gross Domestic Product (GDP)?",
+    "te": "భారతదేశ జిడిపి (GDP) ను అంచనా వేసేటప్పుడు క్రింది వాటిలో దేనిని మినహాయిస్తారు?",
+    "opts": [
+      "Salaries paid to government employees (ప్రభుత్వ ఉద్యోగులకు చెల్లించే జీతాలు)",
+      "Value of owner-occupied houses (యజమాని నివసించే ఇళ్ల అద్దె విలువ)",
+      "Purchase and sale of second-hand goods (పాత వస్తువుల కొనుగోలు మరియు అమ్మకం)",
+      "Production for self-consumption by farmers (రైతులు స్వంత వినియోగం కోసం చేసే ఉత్పత్తి)"
+    ],
+    "ans": 2,
+    "exp": "The purchase and sale of second-hand goods are excluded from GDP calculations because their production was already accounted for in the year they were originally produced. Including them would lead to double counting.",
+    "en_exp": "The purchase and sale of second-hand goods are excluded from GDP calculations because their production was already accounted for in the year they were originally produced. Including them would lead to double counting."
+  },
+  {
+    "id": "P3_MED_005",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "What is the primary limitation of using Per Capita Income (PCI) as an indicator of economic development in India?",
+    "te": "భారతదేశంలో ఆర్థిక అభివృద్ధికి సూచికగా తలసరి ఆదాయాన్ని (PCI) ఉపయోగించడంలో ఉన్న ప్రాథమిక పరిమితి ఏమిటి?",
+    "opts": [
+      "It measures only inflation (ఇది కేవలం ద్రవ్యోల్బణాన్ని కొలుస్తుంది)",
+      "It hides income inequalities and distribution disparities (ఇది ఆదాయ అసమానతలను మరియు పంపిణీ వ్యత్యాసాలను దాచిపెడుతుంది)",
+      "It cannot be calculated in developing nations (అభివృద్ధి చెందుతున్న దేశాలలో దీనిని లెక్కించడం సాధ్యం కాదు)",
+      "it includes only the agricultural sector (ఇది కేవలం వ్యవసాయ రంగాన్ని మాత్రమే కలిగి ఉంటుంది)"
+    ],
+    "ans": 1,
+    "exp": "Per Capita Income is an average measure and fails to reflect the distribution of income among the population, thus masking severe economic inequalities and disparities in wealth distribution across different sections of society.",
+    "en_exp": "Per Capita Income is an average measure and fails to reflect the distribution of income among the population, thus masking severe economic inequalities and disparities in wealth distribution across different sections of society."
+  },
+  {
+    "id": "P3_MED_001",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Which of the following dimensions are used to calculate the Multidimensional Poverty Index (MPI)?",
+    "te": "బహుళమరిది పేదరిక సూచిక (MPI)ను లెక్కించడానికి క్రింది వాటిలో ఏ పరిమాణాలను ఉపయోగిస్తారు?",
+    "opts": [
+      "Health, Education, and Standard of Living",
+      "Per Capita Income, Literacy Rate, and Life Expectancy",
+      "Employment Rate, Inflation, and GDP Growth",
+      "Food Security, Housing, and Infrastructure"
+    ],
+    "ans": 0,
+    "exp": "The Global MPI utilizes three dimensions: Health, Education, and Standard of Living, comprising 10 indicators."
+  },
+  {
+    "id": "P3_MED_002",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "In the context of unemployment in India, seasonal unemployment is most commonly associated with which sector?",
+    "te": "భారతదేశంలో నిరుద్యోగ సందర్భంలో, కాలానుగుణ (సీజనల్) నిరుద్యోగం సాధారణంగా ఏ రంగానికి ఎక్కువగా ముడిపడి ఉంటుంది?",
+    "opts": [
+      "Information Technology",
+      "Manufacturing",
+      "Agriculture",
+      "Banking and Finance"
+    ],
+    "ans": 2,
+    "exp": "Seasonal unemployment occurs when people are unemployed at particular times of the year, which is very common in agriculture due to its seasonal nature."
+  },
+  {
+    "id": "P3_MED_003",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Which of the following indicators was recently added alongside the traditional three dimensions to calculate the Inequality-adjusted Human Development Index (IHDI)?",
+    "te": "అసమానత-సర్దుబాటు చేసిన మానవ అభివృద్ధి సూచిక (IHDI)ను లెక్కించడానికి సాంప్రదాయ మూడు పరిమాణాలతో పాటు ఇటీవల ఏ సూచికను పరిగణలోకి తీసుకున్నారు?",
+    "opts": [
+      "Gender Inequality",
+      "Inequality in distribution of health, education and income",
+      "Digital Divide",
+      "Environmental Degradation"
+    ],
+    "ans": 1,
+    "exp": "The IHDI adjusts the human development index for inequality in the distribution of each of its three dimensions: health, education, and income."
+  },
+  {
+    "id": "P3_MED_004",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of 'Inclusive Growth' as envisioned in India's Five-Year Plans?",
+    "te": "భారతదేశ పంచవర్ష ప్రణాళికలలో ఊహించినట్లుగా 'సమ్మిళిత వృద్ధి' (Inclusive Growth) యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "Rapid industrialization disregarding environmental norms",
+      "Growth with rapid reduction in poverty and creation of employment opportunities",
+      "Export-led growth focusing only on the manufacturing sector",
+      "Exclusive focus on urban infrastructure development"
+    ],
+    "ans": 1,
+    "exp": "Inclusive growth focuses on economic growth that creates employment opportunities and helps in reducing poverty, ensuring benefits are shared widely."
+  },
+  {
+    "id": "P3_MED_005",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Educated unemployment in India is primarily a manifestation of which type of unemployment?",
+    "te": "భారతదేశంలో విద్యావంతుల నిరుద్యోగం ప్రధానంగా ఏ రకమైన నిరుద్యోగానికి రూపం?",
+    "opts": [
+      "Frictional unemployment",
+      "Structural unemployment",
+      "Cyclical unemployment",
+      "Disguised unemployment"
+    ],
+    "ans": 1,
+    "exp": "Educated unemployment is a form of structural unemployment, arising from a mismatch between the skills possessed by the educated workforce and the skills demanded by the market."
+  },
+  {
+    "id": "P3_MED_011",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which of the following bodies replaced the National Development Council (NDC) in the cooperative federalism framework of NITI Aayog?",
+    "te": "నీతి ఆయోగ్ యొక్క సహకార సమాఖ్యవాద నిర్మాణంలో జాతీయ అభివృద్ధి మండలి (NDC) స్థానంలో క్రింది వాటిలో ఏది భర్తీ చేయబడింది?",
+    "opts": [
+      "Governing Council / పాలక మండలి",
+      "Regional Council / ప్రాంతీయ మండలి",
+      "Finance Commission / ఆర్థిక సంఘం",
+      "Inter-State Council / అంతర్-రాష్ట్ర మండలి"
+    ],
+    "ans": 0,
+    "exp": "The Governing Council of NITI Aayog, comprising all Chief Ministers and Lieutenant Governors of Union Territories, replaced the National Development Council.",
+    "exp_te": "అన్ని రాష్ట్రాల ముఖ్యమంత్రులు మరియు కేంద్రపాలిత ప్రాంతాల లెఫ్టినెంట్ గవర్నర్లతో కూడిన నీతి ఆయోగ్ పాలక మండలి, జాతీయ అభివృద్ధి మండలి స్థానాన్ని భర్తీ చేసింది."
+  },
+  {
+    "id": "P3_MED_012",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Fiscal Deficit is best defined as:",
+    "te": "ద్రవ్య లోటును ఉత్తమంగా ఇలా నిర్వచించవచ్చు:",
+    "opts": [
+      "Total expenditure minus total receipts excluding borrowings / మొత్తం వ్యయం మైనస్ రుణాలు మినహాయించి మొత్తం రాబడులు",
+      "Revenue expenditure minus revenue receipts / రెవెన్యూ వ్యయం మైనస్ రెవెన్యూ రాబడులు",
+      "Capital expenditure minus capital receipts / మూలధన వ్యయం మైనస్ మూలధన రాబడులు",
+      "Total expenditure minus total tax revenue / మొత్తం వ్యయం మైనస్ మొత్తం పన్ను రాబడి"
+    ],
+    "ans": 0,
+    "exp": "Fiscal deficit is the excess of total expenditure over total receipts (excluding borrowings). It indicates the total borrowing requirements of the government.",
+    "exp_te": "ద్రవ్య లోటు అనేది మొత్తం రాబడుల (రుణాలు మినహాయించి) కంటే మొత్తం వ్యయం అధికంగా ఉండటాన్ని సూచిస్తుంది. ఇది ప్రభుత్వ మొత్తం రుణ అవసరాలను సూచిస్తుంది."
+  },
+  {
+    "id": "P3_MED_013",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which Constitutional Amendment Act introduced the Goods and Services Tax (GST) in India?",
+    "te": "భారతదేశంలో సరుకులు మరియు సేవల పన్నును (GST) ఏ రాజ్యాంగ సవరణ చట్టం ప్రవేశపెట్టింది?",
+    "opts": [
+      "101st Amendment Act, 2016 / 101వ సవరణ చట్టం, 2016",
+      "100th Amendment Act, 2015 / 100వ సవరణ చట్టం, 2015",
+      "103rd Amendment Act, 2019 / 103వ సవరణ చట్టం, 2019",
+      "99th Amendment Act, 2014 / 99వ సవరణ చట్టం, 2014"
+    ],
+    "ans": 0,
+    "exp": "The 101st Constitution Amendment Act, 2016 paved the way for the introduction of the Goods and Services Tax (GST) in India.",
+    "exp_te": "101వ రాజ్యాంగ సవరణ చట్టం, 2016 భారతదేశంలో జీఎస్‌టీ (GST) ప్రవేశపెట్టడానికి మార్గం సుగమం చేసింది."
+  },
+  {
+    "id": "P3_MED_014",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which of the following committees is primarily associated with the financial sector reforms in India during the early 1990s?",
+    "te": "1990ల ప్రారంభంలో భారతదేశంలోని ఆర్థిక రంగ సంస్కరణలతో ప్రధానంగా సంబంధం ఉన్న కమిటీ ఏది?",
+    "opts": [
+      "Narasimham Committee / నరసింహం కమిటీ",
+      "Kelkar Committee / కేల్కర్ కమిటీ",
+      "Sarkaria Committee / సర్కారియా కమిటీ",
+      "Rangarajan Committee / రంగరాజన్ కమిటీ"
+    ],
+    "ans": 0,
+    "exp": "The Narasimham Committee (1991) was appointed to review all aspects of the financial system and recommended sweeping structural reforms in the banking sector.",
+    "exp_te": "ఆర్థిక వ్యవస్థ యొక్క అన్ని అంశాలను సమీక్షించడానికి మరియు బ్యాంకింగ్ రంగంలో సమూల సంస్కరణలను సిఫారసు చేయడానికి నరసింహం కమిటీ (1991) నియమించబడింది."
+  },
+  {
+    "id": "P3_MED_015",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Primary Deficit in public finance is calculated as:",
+    "te": "ప్రజా ఆర్థిక శాస్త్రంలో ప్రాథమిక లోటును ఈ విధంగా లెక్కարկతారు:",
+    "opts": [
+      "Fiscal Deficit minus Interest Payments / ద్రవ్య లోటు మైనస్ వడ్డీ చెల్లింపులు",
+      "Revenue Deficit minus Capital Expenditure / రెవెన్యూ లోటు మైనస్ మూలధన వ్యయం",
+      "Fiscal Deficit plus Net Lending / ద్రవ్య లోటు ప్లస్ నికర రుణాలు",
+      "Total Expenditure minus Revenue Receipts / మొత్తం వ్యయం మైనస్ రెవెన్యూ రాబడులు"
+    ],
+    "ans": 0,
+    "exp": "Primary deficit is defined as fiscal deficit of the current year minus interest payments on previous borrowings. It shows the borrowing requirement excluding interest.",
+    "exp_te": "ప్రాథమిక లోటు అనేది ప్రస్తుత సంవత్సరపు ద్రవ్య లోటు నుండి మునుపటి రుణాలపై వడ్డీ చెల్లింపులను మినహాయించగా మిగిలేది. ఇది వడ్డీ మినహాయించి రుణ అవసరాన్ని చూపుతుంది."
+  },
+  {
+    "id": "P3_MED_016",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which of the following components were primarily responsible for the success of the Green Revolution in India during the mid-1960s?",
+    "te": "1960ల మధ్యకాలంలో భారతదేశంలో హరిత విప్లవం విజయవంతం కావడానికి క్రింది వాటిలో ఏ భాగాలు ప్రధానంగా కారణం?",
+    "opts": [
+      "High-Yielding Variety (HYV) seeds, chemical fertilizers, and controlled irrigation",
+      "Organic farming, crop rotation, and traditional bullock farming",
+      "Cooperative farming, land ceiling acts, and abolition of intermediaries",
+      "Micro-irrigation, shifting cultivation, and heavy reliance on monsoon"
+    ],
+    "ans": 0,
+    "exp": "The Green Revolution relied heavily on the package approach comprising HYV seeds (especially wheat and rice), chemical fertilizers, pesticides, and assured irrigation facilities."
+  },
+  {
+    "id": "P3_MED_017",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "The Minimum Support Price (MSP) is recommended by which body in India, and who gives the final approval?",
+    "te": "భారతదేశంలో కనీస మద్దతు ధర (MSP)ను ఏ సంస్థ సిఫారసు చేస్తుంది మరియు తుది ఆమోదం ఎవరు ఇస్తారు?",
+    "opts": [
+      "Commission for Agricultural Costs and Prices (CACP); Cabinet Committee on Economic Affairs (CCEA)",
+      "NITI Aayog; Ministry of Agriculture and Farmers Welfare",
+      "Reserve Bank of India (RBI); Parliament of India",
+      "National Bank for Agriculture and Rural Development (NABARD); Prime Minister Office"
+    ],
+    "ans": 0,
+    "exp": "CACP recommends the MSP for various crops, while the Cabinet Committee on Economic Affairs (CCEA) chaired by the Prime Minister takes the final decision on approving the MSP."
+  },
+  {
+    "id": "P3_MED_018",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "What was the primary objective of introducing the 'Land Ceiling Act' as a part of Land Reforms in independent India?",
+    "te": "స్వతంత్ర భారతదేశంలో భూ సంస్కరణలలో భాగంగా 'భూ గరిష్ట పరిమితి చట్టం' (Land Ceiling Act) ప్రవేశపెట్టడానికి ప్రధాన ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "To increase agricultural exports to foreign markets",
+      "To reduce wealth disparity by fixing a maximum limit on land holdings and redistributing surplus land to the landless",
+      "To encourage corporate farming and contract agriculture on large tracts of land",
+      "To promote monoculture of high-yielding food grains across all states"
+    ],
+    "ans": 1,
+    "exp": "Land ceiling acts were enacted to fix a limit on the amount of agricultural land an individual or family could own, with the surplus land being acquired and distributed among landless agricultural laborers."
+  },
+  {
+    "id": "P3_MED_019",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which of the following acts legally mandates the provision of subsidized food grains to nearly two-thirds of India's population?",
+    "te": "భారతదేశ జనాభాలో దాదాపు మూడింట రెండు వంతుల మందికి రాయితీపై ఆహార ధాన్యాలను అందించడాన్ని క్రింది ఏ చట్టం చట్టబద్ధం చేస్తుంది?",
+    "opts": [
+      "Essential Commodities Act, 1955",
+      "National Food Security Act (NFSA), 2013",
+      "Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+      "Agricultural Produce Market Committee Act, 2003"
+    ],
+    "ans": 1,
+    "exp": "The National Food Security Act (NFSA), 2013 converts into legal entitlements for existing food security programmes of the Government of India, covering up to 75% of the rural population and 50% of the urban population."
+  },
+  {
+    "id": "P3_MED_020",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which institution serves as the apex banking institution to provide refinance for agriculture and rural development in India?",
+    "te": "భారతదేశంలో వ్యవసాయం మరియు గ్రామీణాభివృద్ధికి పునర్విత్తం (refinance) అందించడానికి అగ్రగామి బ్యాంకింగ్ సంస్థ ఏది?",
+    "opts": [
+      "State Bank of India (SBI)",
+      "Food Corporation of India (FCI)",
+      "National Bank for Agriculture and Rural Development (NABARD)",
+      "Small Industries Development Bank of India (SIDBI)"
+    ],
+    "ans": 2,
+    "exp": "NABARD was established in 1982 on the recommendation of the B. Sivaraman Committee to act as an apex financial institution for promoting integrated rural development and agricultural finance."
+  },
+  {
+    "id": "P3_MED_021",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "What are the revised composite criteria for classifying Micro, Small, and Medium Enterprises (MSMEs) introduced in India, based on annual turnover and investment?",
+    "te": "భారతదేశంలో సూక్ష్మ, చిన్న మరియు మధ్య తరహా పరిశ్రమల (MSME) వర్గీకరణ కోసం వార్షిక టర్నోవర్ మరియు పెట్టుబడి ఆధారంగా ప్రవేశపెట్టిన సవరించిన ఉమ్మడి ప్రమాణాలు ఏమిటి?",
+    "opts": [
+      "Investment up to Rs. 50 crore and Turnover up to Rs. 250 crore for Medium",
+      "Investment up to Rs. 10 crore and Turnover up to Rs. 50 crore for Medium",
+      "Investment up to Rs. 20 crore and Turnover up to Rs. 100 crore for Medium",
+      "Investment up to Rs. 5 crore and Turnover up to Rs. 50 crore for Medium"
+    ],
+    "ans": 0,
+    "exp": "According to the revised MSME definition, Medium enterprises are defined as those with investment up to Rs. 50 crore and annual turnover up to Rs. 250 crore.",
+    "en_exp": "According to the revised MSME definition, Medium enterprises are defined as those with investment up to Rs. 50 crore and annual turnover up to Rs. 250 crore.",
+    "te_exp": "సవరించిన MSME నిర్వచనం ప్రకారం, మధ్యతరహా పరిశ్రమలకు రూ. 50 కోట్ల వరకు పెట్టుబడి మరియు రూ. 250 కోట్ల వరకు వార్షిక టర్నోవర్ ఉండాలి."
+  },
+  {
+    "id": "P3_MED_022",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "Which of the following industrial policies introduced the concept of 'Navratnas' and 'Miniratnas' for Public Sector Undertakings (PSUs) in India?",
+    "te": "భారతదేశంలో ప్రభుత్వ రంగ సంస్థల (PSUలు) కోసం 'నవరత్న' మరియు 'మినిరత్న' భావనను క్రింది ఏ పారిశ్రామిక విధానం ప్రవేశపెట్టింది?",
+    "opts": [
+      "Industrial Policy Resolution of 1956",
+      "Industrial Policy Statement of 1977",
+      "Industrial Policy Statement of 1980",
+      "New Industrial Policy of 1991"
+    ],
+    "ans": 3,
+    "exp": "The New Industrial Policy of 1991 initiated reforms for Public Sector Undertakings, leading to the creation of Navratna and Miniratna categories to grant greater autonomy to profitable PSUs.",
+    "en_exp": "The New Industrial Policy of 1991 initiated reforms for Public Sector Undertakings, leading to the creation of Navratna and Miniratna categories to grant greater autonomy to profitable PSUs.",
+    "te_exp": "1991 నాటి కొత్త పారిశ్రామిక విధానం ప్రభుత్వ రంగ సంస్థలకు మరిన్ని స్వయంప్రతిపత్తిని కల్పించడానికి నవరత్న మరియు మినిరత్న వర్గాల ఏర్పాటుకు దారితీసింది."
+  },
+  {
+    "id": "P3_MED_023",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "Consider the following statements regarding the Information Technology (IT) sector in India: 1. India is one of the world's largest sourcing destinations for the IT industry. 2. The IT-BPM sector's contribution to India's GDP has seen significant growth over the decades. Which of the statements given above is/are correct?",
+    "te": "భారతదేశంలో సమాచార సాంకేతికత (IT) రంగానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. IT పరిశ్రమకు భారతదేశం ప్రపంచంలోనే అతిపెద్ద సోర్సింగ్ గమ్యస్థానాలలో ఒకటి. 2. భారతదేశ జిడిపికి IT-BPM రంగం యొక్క సహకారం దశాబ్దాలుగా గణనీయమైన వృద్ధిని సాధించింది. పై ప్రకటనలలో ఏది/ఏవి సరైనది?",
+    "opts": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "ans": 2,
+    "exp": "Both statements are correct. India is a global leader in IT and IT-enabled services (ITeS) outsourcing, and the sector's contribution to India's overall GDP and service exports is substantial.",
+    "en_exp": "Both statements are correct. India is a global leader in IT and IT-enabled services (ITeS) outsourcing, and the sector's contribution to India's overall GDP and service exports is substantial.",
+    "te_exp": "రెండు ప్రకటనలు సరైనవే. భారతదేశం IT మరియు ITeS అవు్‌సోర్సింగ్‌లో ప్రపంచ నాయకుడిగా ఉంది మరియు దేశ జిడిపికి ఈ రంగం యొక్క సహకారం చాలా కీలకం."
+  },
+  {
+    "id": "P3_MED_024",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "The 'Swadesh Darshan' scheme, launched by the Ministry of Tourism, Government of India, is primarily aimed at which of the following?",
+    "te": "భారత ప్రభుత్వ పర్యాటక మంత్రిత్వ శాఖ ప్రారంభించిన 'స్వదేశ్ దర్శన్' పథకం ప్రధానంగా దేనిని లక్ష్యంగా పెట్టుకుంది?",
+    "opts": [
+      "Promoting international tourism campaigns in Western countries",
+      "Integrated development of theme-based tourist circuits in the country",
+      "Providing financial subsidies exclusively to international hotel chains",
+      "Offering free air travel to senior citizens for religious pilgrimages"
+    ],
+    "ans": 1,
+    "exp": "Swadesh Darshan scheme is a central sector scheme launched for the integrated development of theme-based tourist circuits (such as Buddhist circuit, Coastal circuit, Krishna circuit, etc.) in the country.",
+    "en_exp": "Swadesh Darshan scheme is a central sector scheme launched for the integrated development of theme-based tourist circuits (such as Buddhist circuit, Coastal circuit, Krishna circuit, etc.) in the country.",
+    "te_exp": "స్వదేశ్ దర్శన్ పథకం దేశంలో థీమ్-ఆధారిత పర్యాటక సర్క్యూట్ల (బౌద్ధ సర్క్యూట్, కోస్టల్ సర్క్యూట్ మొదలైనవి) సమగ్ర అభివృద్ధి కోసం ప్రారంభించబడిన కేంద్ర రంగ పథకం."
+  },
+  {
+    "id": "P3_MED_025",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "What was the primary objective of introducing the 'Udyam Registration' portal by the Ministry of MSME in India?",
+    "te": "భారతదేశంలో MSME మంత్రిత్వ శాఖ ద్వారా 'ఉద్యమ్ రిజిస్ట్రేషన్' పోర్టల్‌ను ప్రవేశపెట్టడం యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To provide mandatory health insurance to all factory workers",
+      "To simplify the registration process for MSMEs and make it paperless and online",
+      "To collect direct corporate taxes from small manufacturing units",
+      "To monitor foreign direct investments in micro enterprises"
+    ],
+    "ans": 1,
+    "exp": "Udyam Registration portal was launched to simplify the registration process for MSMEs, making it completely online, digital, and paperless based on self-declaration without requiring uploading of documents.",
+    "en_exp": "Udyam Registration portal was launched to simplify the registration process for MSMEs, making it completely online, digital, and paperless based on self-declaration without requiring uploading of documents.",
+    "te_exp": "MSMEల రిజిస్ట్రేషన్ ప్రక్రియను సరళీకరించడానికి, పత్రాలను అప్‌లోడ్ చేయకుండానే స్వీయ-ధృవీకరణ ఆధారంగా పూర్తిగా ఆన్‌లైన్ మరియు పేపర్‌లెస్ చేయడానికి ఉద్యమ్ రిజిస్ట్రేషన్ పోర్టల్ ప్రారంభించబడింది."
+  },
+  {
+    "id": "P3_MED_026",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "Which of the following revenue systems was predominantly prevalent in the Khalsa (crown) lands during the Nizam's rule in Hyderabad state?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో నిజాం పాలనలో ఖల్సా (రాజకీయ/ప్రభుత్వ) భూములలో క్రింది వాటిలో ఏ రెవెన్యూ విధానం ఎక్కువగా ప్రబలంగా ఉండేది?",
+    "opts": [
+      "Zamindari System",
+      "Ryotwari System",
+      "Jagirdari System",
+      "Inam System"
+    ],
+    "ans": 1,
+    "exp": "Under the Nizam's rule, Khalsa lands were directly managed by the government, and the Ryotwari system (known locally as the Sairat or Diwani system) was implemented where the state collected revenue directly from the cultivators."
+  },
+  {
+    "id": "P3_MED_027",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "What was the primary economic objective of introducing the 'Sar-e-Khas' lands during the Asaf Jahi period?",
+    "te": "అసఫ్ జాహీ కాలంలో 'సర్-ఇ-ఖాస్' భూమిని ప్రవేశపెట్టడం వెనుక ఉన్న ప్రధాన ఆర్థిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "To fund the Nizam's private household expenses",
+      "To distribute land equally among peasants",
+      "To promote cooperative farming",
+      "To generate revenue exclusively for the British army"
+    ],
+    "ans": 0,
+    "exp": "Sar-e-Khas lands were the Nizam's personal estate, the revenues of which were utilized exclusively to meet the private and household expenses of the Nizam and his family."
+  },
+  {
+    "id": "P3_MED_028",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "Which industrial development initiative was taken up during the rule of Mir Osman Ali Khan (Nizam VII) to boost large-scale manufacturing in Hyderabad state?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో భారీ స్థాయి తయారీని ప్రోత్సహించడానికి మీర్ ఉస్మాన్ అలీ ఖాన్ (ఏడవ నిజాం) పాలనలో తీసుకున్న పారిశ్రామిక అభివృద్ధి చొరవ ఏమిటి?",
+    "opts": [
+      "Establishment of Hyderabad Asbestos and Azam Jahi Mills",
+      "Setting up of Visakhapatnam Steel Plant",
+      "Nationalization of all textile industries",
+      "Creation of Special Economic Zones (SEZs)"
+    ],
+    "ans": 0,
+    "exp": "During the reign of Mir Osman Ali Khan, industrialization picked up with the establishment of major enterprises like the Azam Jahi Mills in Warangal, Allwyn Metal Works, and Sirpur Paper Mills."
+  },
+  {
+    "id": "P3_MED_029",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "Regional economic disparities in erstwhile united Andhra Pradesh were prominently highlighted by which of the following committees concerning employment and resource allocation?",
+    "te": "ఉమ్మడి ఆంధ్రప్రదేశ్‌లో ఉపాధి మరియు వనరుల కేటాయింపునకు సంబంధించి ప్రాంతీయ ఆర్థిక అసమానతలను ఏ కమిటీ ప్రముఖంగా హైలైట్ చేసింది?",
+    "opts": [
+      "Sarkaria Commission",
+      "Bhargava Committee",
+      "Kalelkar Commission",
+      "Danthwala Committee"
+    ],
+    "ans": 1,
+    "exp": "The Bhargava Committee (Prime Minister's Committee on Telangana surpluses) was constituted to look into the regional imbalances and the allocation of revenues and surpluses in united Andhra Pradesh."
+  },
+  {
+    "id": "P3_MED_030",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "How did the Jagirdari system impact the agrarian economy of Telangana prior to its abolition in 1949?",
+    "te": "1949లో రద్దు చేయడానికి ముందు జాగీర్దారీ వ్యవస్థ తెలంగాణ వ్యవసాయ ఆర్థిక వ్యవస్థపై ఎలాంటి ప్రభావాన్ని చూపింది?",
+    "opts": [
+      "It modernized agricultural practices through heavy investments.",
+      "It led to heavy taxation, exploitation of peasantry, and agrarian backwardness.",
+      "It completely eliminated rural indebtedness.",
+      "It converted all tenant farmers into landowners."
+    ],
+    "ans": 1,
+    "exp": "The Jagirdari system led to severe exploitation of the peasantry through exorbitant taxation (cesses and forced labor like Vetti), resulting in extreme agrarian backwardness and social unrest in Telangana."
+  },
+  {
+    "id": "P3_MED_031",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "As per the Socio Economic Outlook of Telangana, which sector traditionally contributes the highest share to the Gross State Value Added (GSVA) at current prices in recent years?",
+    "te": "తెలంగాణ సామాజిక ఆర్థిక సర్వే ప్రకారం, ఇటీవలి సంవత్సరాలలో ప్రస్తుత ధరల వద్ద స్థూల రాష్ట్ర విలువ జోడింపునకు (GSVA) అత్యధిక వాటాను అందించే రంగం ఏది?",
+    "opts": [
+      "Agriculture and Allied Sectors (వ్యవసాయ మరియు అనుబంధ రంగాలు)",
+      "Industrial Sector (పారిశ్రామిక రంగం)",
+      "Services Sector (సేవా రంగం)",
+      "Manufacturing Sector (తయారీ రంగం)"
+    ],
+    "ans": 2,
+    "exp": "The Services sector consistently contributes the highest share to Telangana's GSVA, followed by the Industry and Agriculture sectors.",
+    "exp_te": "తెలంగాణ GSVA లో సేవా రంగం స్థిరంగా అత్యధిక వాటాను కలిగి ఉంది, ఆ తర్వాత పారిశ్రామిక మరియు వ్యవసాయ రంగాలు ఉన్నాయి."
+  },
+  {
+    "id": "P3_MED_032",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "What has been the general trend of Telangana's Per Capita Income (PCI) compared to the All-India average since the formation of the state?",
+    "te": "రాష్ట్ర ఆవిర్భావం నుండి అఖిల భారత సగటుతో పోలిస్తే తెలంగాణ తలసరి ఆదాయం (PCI) యొక్క సాధారణ ధోరణి ఎలా ఉంది?",
+    "opts": [
+      "It is consistently lower than the All-India average (ఇది అఖిల భారత సగటు కంటే నిలకడగా తక్కువగా ఉంది)",
+      "It is significantly higher than the All-India average (ఇది అఖిల భారత సగటు కంటే గణనీయంగా ఎక్కువగా ఉంది)",
+      "It is exactly equal to the All-India average (ఇది అఖిల భారత సగటుకు సమానంగా ఉంది)",
+      "It is declining rapidly every year (ఇది ప్రతి సంవత్సరం వేగంగా పడిపోతోంది)"
+    ],
+    "ans": 1,
+    "exp": "Telangana's Per Capita Income has witnessed a phenomenal rise, remaining consistently and significantly higher than the national average.",
+    "exp_te": "తెలంగాణ తలసరి ఆదాయం అద్భుతమైన వృద్ధిని సాధించింది, జాతీయ సగటు కంటే నిలకడగా మరియు గణనీయంగా ఎక్కువగా ఉంది."
+  },
+  {
+    "id": "P3_MED_033",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "Structural transformation in an economy like Telangana is typically characterized by which of the following shifts?",
+    "te": "తెలంగాణ వంటి ఆర్థిక వ్యవస్థలో నిర్మాణ మార్పు (స్ట్రక్చరల్ ట్రాన్స్‌ఫర్మేషన్) సాధారణంగా ఏ మార్పు ద్వారా సూచించబడుతుంది?",
+    "opts": [
+      "Shift of dependence from Services to Agriculture (సేవల నుండి వ్యవసాయానికి ఆధారపడటం మారడం)",
+      "Shift of share and employment from Agriculture to Industry and Services (వ్యవసాయం నుండి పరిశ్రమలు మరియు సేవల రంగానికి వాటా మరియు ఉపాధి మారడం)",
+      "Decline of the industrial sector and rise of primary sector (పారిశ్రామిక రంగం పతనం మరియు ప్రాథమిక రంగం పెరుగుదల)",
+      "Equal contribution from all sectors without any change (ఎలాంటి మార్పు లేకుండా అన్ని రంగాల నుండి సమాన సహకారం)"
+    ],
+    "ans": 1,
+    "exp": "Structural transformation involves the reallocation of economic activity and employment away from agriculture towards industry and services.",
+    "exp_te": "నిర్మాణ మార్పు అనేది వ్యవసాయం నుండి పరిశ్రమలు మరియు సేవల రంగానికి ఆర్థిక కార్యకలాపాలు మరియు ఉపాధి పునఃపంపిణీని కలిగి ఉంటుంది."
+  },
+  {
+    "id": "P3_MED_034",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "Which sub-sector within the Agriculture and Allied sectors has shown notable growth in Telangana due to government initiatives like Mission Kakatiya and irrigation projects?",
+    "te": "మిషన్ కాకతీయ మరియు సాగునీటి ప్రాజెక్ట్‌ల వంటి ప్రభుత్వ చొరవల వల్ల తెలంగాణలో వ్యవసాయ మరియు అనుబంధ రంగాలలోని ఏ ఉప-రంగం గణనీయమైన వృద్ధిని కనబరిచింది?",
+    "opts": [
+      "Forestry and Logging (అడవులు మరియు కలప కొట్టడం)",
+      "Fishing and Aquaculture (చేపలు మరియు జలచరాల పెంపకం)",
+      "Mining and Quarrying (గనుల తవ్వకం)",
+      "Plantations only (తోటల పెంపకం మాత్రమే)"
+    ],
+    "ans": 1,
+    "exp": "Fisheries and aquaculture have shown remarkable growth in Telangana due to the revitalisation of tanks and reservoirs under Mission Kakatiya and Mission Bhagiratha linkages.",
+    "exp_te": "మిషన్ కాకతీయ మరియు మిషన్ భగీరథ అనుసంధానాల ద్వారా చెరువులు మరియు రిజర్వాయర్ల పునరుజ్జీవనం కారణంగా తెలంగాణలో మత్స్య మరియు ఆక్వాకల్చర్ అద్భుతమైన వృద్ధిని సాధించాయి."
+  },
+  {
+    "id": "P3_MED_035",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "When measuring the economic growth of Telangana, what does 'Constant Prices' GSDP eliminate?",
+    "te": "తెలంగాణ ఆర్థిక వృద్ధిని అంచనా వేసేటప్పుడు, 'స్థిర ధరల' GSDP దేనిని తొలగిస్తుంది?",
+    "opts": [
+      "Population growth effects (జనాభా పెరుగుదల ప్రభావాలు)",
+      "Inflationary effects (ద్రవ్యోల్బణ ప్రభావాలు)",
+      "Tax variations (పన్ను వ్యత్యాసాలు)",
+      "Foreign exchange fluctuations (విదేశీ మారకద్రవ్య హెచ్చుతగ్గులు)"
+    ],
+    "ans": 1,
+    "exp": "GSDP at constant prices is calculated using base year prices, thereby eliminating the effect of inflation to reflect the real change in physical output.",
+    "exp_te": "స్థిర ధరల వద్ద GSDP ప్రాథమిక సంవత్సరపు ధరలను ఉపయోగించి లెక్కించబడుతుంది, తద్వారా భౌతిక ఉత్పత్తిలో నిజమైన మార్పును ప్రతిబింబించడానికి ద్రవ్యోల్బణ ప్రభావాన్ని తొలగిస్తుంది."
+  },
+  {
+    "id": "P3_MED_036",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "When was the landmark Hyderabad Tenancy and Agricultural Lands Act enacted?",
+    "te": "הפలర్శీయం: హైదరాబాద్ కౌలుదారి మరియు వ్యవసాయ భూముల చట్టం ఎప్పుడు చేయబడింది?",
+    "opts": [
+      "1948",
+      "1950",
+      "1956",
+      "1961"
+    ],
+    "ans": 1,
+    "exp": "The Hyderabad Tenancy and Agricultural Lands Act was enacted in 1950 to protect tenants and regulate agricultural land relations in the erstwhile Hyderabad state."
+  },
+  {
+    "id": "P3_MED_037",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "Which of the following was the primary objective of the Andhra Pradesh (Telangana Area) Abolition of Inams Act, 1955?",
+    "te": "ఆంధ్రప్రదేశ్ (తెలంగాణ ప్రాంతం) ఇనాముల రద్దు చట్టం, 1955 యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To abolish intermediary tenure systems and confer occupancy rights on actual cultivators",
+      "To impose a ceiling on agricultural land holdings",
+      "To computerize all land revenue records in the state",
+      "To provide free electricity to farmers"
+    ],
+    "ans": 0,
+    "exp": "The Abolition of Inams Act, 1955 aimed to abolish intermediary tenure systems (Inams) and bring the actual tillers into direct relationship with the government by conferring occupancy rights."
+  },
+  {
+    "id": "P3_MED_038",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "What is the primary purpose of the Dharani portal, launched by the Government of Telangana?",
+    "te": "తెలంగాణ ప్రభుత్వం ప్రారంభించిన ధరణి పోర్టల్ యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "Integrated land registration and administration portal",
+      "Procurement of paddy and other food grains",
+      "Distribution of investment support under Rythu Bandhu",
+      "Registration of micro, small and medium enterprises"
+    ],
+    "ans": 0,
+    "exp": "Dharani is an integrated land records management and registration portal introduced by Telangana to streamline land administration and ensure transparent transactions."
+  },
+  {
+    "id": "P3_MED_039",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "Under the Hyderabad Tenancy and Agricultural Lands Act, 1950, what was the status granted to tenants who continuously cultivated the land for a specified period?",
+    "te": "హైదరాబాద్ కౌలుదారి మరియు వ్యవసాయ భూముల చట్టం, 1950 ప్రకారం, నిర్దిష్ట కాలం పాటు నిరంతరం భూమిని సాగు చేసిన కౌలుదారులకు లభించిన హోదా ఏమిటి?",
+    "opts": [
+      "Protected Tenants (Pattedars)",
+      "Protected Tenants (Sikamdars / Asami Shikhis)",
+      "Agricultural Laborers",
+      "Temporary Leaseholders"
+    ],
+    "ans": 1,
+    "exp": "The Act provided special security to certain categories of tenants, designating them as Protected Tenants, safeguarding them from arbitrary eviction."
+  },
+  {
+    "id": "P3_MED_040",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "In the administrative hierarchy of land revenue in Telangana, which official is at the head of the district land administration?",
+    "te": "తెలంగాణలో భూ రెవెన్యూ పరిపాలనా శ్రేణిలో, జిల్లా భూ పరిపాలనకు అధిపతిగా ఏ అధికారి ఉంటారు?",
+    "opts": [
+      "Commissioner of Land Revenue",
+      "District Collector",
+      "Revenue Divisional Officer (RDO)",
+      "Tahsildar"
+    ],
+    "ans": 1,
+    "exp": "The District Collector functions as the head of land revenue and land administration at the district level in Telangana."
+  },
+  {
+    "id": "P3_MED_041",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the 'Mission Kakatiya' program initiated by the Government of Telangana?",
+    "te": "తెలంగాణ ప్రభుత్వం ప్రారంభించిన 'మిషన్ కాకతీయ' కార్యక్రమం యొక్క ప్రాథమిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Restoration of minor irrigation tanks and lakes",
+      "Distribution of free fertilizers to farmers",
+      "Providing 24-hour free electricity to the agricultural sector",
+      "Providing financial assistance per acre to landowning farmers"
+    ],
+    "ans": 0,
+    "exp": "Mission Kakatiya aims at the restoration of minor irrigation tanks and lakes in Telangana to empower local communities and improve agriculture."
+  },
+  {
+    "id": "P3_MED_042",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "The Kaleshwaram Lift Irrigation Scheme (KLIS) primarily utilizes the waters of which river?",
+    "te": "కాళేశ్వరం ఎత్తిపోతల పథకం (KLIS) ప్రాథమికంగా ఏ నది నీటిని వినియోగిస్తుంది?",
+    "opts": [
+      "Krishna River",
+      "Godavari River",
+      "Manair River",
+      "Pranahita River"
+    ],
+    "ans": 1,
+    "exp": "The Kaleshwaram Lift Irrigation Project is a multi-purpose irrigation project on the Godavari River in Telangana."
+  },
+  {
+    "id": "P3_MED_043",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "Under the Rythu Bandhu scheme in Telangana, what is the nature of financial assistance provided to the farmers?",
+    "te": "తెలంగాణలోని రైతు బంధు పథకం కింద రైతులకు అందించే ఆర్థిక సహాయం యొక్క స్వభావం ఏమిటి?",
+    "opts": [
+      "Crop loan waiver up to 1 lakh rupees",
+      "Investment support per acre per season",
+      "Subsidy on agricultural machinery and equipment",
+      "Minimum Support Price (MSP) bonus during procurement"
+    ],
+    "ans": 1,
+    "exp": "Rythu Bandhu is a farmers' investment support scheme providing financial assistance per acre per season for crop cultivation."
+  },
+  {
+    "id": "P3_MED_044",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "What is the main objective of the 'Rythu Bima' scheme implemented in Telangana?",
+    "te": "తెలంగాణలో అమలు చేస్తున్న 'రైతు బీమా' పథకం యొక్క ప్రధాన ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Providing health insurance coverage for farmers' families",
+      "Providing financial relief to the nominated family member in case of the farmer's death",
+      "Crop insurance coverage against natural calamities",
+      "Accident insurance specifically for farm machinery operators"
+    ],
+    "ans": 1,
+    "exp": "Rythu Bima provides life insurance financial security of 5 lakh rupees to the nominated family member in case of the farmer's unfortunate death."
+  },
+  {
+    "id": "P3_MED_045",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "Which of the following barrages is NOT a part of the Kaleshwaram Lift Irrigation Project?",
+    "te": "కింది బ్యారేజీలలో ఏది కాళేశ్వరం ఎత్తిపోతల పథకంలో భాగం కాదు?",
+    "opts": [
+      "Medigadda Barrage",
+      "Annaram Barrage",
+      "Sundilla Barrage",
+      "Prakasam Barrage"
+    ],
+    "ans": 3,
+    "exp": "Medigadda, Annaram, and Sundilla are the three major barrages associated with the Kaleshwaram Project. Prakasam Barrage is across the Krishna River in Andhra Pradesh."
+  },
+  {
+    "id": "P3_MED_046",
+    "paper": "Paper-III",
+    "topic": "Industrial and Service Growth in Telangana: TS-iPASS, T-Hub, Pharma City, IT and Emerging Technologies",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the Telangana State Industrial Project Approval and Self-Certification System (TS-iPASS)?",
+    "te": "తెలంగాణ రాష్ట్ర పారిశ్రామిక ప్రాజెక్ట్ అనుమతి మరియు స్వీయ-ధృవీకరణ వ్యవస్థ (TS-iPASS) యొక్క ప్రాథమిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "To provide free electricity to all large-scale industries",
+      "To ensure speedy processing of applications for issuing clearances to set up industries through a single-window system",
+      "To provide financial subsidies exclusively for foreign direct investments",
+      "To nationalize sick industries in the state"
+    ],
+    "ans": 1,
+    "exp": "TS-iPASS Act aims at speedy processing of applications for issuing various clearances required for setting up industries at a single window with right to time (RTT)."
+  },
+  {
+    "id": "P3_MED_047",
+    "paper": "Paper-III",
+    "topic": "Industrial and Service Growth in Telangana: TS-iPASS, T-Hub, Pharma City, IT and Emerging Technologies",
+    "difficulty": "Medium",
+    "en": "T-Hub, located in Hyderabad, is recognized as which of the following?",
+    "te": "హైదరాబాద్‌లో ఉన్న టి-హబ్ (T-Hub), క్రింది వాటిలో దేనిగా గుర్తించబడింది?",
+    "opts": [
+      "Asia's largest specialized textile park",
+      "The world's largest innovation and startup incubator",
+      "India's first dedicated semiconductor manufacturing unit",
+      "A central warehousing and logistics hub"
+    ],
+    "ans": 1,
+    "exp": "T-Hub is touted as the world's largest innovation hub and startup incubator, fostering entrepreneurship and the startup ecosystem in Telangana."
+  },
+  {
+    "id": "P3_MED_048",
+    "paper": "Paper-III",
+    "topic": "Industrial and Service Growth in Telangana: TS-iPASS, T-Hub, Pharma City, IT and Emerging Technologies",
+    "difficulty": "Medium",
+    "en": "Hyderabad Pharma City, envisioned by the Government of Telangana, is designed to be which of the following?",
+    "te": "తెలంగాణ ప్రభుత్వం తలపెట్టిన హైదరాబాద్ ఫార్మా సిటీ, క్రింది వాటిలో దేనికోసం రూపొందించబడింది?",
+    "opts": [
+      "An exclusive IT software zone for pharmaceutical companies",
+      "The world's largest integrated, sustainable pharma cluster",
+      "A retail pharmaceutical distribution center for South Asia",
+      "An educational hub exclusively for pharmacy research"
+    ],
+    "ans": 1,
+    "exp": "Hyderabad Pharma City is planned as the world's largest integrated, sustainable pharma cluster meeting global standards with a zero-liquid discharge facility."
+  },
+  {
+    "id": "P3_MED_049",
+    "paper": "Paper-III",
+    "topic": "Industrial and Service Growth in Telangana: TS-iPASS, T-Hub, Pharma City, IT and Emerging Technologies",
+    "difficulty": "Medium",
+    "en": "Which of the following initiatives was launched by the Telangana government to promote and regulate Artificial Intelligence, Blockchain, and other emerging technologies?",
+    "te": "కృత్రిమ మేధస్సు (AI), బ్లాక్‌చెయిన్ మరియు ఇతర వర్ధమాన సాంకేతికతలను ప్రోత్సహించడానికి మరియు నియంత్రించడానికి తెలంగాణ ప్రభుత్వం క్రింది ఏ చొరవను ప్రారంభించింది?",
+    "opts": [
+      "TASK (Telangana Academy for Skill and Knowledge)",
+      "WE Hub",
+      "Governor's Council on Emerging Technologies",
+      "жая (Emerging Technologies Wing under ITE&C Department)"
+    ],
+    "ans": 3,
+    "exp": "The Emerging Technologies Wing under the ITE&C Department of Telangana was specifically created to foster the adoption of frontier technologies like AI, Blockchain, Cloud, and Drones."
+  },
+  {
+    "id": "P3_MED_050",
+    "paper": "Paper-III",
+    "topic": "Industrial and Service Growth in Telangana: TS-iPASS, T-Hub, Pharma City, IT and Emerging Technologies",
+    "difficulty": "Medium",
+    "en": "What is the primary mandate of WE Hub, established by the Government of Telangana?",
+    "te": "తెలంగాణ ప్రభుత్వం ఏర్పాటు చేసిన 'వి-హబ్' (WE Hub) యొక్క ప్రాథమిక ఆదేశం ఏమిటి?",
+    "opts": [
+      "To promote women entrepreneurship and start-ups",
+      "To provide digital literacy programs for rural women",
+      "To provide reservation for women in industrial employment",
+      "To offer financial credit exclusively for women self-help groups in urban areas"
+    ],
+    "ans": 0,
+    "exp": "WE Hub (Women Entrepreneurs Hub) is India's first state-led incubator exclusively for women entrepreneurs, aimed at fostering women-led startups and businesses."
+  },
+  {
+    "id": "P3_MED_051",
+    "paper": "Paper-III",
+    "topic": "Environment and Sustainable Development: Clean Energy, Carbon Footprint, Forest Policy and Bio-diversity",
+    "difficulty": "Medium",
+    "en": "Which of the following initiatives was launched by India to promote international collaboration on solar energy and reduce carbon footprints?",
+    "te": "సౌర శక్తిపై అంతర్జాతీయ సహకారాన్ని ప్రోత్సహించడానికి మరియు కార్బన్ పాదముద్రలను తగ్గించడానికి భారతదేశం క్రింది వాటిలో ఏ చొరవను ప్రారంభించింది?",
+    "opts": [
+      "International Solar Alliance (ISA)",
+      "Global Clean Energy Coalition",
+      "Paris Climate Partnership",
+      "Kyoto Green Initiative"
+    ],
+    "ans": 0,
+    "exp": "The International Solar Alliance (ISA) was jointly launched by India and France at the UN Climate Change Conference in Paris in 2015 to promote solar energy deployment."
+  },
+  {
+    "id": "P3_MED_052",
+    "paper": "Paper-III",
+    "topic": "Environment and Sustainable Development: Clean Energy, Carbon Footprint, Forest Policy and Bio-diversity",
+    "difficulty": "Medium",
+    "en": "According to the National Forest Policy of India, what is the recommended percentage of total geographical area that should be under forest and tree cover?",
+    "te": "భారతదేశ జాతీయ అటవీ విధానం ప్రకారం, మొత్తం భౌగోళిక విస్తీర్ణంలో అడవి మరియు చెట్ల కవర్ ఎంత శాతంగా ఉండాలని సిఫార్సు చేయబడింది?",
+    "opts": [
+      "20 percent",
+      "25 percent",
+      "33 percent",
+      "40 percent"
+    ],
+    "ans": 2,
+    "exp": "The National Forest Policy, 1988 recommends a minimum of 33% of the total geographical area of the country to be under forest and tree cover."
+  },
+  {
+    "id": "P3_MED_053",
+    "paper": "Paper-III",
+    "topic": "Environment and Sustainable Development: Clean Energy, Carbon Footprint, Forest Policy and Bio-diversity",
+    "difficulty": "Medium",
+    "en": "What does 'Carbon Footprint' primarily measure?",
+    "te": "కార్బన్ పాదముద్ర (Carbon Footprint) ప్రాథమికంగా దేనిని కొలుస్తుంది?",
+    "opts": [
+      "The total amount of greenhouse gases produced directly and indirectly by human activities",
+      "The physical area deforested in a calendar year",
+      "The amount of oxygen produced by urban forests",
+      "The total carbon tax levied on industrial manufacturing"
+    ],
+    "ans": 0,
+    "exp": "A carbon footprint is defined as the total amount of greenhouse gases (including carbon dioxide and methane) that are generated by our actions."
+  },
+  {
+    "id": "P3_MED_054",
+    "paper": "Paper-III",
+    "topic": "Environment and Sustainable Development: Clean Energy, Carbon Footprint, Forest Policy and Bio-diversity",
+    "difficulty": "Medium",
+    "en": "Under the Biological Diversity Act of India (2002), which of the following bodies is established at the national level?",
+    "te": "భారతదేశ జీవవైవిధ్య చట్టం (2002) ప్రకారం, జాతీయ స్థాయిలో క్రింది ఏ సంస్థ ఏర్పాటు చేయబడింది?",
+    "opts": [
+      "National Biodiversity Authority (NBA)",
+      "Central Forest Conservation Board",
+      "National Clean Energy Fund Agency",
+      "Eco-Development Council of India"
+    ],
+    "ans": 0,
+    "exp": "The National Biodiversity Authority (NBA) was established in 2003 under the Biological Diversity Act, 2002 to implement the provisions of the Act."
+  },
+  {
+    "id": "P3_MED_055",
+    "paper": "Paper-III",
+    "topic": "Environment and Sustainable Development: Clean Energy, Carbon Footprint, Forest Policy and Bio-diversity",
+    "difficulty": "Medium",
+    "en": "Which of the following is considered a primary clean energy target under India's Panchamrit commitments announced at COP26?",
+    "te": "COP26 వద్ద ప్రకటించిన భారతదేశ పంచమృత నిబద్ధతల క్రింద క్రింది వాటిలో ఏది ప్రాథమిక స్వచ్ఛమైన శక్తి లక్ష్యంగా పరిగణించబడుతుంది?",
+    "opts": [
+      "Achieving 500 GW of non-fossil energy capacity by 2030",
+      "Eliminating coal usage entirely by 2025",
+      "Reaching net-zero carbon emissions by 2050",
+      "Deriving 100% energy from nuclear sources by 2040"
+    ],
+    "ans": 0,
+    "exp": "At COP26 in Glasgow, India pledged to reach 500 GW of non-fossil energy capacity by 2030 as part of its five nectar elements (Panchamrit)."
+  },
+  {
+    "id": "P3_MED_056",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "Which of the following methods is primarily used in India for estimating the National Income for the agricultural and allied sectors?",
+    "te": "వ్యవసాయ మరియు అనుబంధ రంగాల జాతీయ ఆదాయాన్ని అంచనా వేయడానికి భారతదేశంలో ప్రధానంగా క్రింది ఏ పద్ధతిని ఉపయోగిస్తారు?",
+    "opts": [
+      "Expenditure Method (వ్యయ పద్ధతి)",
+      "Output or Value Added Method (ఉత్పత్తి లేదా విలువ జోడించిన పద్ధతి)",
+      "Income Method (ఆదాయ పద్ధతి)",
+      "Investment Method (పెట్టుబడి పద్ధతి)"
+    ],
+    "ans": 1,
+    "exp": "In India, the Output or Value Added method is primarily used for the primary sector (agriculture and allied activities) to calculate National Income, as it involves computing the net value of goods produced."
+  },
+  {
+    "id": "P3_MED_057",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "In the context of National Income accounting in India, the base year for the current series of Gross Domestic Product (GDP) calculations is:",
+    "te": "భారతదేశంలో జాతీయ ఆదాయ లెక్కల సందర్భంలో, ప్రస్తుత స్థూల దేశీయోత్పత్తి (GDP) గణనల ఆధార సంవత్సరం ఏది?",
+    "opts": [
+      "2004-05",
+      "2011-12",
+      "2014-15",
+      "2015-16"
+    ],
+    "ans": 1,
+    "exp": "The Central Statistics Office (CSO) revised the base year for GDP calculation to 2011-12 from 2004-05 in January 2015."
+  },
+  {
+    "id": "P3_MED_058",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "What has been the structural change trend in India's Gross Value Added (GVA) sectoral shares over recent decades?",
+    "te": "ఇటీవలి దశాబ్దాలలో భారతదేశం యొక్క స్థూల విలువ జోడించిన (GVA) రంగాల వాటాలలో నిర్మాణ మార్పు ధోరణి ఏమిటి?",
+    "opts": [
+      "Decline in Service sector share and rise in Agriculture share (సేవా రంగ వాటా క్షీణత మరియు వ్యవసాయ వాటా పెరుగుదల)",
+      "Rise in Agriculture share and decline in Industrial share (వ్యవసాయ వాటా పెరుగుదల మరియు పారిశ్రామిక వాటా క్షీణత)",
+      "Decline in Agriculture share and significant rise in Service sector share (వ్యవసాయ వాటా క్షీణత మరియు సేవా రంగ వాటా గణనీయమైన పెరుగుదల)",
+      "Equal growth across all three sectors (అన్ని రంగాలలో సమాన వృద్ధి)"
+    ],
+    "ans": 2,
+    "exp": "A classic hallmark of India's structural change has been the rapid fall of agriculture's share in GVA and a significant rise in the share of the tertiary (services) sector, bypassing the traditional secondary-led industrial transition."
+  },
+  {
+    "id": "P3_MED_059",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "Which of the following is excluded while estimating Gross National Product (GNP) at market prices?",
+    "te": "మార్కెట్ ధరల వద్ద స్థూల జాతీయ ఉత్పత్తిని (GNP) అంచనా వేసేటప్పుడు క్రింది వాటిలో దನನ್ನು మినహాయిస్తారు?",
+    "opts": [
+      "Net factor income from abroad (విదేశాల నుండి నికర కారక ఆదాయం)",
+      "Purchase of second-hand goods already in existence (ఇప్పటికే ఉన్న రెండవ చేతి వస్తువుల కొనుగోలు)",
+      "Indirect taxes (పరోక్ష పన్నులు)",
+      "Subsidies (సబ్సిడీలు)"
+    ],
+    "ans": 1,
+    "exp": "Transactions involving second-hand goods are excluded from GNP estimation to avoid double counting, as their value was already counted in the year they were originally produced."
+  },
+  {
+    "id": "P3_MED_060",
+    "paper": "Paper-III",
+    "topic": "Indian Economy: Issues and Challenges - National Income, Trends, Measurement and Sectoral Shares",
+    "difficulty": "Medium",
+    "en": "Net Domestic Product (NDP) is obtained by subtracting which of the following from Gross Domestic Product (GDP)?",
+    "te": "స్థూల దేశీయోత్పత్తి (GDP) నుండి క్రింది వాటిలో దನನ್ನು తీసివేయడం ద్వారా నికర దేశీయోత్పత్తి (NDP) పొందబడుతుంది?",
+    "opts": [
+      "Net Indirect Taxes (నికర పరోక్ష పన్నులు)",
+      "Depreciation or Consumption of Fixed Capital (ధరుగుదల లేదా స్థిర మూలధన వినియోగం)",
+      "Net Factor Income from Abroad (విదేశాల నుండి నికర కారక ఆదాయం)",
+      "Personal Taxes (వ్యక్తిగత పన్నులు)"
+    ],
+    "ans": 1,
+    "exp": "NDP is calculated by subtracting depreciation (wear and tear or consumption of fixed capital) from GDP."
+  },
+  {
+    "id": "P3_MED_061",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Which of the following dimensions are used to calculate the Multidimensional Poverty Index (MPI)?",
+    "te": "బహుమితీయ పేదరిక సూచిక (MPI)ను లెక్కించడానికి క్రింది వాటిలో ఏ కోణాలను ఉపయోగిస్తారు?",
+    "opts": [
+      "Health, Education, and Standard of Living / ఆరోగ్యం, విద్య మరియు జీవన ప్రమాణం",
+      "Per capita income, Literacy rate, and Life expectancy / తలసరి ఆదాయం, అక్షరాస్యత రేటు మరియు ఆయుఃప్రమాణం",
+      "Employment rate, Inflation, and GDP growth / ఉపాధి రేటు, ద్రవ్యోల్బణం మరియు జిడిపి వృద్ధి",
+      "Food security, Housing, and Sanitation / ఆహార భద్రత, గృహనిర్మాణం మరియు పారిశుధ్యం"
+    ],
+    "ans": 0,
+    "exp": "The Global MPI uses three dimensions: Health, Education, and Standard of Living, comprising 10 indicators. / గ్లోబల్ MPI మూడు పరిమాణాలను ఉపయోగిస్తుంది: ఆరోగ్యం, విద్య మరియు జీవన ప్రమాణం, ఇవి 10 సూచికలను కలిగి ఉంటాయి."
+  },
+  {
+    "id": "P3_MED_062",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "What type of unemployment is typically observed in the agricultural sector of developing countries like India, where marginal productivity of labor is zero or negative?",
+    "te": "భారతదేశం వంటి అభివృద్ధి చెందుతున్న దేశాల వ్యవసాయ రంగంలో, శ్రామిక ఉత్పాదకత సున్నా లేదా ప్రతికూలంగా ఉండే ఏ రకమైన నిరుద్యోగం సాధారణంగా కనిపిస్తుంది?",
+    "opts": [
+      "Frictional unemployment / రాపిడి నిరుద్యోగం",
+      "Structural unemployment / నిర్మాణపరమైన నిరుద్యోగం",
+      "Disguised unemployment / ప్రచ్ఛన్న నిరుద్యోగం",
+      "Cyclical unemployment / చక్రీయ నిరుద్యోగం"
+    ],
+    "ans": 2,
+    "exp": "Disguised unemployment occurs when more people are employed in a job than actually needed, common in Indian agriculture. / ప్రచ్ఛన్న నిరుద్యోగం అనేది వాస్తవానికి అవసరమైనదాని కంటే ఎక్కువ మంది ఉద్యోగంలో ఉన్నప్పుడు సంభవిస్తుంది, ఇది భారతీయ వ్యవసాయంలో సర్వసాధారణం."
+  },
+  {
+    "id": "P3_MED_063",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Who among the following was the pioneer in introducing the concept of the Human Development Index (HDI) in the United Nations Development Programme (UNDP)?",
+    "te": "ఐక్యరాజ్యసమితి అభివృద్ధి కార్యక్రమం (UNDP)లో మానవ అభివృద్ధి సూచిక (HDI) భావనను ప్రవేశపెట్టడంలో మార్గదర్శకులు ఎవరు?",
+    "opts": [
+      "Amartya Sen and Jagdish Bhagwati / అమర్త్య సేన్ మరియు జగదీష్ భగవతి",
+      "Mahbub ul Haq and Amartya Sen / మహబూబ్ ఉల్ హక్ మరియు అమర్త్య సేన్",
+      "Adam Smith and David Ricardo / ఆడం స్మిత్ మరియు డేవిడ్ రికార్డో",
+      "Joseph Stiglitz and Paul Krugman / జోసెఫ్ స్టిగ్లిట్జ్ మరియు పాల్ క్రుగ్‌మన్"
+    ],
+    "ans": 1,
+    "exp": "The HDI was created by Pakistani economist Mahbub ul Haq and Indian economist Amartya Sen in 1990 for UNDP. / HDIని 1990లో పాకిస్తానీ ఆర్థికవేత్త మహబూబ్ ఉల్ హక్ మరియు భారతీయ ఆర్థికవేత్త అమర్త్య సేన్ UNDP కోసం సృష్టించారు."
+  },
+  {
+    "id": "P3_MED_064",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Inclusive growth, as targeted in India's recent Five-Year Plans, primarily aims at achieving which of the following?",
+    "te": "భారతదేశం యొక్క ఇటీవలి పంచవర్ష ప్రణాళికలలో లక్ష్యంగా పెట్టుకున్నట్లుగా, కలుపుకొనిపోయే వృద్ధి (Inclusive Growth) ప్రాథమికంగా క్రింది వాటిలో దేనిని సాధించాలని లక్ష్యంగా పెట్టుకుంది?",
+    "opts": [
+      "Rapid industrialization exclusively in urban areas / కేవలం పట్టణ ప్రాంతాలలో వేగవంతమైన పారిశ్రామికీకరణ",
+      "Growth with rapid reduction in poverty and reduction of regional disparities / పేదరికం మరియు ప్రాంతీయ అసమానతల యొక్క వేగవంతమైన తగ్గింపుతో కూడిన వృద్ధి",
+      "Export-led growth without domestic market focus / దేశీయ మార్కెట్ దృష్టి లేకుండా ఎగుమతి ఆధారిత వృద్ధి",
+      "Monetary expansion and high fiscal deficit / ద్రవ్య విస్తరణ మరియు అధిక ద్రవ్య లోటు"
+    ],
+    "ans": 1,
+    "exp": "Inclusive growth focuses on economic growth that creates employment opportunities and reduces poverty and regional/social disparities. / కలుపుకొనిపోయే వృద్ధి అనేది ఉపాధి అవకాశాలను సృష్టించే మరియు పేదరికం మరియు ప్రాంతీయ/సామాజిక అసమానతలను తగ్గించే ఆర్థిక వృద్ధిపై దృష్టి పెడుతుంది."
+  },
+  {
+    "id": "P3_MED_065",
+    "paper": "Paper-III",
+    "topic": "Poverty, Unemployment, Human Development Index (HDI) and Inclusive Growth",
+    "difficulty": "Medium",
+    "en": "Which committee constituted by the Planning Commission of India estimated poverty based on a methodology that included both calorie intake and monthly per capita consumption expenditure on education and health?",
+    "te": "కేలరీల తీసుకోవడం మరియు విద్య మరియు ఆరోగ్యంపై నెలవారీ తలసరి వినియోగ వ్యయం రెండింటినీ ഉൾపరిచే పద్ధతి ఆధారంగా పేదరికాన్ని అంచనా వేసిన భారతదేశ ప్రణాళికా సంఘం ఏర్పాటు చేసిన కమిటీ ఏది?",
+    "opts": [
+      "Lakdawala Committee / లక్డావాలా కమిటీ",
+      "Tendulkar Committee / టెండూల్కర్ కమిటీ",
+      "Rangarajan Committee / రంగరాజన్ కమిటీ",
+      "Santhanam కమిటీ / సంతానం కమిటీ"
+    ],
+    "ans": 1,
+    "exp": "The Suresh Tendulkar Committee (2009) shifted away from calorie-based poverty estimation to a wider consumption basket including health and education. / సురేష్ టెండూల్కర్ కమిటీ (2009) కేలరీల ఆధారిత పేదరిక అంచనా నుండి ఆరోగ్యం మరియు విద్యతో కూడిన విస్తృత వినియోగ బుట్టకు మారినది."
+  },
+  {
+    "id": "P3_MED_066",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which of the following bodies replaced the National Development Council (NDC) in the cooperative federalism framework of NITI Aayog?",
+    "te": "నీతి ఆయోగ్ యొక్క సహకార సమాఖ్యవాద వ్యవస్థలో జాతీయ అభివృద్ధి మండలి (NDC) స్థానంలో క్రింది వాటిలో ఏది ఏర్పాటు చేయబడింది?",
+    "opts": [
+      "Governing Council / గవర్నింగ్ కౌన్సిల్",
+      "Regional Council / ప్రాంతీయ మండలి",
+      "Finance Commission / ఆర్థిక సంఘం",
+      "Inter-State Council / అంతర్-రాష్ట్ర మండలి"
+    ],
+    "ans": 0,
+    "exp": "The Governing Council of NITI Aayog, comprising all Chief Ministers and Lieutenant Governors of Union Territories, replaced the National Development Council."
+  },
+  {
+    "id": "P3_MED_067",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "What does 'Fiscal Deficit' primarily indicate about a government's finances?",
+    "te": "ప్రభుత్వ ఆర్థిక స్థితికి సంబంధించి 'ద్రవ్య లోటు' (Fiscal Deficit) ప్రధానంగా దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Total expenditure minus total receipts excluding borrowings / మొత్తం రుణాలు మినహాయించి మొత్తం వ్యయం మరియు మొత్తం రాబడుల మధ్య తేడా",
+      "Revenue expenditure minus revenue receipts / రెవెన్యూ వ్యయం మరియు రెవెన్యూ రాబడుల మధ్య తేడా",
+      "Total expenditure minus total revenue including borrowings / రుణాలు కలుపుకొని మొత్తం వ్యయం మరియు మొత్తం రాబడుల తేడా",
+      "Capital expenditure minus capital receipts మాత్రమే / కేపిటల్ వ్యయం మరియు కేపిటల్ రాబడుల తేడా మాత్రమే"
+    ],
+    "ans": 0,
+    "exp": "Fiscal deficit is the difference between total expenditure and total receipts excluding borrowings, representing the total borrowing requirement of the government."
+  },
+  {
+    "id": "P3_MED_068",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Goods and Services Tax (GST) in India is levied on the principle of:",
+    "te": "భారతదేశంలో వస్తు మరియు సేవా పన్ను (GST) క్రింది సూత్రం ఆధారంగా విధించబడుతుంది:",
+    "opts": [
+      "Origin-based taxation / ఉత్పత్తి ఆధారిత పన్ను విధానం",
+      "Destination-based taxation / గమ్యస్థాన ఆధారిత పన్ను విధానం",
+      "Source-based taxation / వనరుల ఆధారిత పన్ను విధానం",
+      "Export-based taxation / ఎగుమతి ఆధారిత పన్ను విధానం"
+    ],
+    "ans": 1,
+    "exp": "GST is a destination-based consumption tax, meaning the tax is collected by the state where the goods or services are finally consumed."
+  },
+  {
+    "id": "P3_MED_069",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which committee is famously associated with the recommendation of the establishment of the Narasimham Committee on Financial Sector Reforms in India?",
+    "te": "భారతదేశంలో ఆర్థిక రంగ సంస్కరణలపై నరసింహం కమిటీ ఏర్పాటుకు సిఫార్సు చేసిన కమిటీ ఏది?",
+    "opts": [
+      "Rangarajan Committee / రంగరాజన్ కమిటీ",
+      "Narasimham Committee itself / స్వయంగా నరసింహం కమిటీ",
+      "Kelkar Committee / కేల్కర్ కమిటీ",
+      "Sarkaria Committee / సర్కారియా కమిటీ"
+    ],
+    "ans": 1,
+    "exp": "The Narasimham Committee (1991 and 1998) was specifically appointed to recommend comprehensive reforms in India's financial sector, including banking."
+  },
+  {
+    "id": "P3_MED_070",
+    "paper": "Paper-III",
+    "topic": "Planning in Indian Economy: NITI Aayog, Public Finance, Fiscal Deficit, GST and Financial Sector Reforms",
+    "difficulty": "Medium",
+    "en": "Which of the following components constitutes the largest share of Revenue Receipts in the Union Budget of India?",
+    "te": "భారత కేంద్ర బడ్జెట్‌లో రెవెన్యూ రాబడులలో క్రింది వాటిలో ఏది అత్యధిక వాటాను కలిగి ఉంటుంది?",
+    "opts": [
+      "Non-tax revenue / పన్నేతర రాబడులు",
+      "Corporation tax / కార్పొరేషన్ పన్ను",
+      "GST and other tax revenues / జీఎస్‌టీ మరియు ఇతర పన్ను రాబడులు",
+      "Grants-in-aid / సహాయ గ్రాంట్లు"
+    ],
+    "ans": 2,
+    "exp": "Tax revenues (including GST, income tax, and corporation tax) form the major chunk of the total revenue receipts of the Union Government."
+  },
+  {
+    "id": "P3_MED_071",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which of the following components was NOT a primary feature of the Green Revolution introduced in India during the mid-1960s?",
+    "te": "1960ల మధ్యకాలంలో భారతదేశంలో ప్రవేశపెట్టబడిన హరిత విప్లవத்தின் ప్రాథమిక లక్షణాలలో క్రింది వాటిలో ఏది కాదు?",
+    "opts": [
+      "Use of High Yielding Varieties (HYV) of seeds",
+      "Expansion of irrigation infrastructure",
+      "Promotion of organic and traditional farming methods",
+      "Use of chemical fertilizers and pesticides"
+    ],
+    "ans": 2,
+    "exp": "The Green Revolution focused heavily on modern technological inputs such as HYV seeds, chemical fertilizers, pesticides, and assured irrigation, rather than organic or traditional farming."
+  },
+  {
+    "id": "P3_MED_072",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Consider the following regarding the Minimum Support Price (MSP): Who recommends the MSP for various agricultural commodities in India?",
+    "te": "కనిష్ట మద్దతు ధర (MSP)కి సంబంధించి క్రింది వాటిని పరిశీలించండి: భారతదేశంలో వివిధ వ్యవసాయ వస్తువులకు MSPని ఎవరు సిఫార్సు చేస్తారు?",
+    "opts": [
+      "Commission for Agricultural Costs and Prices (CACP)",
+      "NITI Aayog",
+      "Reserve Bank of India (RBI)",
+      "Cabinet Committee on Economic Affairs (CCEA)"
+    ],
+    "ans": 0,
+    "exp": "The Commission for Agricultural Costs and Prices (CACP) recommends the MSPs, while the final decision and announcement are made by the Cabinet Committee on Economic Affairs (CCEA)."
+  },
+  {
+    "id": "P3_MED_073",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which constitutional instrument/schedule was primarily utilized by the Indian states immediately after independence to implement Zamindari abolition and land ceiling acts?",
+    "te": "స్వాతంత్ర్యానంతరం జమీందారీ రద్దు మరియు భూ గరిష్ట పరిమితి చట్టాలను అమలు చేయడానికి భారతీయ రాష్ట్రాలు ప్రధానంగా ఏ రాజ్యాంగ సాధనం/షెడ్యూల్‌ను ఉపయోగించాయి?",
+    "opts": [
+      "Eighth Schedule",
+      "Ninth Schedule",
+      "Sixth Schedule",
+      "Seventh Schedule"
+    ],
+    "ans": 1,
+    "exp": "The Ninth Schedule was added by the First Constitutional Amendment Act of 1951 to protect land reform laws from judicial review."
+  },
+  {
+    "id": "P3_MED_074",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the National Food Security Act (NFSA), 2013 enacted in India?",
+    "te": "భారతదేశంలో అమలవుతున్న జాతీయ ఆహార భద్రతా చట్టం (NFSA), 2013 యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To provide subsidized fertilizers to marginal farmers",
+      "To provide assured employment to rural households",
+      "To provide subsidized food grains to approximately two-thirds of India's population",
+      "To provide institutional credit waiver for agricultural loans"
+    ],
+    "ans": 2,
+    "exp": "NFSA 2013 legally entitles up to 75% of the rural population and 50% of the urban population to receive subsidized food grains under the Targeted Public Distribution System."
+  },
+  {
+    "id": "P3_MED_075",
+    "paper": "Paper-III",
+    "topic": "Indian Agriculture: Land Reforms, Green Revolution, Agricultural Finance, MSP and Food Security",
+    "difficulty": "Medium",
+    "en": "Which institution serves as the apex cooperative bank at the national level for financing agricultural and rural development in India?",
+    "te": "భారతదేశంలో వ్యవసాయ మరియు గ్రామీణాభివృద్ధికి ఆర్థిక సహాయం చేయడానికి జాతీయ స్థాయిలో అత్యున్నత సహకార బ్యాంకుగా ఏ సంస్థ పనిచేస్తుంది?",
+    "opts": [
+      "Reserve Bank of India (RBI)",
+      "State Bank of India (SBI)",
+      "National Bank for Agriculture and Rural Development (NABARD)",
+      "Small Industries Development Bank of India (SIDBI)"
+    ],
+    "ans": 2,
+    "exp": "NABARD was established in 1982 on the recommendation of the B. Sivaraman Committee as an apex development bank for agriculture and rural sectors."
+  },
+  {
+    "id": "P3_MED_076",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "As per the revised classification of MSMEs introduced in July 2020, what is the criteria for a 'Medium Enterprise' in terms of annual turnover?",
+    "te": "జూలై 2020లో ప్రవేశపెట్టిన MSMEల సవరించిన వర్గీకరణ ప్రకారం, వార్షిక టర్నోవర్ పరంగా 'మధ్యతరహా పరిశ్రమ' (Medium Enterprise) ప్రమాణం ఏమిటి?",
+    "opts": [
+      "More than Rs. 5 crore and up to Rs. 50 crore / రూ. 5 కోట్ల కంటే ఎక్కువ మరియు రూ. 50 కోట్ల వరకు",
+      "More than Rs. 50 crore and up to Rs. 250 crore / రూ. 50 కోట్ల కంటే ఎక్కువ మరియు రూ. 250 కోట్ల వరకు",
+      "More than Rs. 100 crore and up to Rs. 500 crore / రూ. 100 కోట్ల కంటే ఎక్కువ మరియు రూ. 500 కోట్ల వరకు",
+      "Up to Rs. 100 crore / రూ. 100 కోట్ల వరకు"
+    ],
+    "ans": 1,
+    "exp": "Under the revised MSME definition, a Medium Enterprise is defined as one where the investment does not exceed Rs. 50 crore and turnover does not exceed Rs. 250 crore."
+  },
+  {
+    "id": "P3_MED_077",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "Which of the following industrial policies marked the paradigm shift towards liberalization, privatization, and globalization (LPG) in India?",
+    "te": "భారతదేశంలో సరళీకరణ, ప్రైవేటీకరణ మరియు ప్రపంచీకరణ (LPG) వైపు పార్adigమ్ మార్పును కింది ఏ పారిశ్రామిక విధానం సూచించింది?",
+    "opts": [
+      "Industrial Policy Resolution of 1948 / 1948 పారిశ్రామిక తీర్మానం",
+      "Industrial Policy Resolution of 1956 / 1956 పారిశ్రామిక తీర్మానం",
+      "Industrial Policy Statement of 1977 / 1977 పారిశ్రామిక విధాన ప్రకటన",
+      "New Industrial Policy of 1991 / 1991 కొత్త పారిశ్రామిక విధానం"
+    ],
+    "ans": 3,
+    "exp": "The New Industrial Policy of 1991 dismantled the License Raj, opened up foreign direct investment, and heralded the era of LPG in India."
+  },
+  {
+    "id": "P3_MED_078",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "Consider the following statements regarding the Information Technology (IT) sector in India: 1. India is one of the world's largest sourcing destinations for the IT industry. 2. Business Process Management (BPM) is a major segment of this sector. Which of the statements given above is/are correct?",
+    "te": "భారతదేశంలోని సమాచార సాంకేతికత (IT) రంగానికి సంబంధించి కింది ప్రకటనలను పరిశీలించండి: 1. IT పరిశ్రమకు భారతదేశం ప్రపంచంలోనే అతిపెద్ద సోర్సింగ్ గమ్యస్థానాలలో ఒకటి. 2. బిజినెస్ ప్రాసెస్ మేనేజ్‌మెంట్ (BPM) ఈ రంగంలో ఒక ప్రధాన విభాగం. పై ప్రకటనలలో ఏది/ఏవి సరైనది?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 2,
+    "exp": "Both statements are correct. India holds a dominant share in the global IT-BPM sourcing market, contributing significantly to services exports and employment."
+  },
+  {
+    "id": "P3_MED_079",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "The 'Dekho Apna Desh' initiative, launched by the Ministry of Tourism, is primarily aimed at what objective?",
+    "te": "పర్యాటక మంత్రిత్వ శాఖ ప్రారంభించిన 'దేఖో అప్నా దేశ్' చొరవ ప్రధానంగా ఏ లక్ష్యంతో రూపొందించబడింది?",
+    "opts": [
+      "Attracting foreign direct investment in hotel infrastructure / హోటల్ మౌలిక సదుపాయాలలో విదేశీ ప్రత్యక్ష పెట్టుబడులను ఆకర్షించడం",
+      "Encouraging Indian citizens to travel extensively within the country / భారతీయ పౌరులు దేశం内లో విస్తృతంగా ప్రయాణించేలా ప్రోత్సహించడం",
+      "Providing financial subsidies to international tour operators / అంతర్జాతీయ టూర్ ఆపరేటర్లకు ఆర్థిక రాయితీలు అందించడం",
+      "Developing religious circuits exclusively in rural areas / ప్రత్యేకంగా గ్రామీణ ప్రాంతాలలో మతపరమైన సర్క్యూట్లను అభివృద్ధి చేయడం"
+    ],
+    "ans": 1,
+    "exp": "Dekho Apna Desh initiative appeals to Indians to encourage domestic tourism, explore various tourist destinations within the country, and boost domestic tourism consumption."
+  },
+  {
+    "id": "P3_MED_080",
+    "paper": "Paper-III",
+    "topic": "Indian Industry and Services: Industrial Policy, Micro, Small & Medium Enterprises (MSME), IT & Tourism",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the 'Udyam Registration' portal launched by the Ministry of Micro, Small and Medium Enterprises?",
+    "te": "సూక్ష్మ, చిన్న మరియు మధ్యతరహా పరిశ్రమల మంత్రిత్వ శాఖ ప్రారంభించిన 'ఉద్యమ్ రిజిస్ట్రేషన్' పోర్టల్ యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To provide digital marketing training to rural artisans / గ్రామీణ కళాకారులకు డిజిటల్ మార్కెటింగ్ శిక్షణ ఇవ్వడం",
+      "To streamline and simplify the registration process for MSMEs online / MSMEల ఆన్‌లైన్ రిజిస్ట్రేషన్ ప్రక్రియను క్రమబద్ధీకరించడం మరియు సులభతరం చేయడం",
+      "To allocate direct bank loans without any collateral / ఎలాంటి పూచీకత్తు లేకుండా నేరుగా బ్యాంకు రుణాలను కేటాయించడం",
+      "To conduct a census of large-scale manufacturing units / పెద్ద ఎత్తున తయారీ యూనిట్ల జనాభా లెక్కలను నిర్వహించడం"
+    ],
+    "ans": 1,
+    "exp": "Udyam Registration is a web portal launched for the online, paperless, and hassle-free registration of MSMEs, providing a unique identity number to enterprises."
+  },
+  {
+    "id": "P3_MED_081",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "Which system of land revenue was predominantly prevalent in the Khalsa (crown) lands of the erstwhile Hyderabad State under the Nizams?",
+    "te": "నిజాముల ఆధ్వర్యంలోని పూర్వపు హైదరాబాద్ రాష్ట్రంలోని ఖల్సా (క్రౌన్) భూములలో ఎక్కువగా ఏ భూమిశిస్తు విధానం అమల్లో ఉండేది?",
+    "opts": [
+      "Zamindari System",
+      "Ryotwari System",
+      "Jagirdari System",
+      "Inam System"
+    ],
+    "ans": 1,
+    "exp": "Under the Nizam's rule, the Ryotwari system (locally known as the Diwani or Khalsa system) was prevalent in directly administered crown lands, where the state collected revenue directly from the cultivators."
+  },
+  {
+    "id": "P3_MED_082",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "What was the primary economic characteristic of the Jagirdari system in the Asaf Jahi period?",
+    "te": "ఆసఫ్ జాహీ కాలంలో జాగీర్ధారీ వ్యవస్థ యొక్క ప్రధాన ఆర్థిక లక్షణం ఏమిటి?",
+    "opts": [
+      "Direct taxation by the central treasury without intermediaries",
+      "Assignment of revenue-yielding land tracts to nobles for administrative and military support",
+      "Equal distribution of land among all cultivating farmers",
+      "A cooperative farming system managed by village councils"
+    ],
+    "ans": 1,
+    "exp": "Jagirdari was an administrative system where the Nizam assigned revenue grants (jagirs) of specific villages or tracts to nobles (jagirdars) in lieu of services or administrative maintenance, creating intermediaries."
+  },
+  {
+    "id": "P3_MED_083",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "The industrial development under the later Nizams (especially Mir Osman Ali Khan) was primarily concentrated in which region of the state?",
+    "te": "తరువాతి నిజాముల (ముఖ్యంగా ఏడవ నిజామ్ మీర్ ఉస్మాన్ అలీ ఖాన్) కాలంలో పారిశ్రామిక అభివృద్ధి ప్రధానంగా రాష్ట్రంలోని ఏ ప్రాంతంలో కేంద్రీకృతమైంది?",
+    "opts": [
+      "Telangana districts outside Hyderabad city",
+      "Marathwada region",
+      "Hyderabad city and its immediate surroundings",
+      "Karnataka-Hyderabad (Gulbarga) region"
+    ],
+    "ans": 2,
+    "exp": "Major industrial units, infrastructure, and institutional setups established during the Nizam's era were heavily concentrated in and around Hyderabad city, leading to regional disparities within the princely state."
+  },
+  {
+    "id": "P3_MED_084",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "Which famous socio-economic uprising in the Telangana region (1946-1951) was directed against oppressive feudal landlords (Deshmuks and Jagirdars)?",
+    "te": "అణచివేతకు గురిచేసిన భూస్వాములు (దేశ్‌ముఖ్‌లు, జాగీర్దారులు) వ్యతిరేకంగా తెలంగాణ ప్రాంతంలో జరిగిన ప్రసిద్ధ సామాజిక-ఆర్థిక తిరుగుబాటు (1946-1951) ఏది?",
+    "opts": [
+      "Rampa Rebellion",
+      "Telangana Armed Peasant Struggle",
+      "Vuyyuru Satyagraha",
+      "Nizamabad Kisan Sabha Movement"
+    ],
+    "ans": 1,
+    "exp": "The Telangana Armed Peasant Struggle was a historic communist-led peasant revolt against the oppressive feudal setup, forced labor (Vetti), and heavy land extractions by Deshmuks, Jagirdars, and the Nizam's administration."
+  },
+  {
+    "id": "P3_MED_085",
+    "paper": "Paper-III",
+    "topic": "Telangana Economy: Economic History under Nizam Rule and Regional Economic Disparities",
+    "difficulty": "Medium",
+    "en": "The forced labor system widely prevalent in the erstwhile Hyderabad State under the feudal lords was known as:",
+    "te": "భూస్వాముల ఆధ్వర్యంలో పూర్వపు హైదరాబాద్ రాష్ట్రంలో విస్తృతంగా అమల్లో ఉన్న బలవంతపు చాకిరీ విధానాన్ని ఏమని పిలిచేవారు?",
+    "opts": [
+      "Bhagela system",
+      "Vetti system",
+      "Mirasi system",
+      "Bandam system"
+    ],
+    "ans": 1,
+    "exp": "Vetti was a notorious system of forced, unpaid or underpaid labor extracted from lower castes and marginalized peasants by feudal lords, deshmuks, and government officials in the Nizam's dominions."
+  },
+  {
+    "id": "P3_MED_086",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "As per the Socio-Economic Outlook of Telangana, which sector has consistently contributed the largest share to the Gross State Value Added (GSVA) at current prices in recent years?",
+    "te": "తెలంగాణ సామాజిక-ఆర్థిక సర్వే ప్రకారం, ఇటీవలి సంవత్సరాలలో ప్రస్తుత ధరల వద్ద స్థూల రాష్ట్ర విలువ జోడించబడిన (GSVA) లో ఏ రంగం నిలకడగా అత్యధిక వాటాను సమకూర్చింది?",
+    "opts": [
+      "Agriculture and Allied Sectors / వ్యవసాయ మరియు అనుబంధ రంగాలు",
+      "Industrial Sector / పారిశ్రామిక రంగం",
+      "Service Sector / సేవా రంగం",
+      "Manufacturing Sector / తయారీ రంగం"
+    ],
+    "ans": 2,
+    "exp": "The Service sector has been the dominant contributor to Telangana's GSVA, accounting for the largest share among the three major sectors, followed by the Industry and Agriculture sectors.",
+    "exp_te": "తెలంగాణ GSVA లో సేవా రంగం అత్యధిక వాటాను కలిగి ఉంది, ఇది మూడు ప్రధాన రంగాలలో అత్యధిక వాటాను ఆక్రమించింది, తర్వాతి స్థానాల్లో పారిశ్రామిక మరియు వ్యవసాయ రంగాలు ఉన్నాయి."
+  },
+  {
+    "id": "P3_MED_087",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "What has been a notable trend in Telangana's structural transformation since its formation in 2014 regarding the GSDP composition?",
+    "te": "GSDP కూర్పుకు సంబంధించి 2014లో తెలంగాణ ఏర్పడినప్పటి నుండి దాని నిర్మాణ మార్పులో గమనించదగిన ధోరణి ఏమిటి?",
+    "opts": [
+      "Decline in the share of the Service sector and rise in Agriculture / సేవా రంగం వాటా క్షీణించడం మరియు వ్యవసాయం పెరగడం",
+      "Gradual diversification with a significant boost in the Industrial and Service sectors / పారిశ్రామిక మరియు సేవా రంగాలలో గణనీయమైన ఊపుతో క్రమమైన వైవిధ్యೀకరణ",
+      "Stagnation of all sectors at pre-2014 levels / అన్ని రంగాలు 2014 కింద స్థాయిల వద్ద స్థబ్దత చెందడం",
+      "Absolute dominance of the Agriculture sector over all other sectors / అన్ని ఇతర రంగాలపై వ్యవసాయ రంగం పూర్తి ఆధిపత్యం"
+    ],
+    "ans": 1,
+    "exp": "Telangana's economy has undergone a structural transformation marked by robust growth and diversification, with the industrial and service sectors driving the GSDP, alongside targeted revitalization of agriculture through initiatives like Rythu Bandhu and irrigation projects.",
+    "exp_te": "రైతుబంధు మరియు నీటిపారుదల ప్రాజెక్ట్‌ల వంటి కార్యక్రమాల ద్వారా వ్యవసాయ పునరుజ్జీవనంతో పాటు, పారిశ్రామిక మరియు సేవా రంగాలు GSDP ని నడిపించడంతో తెలంగాణ ఆర్థిక వ్యవస్థ బలమైన వృద్ధి మరియు వైవిధ్యీకరణతో కూడిన నిర్మాణ మార్పుకు లోనైంది."
+  },
+  {
+    "id": "P3_MED_088",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "How does Telangana's Per Capita Income (at current prices) compare nationally in recent years based on Ministry of Statistics and Programme Implementation (MoSPI) data?",
+    "te": "గణాంకాలు మరియు కార్యక్రమ అమలు మంత్రిత్వ శాఖ (MoSPI) డేటా ఆధారంగా ఇటీవలి సంవత్సరాలలో జాతీయ స్థాయిలో తెలంగాణ తలసరి ఆదాయం (ప్రస్తుత ధరల వద్ద) ఎలా ఉంది?",
+    "opts": [
+      "Significantly lower than the All-India average / అఖిల భారత సగటు కంటే గణనీయంగా తక్కువగా ఉంది",
+      "Roughly equal to the All-India average / దాదాపు అఖిల భారత సగటుకు సమానంగా ఉంది",
+      "Consistently among the highest among large and populous states in India / భారతదేశంలోని పెద్ద మరియు ఎక్కువ జనాభా ఉన్న రాష్ట్రాలలో నిలకడగా అత్యధికంగా ఉంది",
+      "Lowest among all southern states / అన్ని దక్షిణ రాష్ట్రాలలో అత్యల్పంగా ఉంది"
+    ],
+    "ans": 2,
+    "exp": "Telangana has consistently recorded a Per Capita Income significantly higher than the All-India average, placing it among the top-performing large states in the country.",
+    "exp_te": "తెలంగాణ అఖిల భారత సగటు కంటే గణనీయంగా ఎక్కువ తలసరి ఆదాయాన్ని నిలకడగా నమోదు చేసింది, ఇది దేశంలో అత్యుత్తమ ప్రతిభ కనబరుస్తున్న పెద్ద రాష్ట్రాలలో ఒకటిగా నిలిచింది."
+  },
+  {
+    "id": "P3_MED_089",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "Which sub-sector within the Industrial sector has shown remarkable dynamism and growth contribution to Telangana's economy in recent years?",
+    "te": "ఇటీవలి సంవత్సరాలలో తెలంగాణ ఆర్థిక వ్యవస్థకు పారిశ్రామిక రంగానికి చెందిన ఏ ఉప-రంగం అద్భుతమైన డైనమిజం మరియు వృద్ధి సహకారాన్ని చూపింది?",
+    "opts": [
+      "Mining and Quarrying only / మైనింగ్ మరియు క్వారీయింగ్ మాత్రమే",
+      "Construction and Manufacturing / నిర్మాణం మరియు తయారీ",
+      "Traditional handlooms exclusively / సాంప్రదాయ చేనేత రంగాలు మాత్రమే",
+      "Plantation agriculture / ప్లాంటేషన్ వ్యవసాయం"
+    ],
+    "ans": 1,
+    "exp": "Both Manufacturing and Construction, along with Electricity, Gas, and Water Supply, have been major drivers within the industrial sector, contributing robustly to the GSVA of Telangana.",
+    "exp_te": "తయారీ మరియు నిర్మాణం రెండూ, విద్యుత్, గ్యాస్ మరియు నీటి సరఫరాతో పాటు, పారిశ్రామిక రంగంలో ప్రధాన డ్రైవర్‌లుగా ఉన్నాయి, ఇవి తెలంగాణ GSVA కు పటిష్టంగా సహకరిస్తున్నాయి."
+  },
+  {
+    "id": "P3_MED_090",
+    "paper": "Paper-III",
+    "topic": "Telangana State GSDP, Per Capita Income, Structural Transformation and Sectoral Contributions",
+    "difficulty": "Medium",
+    "en": "What has been the impact of Mission Kakatiya and major irrigation projects on the Primary Sector's contribution in Telangana?",
+    "te": "తెలంగాణలో ప్రాథమిక రంగ వాటాపై మిషన్ కాకతీయ మరియు ప్రధాన సాగునీటి ప్రాజెక్ట్ల ప్రభావం ఏమిటి?",
+    "opts": [
+      "Led to a complete elimination of the primary sector / ప్రాథమిక రంగం పూర్తిగా తొలగిపోవడానికి దారితీసింది",
+      "Stabilized and enhanced agricultural productivity, improving the resilience and output of the primary sector / వ్యవసాయ ఉత్పాదకతను స్థిరీకరించింది మరియు మెరుగుపరిచింది, ప్రాథమిక రంగం యొక్క స్థితిస్థాపకత మరియు ఉత్పత్తిని పెంచింది",
+      "Caused severe water scarcity and crop failures / తీవ్రమైన నీటి కొరత మరియు పంట వైఫల్యాలకు కారణమైంది",
+      "Shifted all farming land to industrial use / వ్యవసాయ భూమి అంతటినీ పారిశ్రామిక వినియోగం కోసం మళ్లించింది"
+    ],
+    "ans": 1,
+    "exp": "The revival of tanks through Mission Kakatiya and the completion of major irrigation infrastructure have improved assured irrigation, leading to enhanced cropping intensity, higher agricultural productivity, and greater stability in the primary sector's output.",
+    "exp_te": "మిషన్ కాకతీయ ద్వారా చెరువుల పునరుద్ధరణ మరియు ప్రధాన సాగునీటి మౌలిక సదుపాయాల పూర్తి కావడం వల్ల సాగునీరు మెరుగుపడింది, తద్వారా పంటల తీవ్రత పెరిగింది, వ్యవసాయ ఉత్పాదకత మెరుగైంది మరియు ప్రాథమిక రంగ ఉత్పత్తిలో స్థిరత్వం ఏర్పడింది."
+  },
+  {
+    "id": "P3_MED_091",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "When was the landmark Hyderabad Tenancy and Agricultural Lands Act enacted to protect the rights of tenants in the erstwhile Hyderabad state?",
+    "te": "తెలంగాణ ప్రాంతంలో కౌలుదారుల హక్కులను పరిరక్షించడానికి చారిత్రాత్మకమైన హైదరాబాద్ కౌలుదారి మరియు వ్యవసాయ భూముల చట్టం ఎప్పుడు చేయబడింది?",
+    "opts": [
+      "1948",
+      "1950",
+      "1956",
+      "1961"
+    ],
+    "ans": 1,
+    "exp": "The Hyderabad Tenancy and Agricultural Lands Act was enacted in 1950 to regulate tenancy relations and protect tenants from eviction."
+  },
+  {
+    "id": "P3_MED_092",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "Which Act was enacted with the primary objective of abolishing intermediary tenure systems like Inams and bringing the actual cultivators into direct relationship with the government in Telangana?",
+    "te": "తెలంగాణలో ఇనామ్‌ల వంటి మధ్యవర్తిత్వ వ్యవస్థలను రద్దు చేసి, అసలు సాగుదారులను నేరుగా ప్రభుత్వంతో సంబంధం కలిపేలా చేసేందుకు ఏ చట్టం చేయబడింది?",
+    "opts": [
+      "The Andhra Pradesh (Telangana Area) Abolition of Inams Act, 1955",
+      "The Telangana Land Reforms (Ceiling on Agricultural Holdings) Act, 1973",
+      "The AP Assigned Lands (Prohibition of Transfers) Act, 1977",
+      "The Telangana Tenancy Act, 1950"
+    ],
+    "ans": 0,
+    "exp": "The Andhra Pradesh (Telangana Area) Abolition of Inams Act, 1955 was enacted to abolish inam tenures and confer occupancy rights on tillers."
+  },
+  {
+    "id": "P3_MED_093",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the Dharani portal, introduced by the Government of Telangana in land administration?",
+    "te": "భూ పరిపాలనలో తెలంగాణ ప్రభుత్వం ప్రవేశపెట్టిన ధరణి పోర్టల్ యొక్క ప్రధాన ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Collection of agricultural income tax",
+      "Integrated land records management and hassle-free registration",
+      "Distribution of surplus land to landless poor",
+      "Implementation of Rythu Bandhu without verification"
+    ],
+    "ans": 1,
+    "exp": "Dharani is an integrated land records management system designed to provide transparent, efficient, and one-stop land registration and mutation services."
+  },
+  {
+    "id": "P3_MED_094",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "Under the Hyderabad Tenancy and Agricultural Lands Act, 1950, what was the term used for protected tenants who enjoyed permanent rights of tenure subject to certain conditions?",
+    "te": "హైదరాబాద్ కౌలుదారి మరియు వ్యవసాయ భూముల చట్టం, 1950 ప్రకారం, నిర్దిష్ట నిబంధనలకు లోబడి శాశ్వత కౌలు హక్కులను పొందిన కౌలుదారులను ఏమని పిలుస్తారు?",
+    "opts": [
+      "Asami Shikamis",
+      "Protected Tenants",
+      "Inamdars",
+      "Siledars"
+    ],
+    "ans": 1,
+    "exp": "Protected Tenants under the 1950 Act were granted special security of tenure and rights to purchase land they cultivated."
+  },
+  {
+    "id": "P3_MED_095",
+    "paper": "Paper-III",
+    "topic": "Land Reforms in Telangana: Tenancy Acts, Abolition of Inams, Dharani and Land Administration",
+    "difficulty": "Medium",
+    "en": "In the administrative hierarchy of land revenue in Telangana, which official is the chief custodian of land records and revenue administration at the district level?",
+    "te": "తెలంగాణలో భూ రెవెన్యూ పరిపాలనా క్రమంలో, జిల్లా స్థాయిలో భూ రికార్డులు మరియు రెవెన్యూ పరిపాలనకు ప్రధాన అధికారి ఎవరు?",
+    "opts": [
+      "Revenue Divisional Officer (RDO)",
+      "Tahsildar",
+      "District Collector",
+      "Chief Commissioner of Land Administration (CCLA)"
+    ],
+    "ans": 2,
+    "exp": "The District Collector functions as the District Magistrate and District Registrar, serving as the chief custodian of land and revenue administration at the district level."
+  },
+  {
+    "id": "P3_MED_096",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "What is the primary objective of the 'Mission Kakatiya' program initiated by the Government of Telangana?",
+    "te": "తెలంగాణ ప్రభుత్వం ప్రారంభించిన 'మిషన్ కాకతీయ' కార్యక్రమం యొక్క ప్రాథమిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Restoration of minor irrigation tanks and lakes",
+      "Distribution of free seeds to farmers",
+      "Providing 24-hour free electricity",
+      "Direct income support to landowning farmers"
+    ],
+    "ans": 0,
+    "exp": "Mission Kakatiya aims at the restoration of minor irrigation sources like tanks and lakes in Telangana to empower local communities and improve groundwater levels."
+  },
+  {
+    "id": "P3_MED_097",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "Consider the following statements regarding the Rythu Bandhu scheme:\n1. It is a farmer's investment support scheme.\n2. Financial assistance is provided per acre per crop season.\nWhich of the statements given above is/are correct?",
+    "te": "రైతు బంధు పథకానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇది రైతు పెట్టుబడి సహాయ పథకం.\n2. ప్రతి ఎకరాకు ప్రతి పంట కాలానికి ఆర్థిక సహాయం అందించబడుతుంది.\nపైన ఇచ్చిన ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "ans": 2,
+    "exp": "Rythu Bandhu is India's first direct farmer investment support scheme where financial assistance is provided to landowning farmers per acre per crop season."
+  },
+  {
+    "id": "P3_MED_098",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "The Kaleshwaram Lift Irrigation Project (KLIP) primarily utilizes the waters of which river?",
+    "te": "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్ (KLIP) ప్రధానంగా ఏ నది నీటిని వినియోగిస్తుంది?",
+    "opts": [
+      "Krishna River",
+      "Godavari River",
+      "Manair River",
+      "Pranahita River"
+    ],
+    "ans": 1,
+    "exp": "The Kaleshwaram Lift Irrigation Project is a multi-purpose irrigation project on the Godavari River in Telangana, designed to harness water at Medigadda."
+  },
+  {
+    "id": "P3_MED_099",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "What is the main purpose of the 'Rythu Bima' scheme implemented in Telangana?",
+    "te": "తెలంగాణలో అమలవుతున్న 'రైతు భీమా' పథకం యొక్క ప్రధాన ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Crop insurance against natural calamities",
+      "Life insurance scheme for farmers in case of unfortunate death",
+      "Health insurance for farmer families",
+      "Subsidy on agricultural machinery"
+    ],
+    "ans": 1,
+    "exp": "Rythu Bima is a farmer group life insurance scheme that provides financial security and relief to the bereaved family members in case of the farmer's death."
+  },
+  {
+    "id": "P3_MED_100",
+    "paper": "Paper-III",
+    "topic": "Agriculture and Irrigation in Telangana: Mission Kakatiya, Kaleshwaram, Rythu Bandhu, Rythu Bima",
+    "difficulty": "Medium",
+    "en": "Which of the following is associated with the desiltation of tanks to increase water storage capacity in Telangana?",
+    "te": "తెలంగాణలో నీటి నిల్వ సామర్థ్యాన్ని పెంచడానికి చెరువుల్లో పూడికతీతతో క్రింది వాటిలో ఏది సంబంధం కలిగి ఉంది?",
+    "opts": [
+      "Mission Bhagiratha",
+      "Mission Kakatiya",
+      "Rythu Bandhu",
+      "Haritha Haram"
+    ],
+    "ans": 1,
+    "exp": "Mission Kakatiya involves the comprehensive restoration of tank irrigation infrastructure, including desiltation to improve soil fertility and water storage."
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "P2_BAS_001",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Which of the following animals was NOT depicted on the Pashupati seal of the Indus Valley Civilization?",
+    "te": "సింధు లోయ నాగరికత యొక్క పశుపతి ముద్రపై క్రింది వాటిలో ఏ జంతువు చిత్రీకరించబడలేదు?",
+    "opts": [
+      "Tiger (పులి)",
+      "Elephant (ఏనుగు)",
+      "Horse (గుర్రం)",
+      "Rhinoceros (ఖడ్గమృగం)"
+    ],
+    "ans": 2,
+    "exp": "The Pashupati seal depicts a figure surrounded by animals including a tiger, elephant, rhinoceros, and buffalo, but does not feature a horse. / పశుపతి ముద్ర చుట్టూ పులి, ఏనుగు, ఖడ్గమృగం మరియు బర్రె వంటి జంతువులు ఉన్నాయి, కానీ గుర్రం లేదు.",
+    "h_id": "TSPSC-G2P2-001"
+  },
+  {
+    "id": "P2_BAS_002",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Which Veda deals elaborately with music and is considered the source of Indian music?",
+    "te": "సంగీతంతో విస్తృతంగా వ్యవహరించే మరియు భారతీయ సంగీతానికి మూలంగా పరిగణించబడే వేదం ఏది?",
+    "opts": [
+      "Rigveda (ఋగ్వేదం)",
+      "Samaveda (సామవేదం)",
+      "Yajurveda (యజుర్వేదం)",
+      "Atharvaveda (అథర్వవేదం)"
+    ],
+    "ans": 1,
+    "exp": "Samaveda is a collection of melodies and chants, and it is considered the root of Indian classical music. / సామవేదం అనేది శ్లోకాలు మరియు రాగాల సేకరణ, ఇది భారతీయ శాస్త్రీయ సంగీతానికి మూలముగా పరిగణించబడుతుంది.",
+    "h_id": "TSPSC-G2P2-002"
+  },
+  {
+    "id": "P2_BAS_003",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Megasthenes, the Greek ambassador who visited the court of Chandragupta Maurya, wrote which famous book?",
+    "te": "చంద్రగుప్త మౌర్యుని दरबारాన్ని సందర్శించిన గ్రీకు రాయబారి మెగస్తనీస్ ఏ ప్రసిద్ధ గ్రంథాన్ని వ్రాశాడు?",
+    "opts": [
+      "Indica (ఇండికా)",
+      "Arthashastra (అర్థశాస్త్ర)",
+      "Mudrarakshasa (ముద్రారాక్షస)",
+      "Rajatarangini (రాజతరంగిణి)"
+    ],
+    "ans": 0,
+    "exp": "Megasthenes wrote the book 'Indica', which provides detailed accounts of Mauryan administration and Indian society. / మెగస్తనీస్ 'ఇండికా' అనే పుస్తకాన్ని వ్రాశాడు, ఇది మౌర్య పాలన మరియు భారతీయ సమాజం గురించి వివరణాత్మక వివరాలను అందిస్తుంది.",
+    "h_id": "TSPSC-G2P2-003"
+  },
+  {
+    "id": "P2_BAS_004",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "During whose reign did the Chinese pilgrim Fa-Hien visit India?",
+    "te": "ఎవరి పాలనా కాలంలో చైనీస్ యాత్రికుడు ఫా-హియాన్ భారతదేశాన్ని సందర్శించాడు?",
+    "opts": [
+      "Samudragupta (సముద్రగుప్తుడు)",
+      "Chandragupta I (முதலாம் చంద్రగుప్తుడు)",
+      "Chandragupta II (చంద్రగుప్తుడు II - విక్రమాదిత్యుడు)",
+      "Skandagupta (స్కందగుప్తుడు)"
+    ],
+    "ans": 2,
+    "exp": "Fa-Hien visited India during the reign of Chandragupta II, also known as Vikramaditya, in the Gupta period. / గుప్తుల కాలంలో విక్రమాదిత్యుడిగా కూడా పిలువబడే రెండవ చంద్రగుప్తుని పాలనలో ఫా-హియాన్ భారతదేశాన్ని సందర్శించారు.",
+    "h_id": "TSPSC-G2P2-004"
+  },
+  {
+    "id": "P2_BAS_005",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Who among the following was a prominent female Bhakti saint from South India known for her devotion to Lord Vishnu?",
+    "te": "క్రింది వారిలో విష్ణువు పట్ల భక్తికి ప్రసిద్ధి చెందిన దక్షిణ భారతదేశానికి చెందిన ప్రముఖ మహిళా భక్తి संत ఎవరు?",
+    "opts": [
+      "Akka Mahadevi (అక్క మహాదేవి)",
+      "Mira Bai (మీరాబాయి)",
+      "Andal (ఆండాళ్)",
+      "Lal Ded (లాల్ దెడ్)"
+    ],
+    "ans": 2,
+    "exp": "Andal was the only female Alvar saint among the 12 Alvars of South India, known for her intense devotion to Lord Vishnu. / ఆండాళ్ దక్షిణ భారతదేశంలోని 12 మంది ఆళ్వార్లలో ఏకైక మహిళా ఆళ్వార్ సన్యాసిని, శ్రీ మహావిష్ణువు పట్ల ఆమె అంకితభావానికి ప్రసిద్ధి చెందింది.",
+    "h_id": "TSPSC-G2P2-005"
+  },
+  {
+    "id": "P2_BAS_001",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Who was the first European to reach India by sea via the Cape of Good Hope?",
+    "te": "కేప్ ఆఫ్ గుడ్ హోప్ మీదుగా సముద్ర మార్గం ద్వారా భారతదేశానికి చేరుకున్న మొదటి యూరోపియన్ ఎవరు?",
+    "opts": [
+      "Christopher Columbus / క్రిస్టఫర్ కొలంబస్",
+      "Vasco da Gama / వాస్కో డా గామా",
+      "Ferdinand Magellan / ఫెర్డినాండ్ మాగెല്ലన్",
+      "Dutch East India company / డచ్ ఈస్ట్ ఇండియా కంపెనీ"
+    ],
+    "ans": 1,
+    "exp": "Vasco da Gama reached Calicut, India in 1498. / వాస్కో డా గామా 1498లో భారతదేశంలోని కాలಿಕಟ್కు చేరుకున్నారు."
+  },
+  {
+    "id": "P2_BAS_002",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "In which year was the Battle of Plassey fought?",
+    "te": "ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+    "opts": [
+      "1526",
+      "1757",
+      "1764",
+      "1857"
+    ],
+    "ans": 1,
+    "exp": "The Battle of Plassey was fought on June 23, 1757, establishing British supremacy in Bengal. / ప్లాసీ యుద్ధం జూన్ 23, 1757న జరిగింది, ఇది బెంగాల్లో బ్రిటిష్ ఆధిపత్యాన్ని స్థాపించింది."
+  },
+  {
+    "id": "P2_BAS_003",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Who is considered the pioneer of the Indian National Movement and founder of the Brahmo Samaj?",
+    "te": "भारतीय राष्ट्रीय ఉద్యమానికి మార్గదర్శకుడు మరియు బ్రహ్మసమాజ స్థాపకుడు ఎవరు?",
+    "opts": [
+      "Swami Vivekananda / స్వామి వివేకానంద",
+      "Dayanand Saraswati / దయానంద సరస్వతి",
+      "Raja Ram Mohan Roy / రాజా రామ్ మోహన్ రాయ్",
+      "Mahatma Gandhi / మహాత్మా గాంధీ"
+    ],
+    "ans": 2,
+    "exp": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 and is known as the father of the Indian Renaissance. / రాజా రామ్ మోహన్ రాయ్ 1828లో బ్రహ్మసమాజాన్ని స్థాపించారు మరియు భారత పునరుజ్జీవన పితామహుడిగా పిలువబడతారు."
+  },
+  {
+    "id": "P2_BAS_004",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "The Revolt of 1857 started from which place?",
+    "te": "1857 తిరుగుబాటు ఏ ప్రదేశం నుండి ప్రారంభమైంది?",
+    "opts": [
+      "Meerut / మీరట్",
+      "Jhansi / ఝాన్సీ",
+      "Delhi / ఢిల్లీ",
+      "Kanpur / కాన్పూర్"
+    ],
+    "ans": 0,
+    "exp": "The 1857 revolt began on May 10, 1857, with the mutiny of sepoys in Meerut. / 1857 తిరుగుబాటు మే 10, 1857న మీరట్లో సిపాయిల తిరుగుబాటుతో ప్రారంభమైంది."
+  },
+  {
+    "id": "P2_BAS_005",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "When was the Indian National Congress (INC) founded?",
+    "te": "భారత జాతీయ కాంగ్రెస్ (INC) ఎప్పుడు స్థాపించబడింది?",
+    "opts": [
+      "1885",
+      "1905",
+      "1920",
+      "1947"
+    ],
+    "ans": 0,
+    "exp": "The Indian National Congress was founded on December 28, 1885, by Allan Octavian Hume. / భారత జాతీయ కాంగ్రెస్ డిసెంబర్ 28, 1885న అలెన్ ఆక్టేవియన్ హ్యూమ్ చేత స్థాపించబడింది."
+  },
+  {
+    "id": "P2_BAS_011",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Which of the following was the capital city of the Satavahanas during their early rule in the region?",
+    "te": "కింది వాటిలో సాతవాహనుల ప్రారంభ పాలనా కాలంలో వారి రాజధాని నగరం ఏది?",
+    "opts": [
+      "Pratishthanapura (Paithan)",
+      "Amaravati",
+      "Dhanyakataka",
+      "Warangal"
+    ],
+    "ans": 0,
+    "exp": "Pratishthanapura (modern Paithan in Maharashtra) was the prominent capital of the Satavahanas, though they also ruled over vast parts of Telangana."
+  },
+  {
+    "id": "P2_BAS_012",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Nagarjunakonda, famous for Buddhist excavations, was the capital of which dynasty?",
+    "te": "బౌద్ధ త్రవ్వకాలకు ప్రసిద్ధి చెందిన నాగార్జునకొండ ఏ రాజవంశం యొక్క రాజధానిగా ఉండేది?",
+    "opts": [
+      "Satavahanas",
+      "Ikshvakus",
+      "Vishnukundins",
+      "Kakatiyas"
+    ],
+    "ans": 1,
+    "exp": "The Ikshvakus of Vijayapuri had their capital at Nagarjunakonda, which is an important site for both Buddhist and Ikshvaku art and architecture."
+  },
+  {
+    "id": "P2_BAS_013",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "The Thousand Pillar Temple at Hanamkonda was built during the reign of which Kakatiya ruler?",
+    "te": "హనుమకొండలోని వేయిస్తంభాల గుడిని ఏ కాకతీయ పాలకుడి కాలంలో నిర్మించారు?",
+    "opts": [
+      "Ganapatideva",
+      "Rudramadevi",
+      "Prataparudra",
+      "Rudradeva"
+    ],
+    "ans": 3,
+    "exp": "The Thousand Pillar Temple (Rudreshwara Swamy Temple) was constructed in 1163 AD by Rudradeva (Kakatiya Prola II's son)."
+  },
+  {
+    "id": "P2_BAS_014",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Who founded the Qutb Shahi dynasty of Golconda?",
+    "te": "గోల్కొండను పాలించిన కుతుబ్షాహీ రాజవంశాన్ని స్థాపించినది ఎవరు?",
+    "opts": [
+      "Ibrahim Qutb Shah",
+      "Muhammad Quli Qutb Shah",
+      "Sultan Quli Qutb-ul-Mulk",
+      "Abdullah Qutb Shah"
+    ],
+    "ans": 2,
+    "exp": "Sultan Quli Qutb-ul-Mulk founded the Qutb Shahi dynasty in 1512 after declaring independence from the Bahmani Sultanate."
+  },
+  {
+    "id": "P2_BAS_015",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Who was the founder of the Asaf Jahi (Nizam) dynasty in Hyderabad?",
+    "te": "హైదరాబాద్‌లో ఆసఫ్ జাহী (నిజామ్) రాజవంశాన్ని స్థాపించినది ఎవరు?",
+    "opts": [
+      "Nizam Ali Khan",
+      "Mir Qamar-ud-din Khan (Chin Qilich Khan)",
+      "Sikander Jah",
+      "Mir Osman Ali Khan"
+    ],
+    "ans": 1,
+    "exp": "Mir Qamar-ud-din Khan, titled as Nizam-ul-Mulk and Chin Qilich Khan, founded the Asaf Jahi dynasty in 1724."
+  },
+  {
+    "id": "P2_BAS_016",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "Who led the famous tribal uprising against the Nizam's rule with the slogan 'Jal, Jangal, Zameen'?",
+    "te": "'జల్, జంగల్, జమీన్' నినాదంతో నిజాం పాలనకు వ్యతిరేకంగా ప్రసిద్ధ గిరిజన తిరుగుబాటుకు నాయకత్వం వహించిన వారు ఎవరు?",
+    "opts": [
+      "Komaram Bheem",
+      "Ramji Gond",
+      "Ramaraju",
+      "Alluri Sitarama Raju"
+    ],
+    "ans": 0,
+    "exp": "Komaram Bheem fought for the rights of Adivasis in the Adilabad region using the slogan 'Jal, Jangal, Zameen'."
+  },
+  {
+    "id": "P2_BAS_017",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "Ramji Gond, who led a major tribal revolt against British and Nizam authorities, belonged to which region?",
+    "te": "బ్రిటిష్ మరియు నిజాం అధికారులకు వ్యతిరేకంగా ప్రధాన గిరిజన తిరుగుబాటుకు నాయకత్వం వహించిన రామ్జీ గొండ్ ఏ ప్రాంతానికి చెందినవారు?",
+    "opts": [
+      "Warangal",
+      "Adilabad (Nirmal)",
+      "Karimnagar",
+      "Khammam"
+    ],
+    "ans": 1,
+    "exp": "Ramji Gond led the Rohilla and Gond tribal revolt against the British and the Nizam, centered around the Adilabad and Nirmal region."
+  },
+  {
+    "id": "P2_BAS_018",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "In which year did the historic Telangana Peasant Armed Struggle officially begin?",
+    "te": "చారిత్రాత్మక తెలంగాణ రైతాంగ సాయుధ పోరాటం అధికారికంగా ఏ సంవత్సరంలో ప్రారంభమైంది?",
+    "opts": [
+      "1940",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "ans": 1,
+    "exp": "The Telangana Peasant Armed Struggle began in 1946 against the oppressive feudal system of Jagirdars and Deshmukhs."
+  },
+  {
+    "id": "P2_BAS_019",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "What was the name of the military operation launched by the Indian Government to integrate the Hyderabad State into the Indian Union?",
+    "te": "హైదరాబాద్ సంస్థానాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి భారత ప్రభుత్వం ప్రారంభించిన సైనిక చర్య పేరు ఏమిటి?",
+    "opts": [
+      "Operation Polo",
+      "Operation Vijay",
+      "Operation Blue Star",
+      "Operation Meghdoot"
+    ],
+    "ans": 0,
+    "exp": "Operation Polo was the code name for the police action in September 1948 that led to the integration of Hyderabad State."
+  },
+  {
+    "id": "P2_BAS_020",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "Who was the last Nizam of Hyderabad at the time of the state's integration into India?",
+    "te": "భారతదేశంలో హైదరాబాద్ విలీనమైన సమయంలో చివరి నిజాం ఎవరు?",
+    "opts": [
+      "Mir Osman Ali Khan",
+      "Nizam-ul-Mulk",
+      "Salar Jung I",
+      "Nasir-ud-dawla"
+    ],
+    "ans": 0,
+    "exp": "Mir Osman Ali Khan was the seventh and last Nizam of Hyderabad, ruling until the state was annexed to India in 1948."
+  },
+  {
+    "id": "P2_BAS_021",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act, 1976?",
+    "te": "1976 the 42వ రాజ్యాంగ సవరణ చట్టం ద్వారా భారత రాజ్యాంగ పీఠికకు క్రింది వాటిలో ఏ పదాలు జోడించబడ్డాయి?",
+    "opts": [
+      "Sovereign, Socialist, Secular (సార్వభౌమ, సామ్యవాద, లౌకిక)",
+      "Socialist, Secular, Integrity (సామ్యవాద, లౌకిక, సమగ్రత)",
+      "Democratic, Republic, Fraternity (ప్రజాస్వామ్య, గణతంత్ర, సౌభ్రాతృత్వం)",
+      "Justice, Liberty, Equality (న్యాయం, స్వేచ్ఛ, సమానత్వం)"
+    ],
+    "ans": 1,
+    "exp": "The 42nd Amendment Act, 1976 added three new words: Socialist, Secular, and Integrity to the Preamble.",
+    "exp_te": "42వ సవరణ చట్టం, 1976 ద్వారా పీఠికకు సామ్యవాద, లౌకిక మరియు సమగ్రత అనే మూడు కొత్త పదాలు జోడించబడ్డాయి."
+  },
+  {
+    "id": "P2_BAS_022",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Part III of the Indian Constitution deals with which of the following?",
+    "te": "భారత రాజ్యాంగంలోని III వ భాగం క్రింది వాటిలో దేనితో వ్యవహరిస్తుంది?",
+    "opts": [
+      "Directive Principles of State Policy (ఆదేశిక సూత్రాలు)",
+      "Fundamental Rights (ప్రాథమిక హక్కులు)",
+      "Fundamental Duties (ప్రాథమిక విధులు)",
+      "Citizenship (పౌరసత్వం)"
+    ],
+    "ans": 1,
+    "exp": "Part III (Articles 12-35) of the Indian Constitution contains the Fundamental Rights.",
+    "exp_te": "భారత రాజ్యాంగంలోని III వ భాగం (అధికరణలు 12-35) ప్రాథమిక హక్కులను కలిగి ఉంది."
+  },
+  {
+    "id": "P2_BAS_023",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "From which country was the concept of Directive Principles of State Policy (DPSP) borrowed into the Indian Constitution?",
+    "te": "భారత రాజ్యాంగంలో రాష్ట్ర విధాన ఆదేశిక సూత్రాల (DPSP) భావనను ఏ దేశం నుండి గ్రహించారు?",
+    "opts": [
+      "USA (యు.ఎస్.ఎ)",
+      "Britain (బ్రిటన్)",
+      "Ireland (అర్జెంటైనా / ఐర్లాండ్)",
+      "Canada (కెనడా)"
+    ],
+    "ans": 2,
+    "exp": "The Directive Principles of State Policy are borrowed from the Irish Constitution of 1937.",
+    "exp_te": "రాష్ట్ర విధాన ఆదేశిక సూత్రాలను 1937 నాటి ఐరిష్ రాజ్యాంగం నుండి గ్రహించారు."
+  },
+  {
+    "id": "P2_BAS_024",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Fundamental Duties were incorporated into the Constitution of India upon the recommendation of which committee?",
+    "te": "ఏ కమిటీ సిఫారసు మేరకు ప్రాథమిక విధులను భారత రాజ్యాంగంలో చేర్చారు?",
+    "opts": [
+      "Sarkaria Commission (సర్కారియా కమిషన్)",
+      "Swaran Singh Committee (స్వరణ్ సింగ్ కమిటీ)",
+      "Balwant Rai Mehta Committee (బలవంత్ రాయ్ మెహతా కమిటీ)",
+      "Punchhi Commission (పుంచి కమిషన్)"
+    ],
+    "ans": 1,
+    "exp": "Fundamental Duties were added to Part IV-A of the Constitution by the 42nd Amendment Act, 1976 on the recommendations of the Swaran Singh Committee.",
+    "exp_te": "స్వరణ్ సింగ్ కమిటీ సిఫారసుల మేరకు 42వ సవరణ చట్టం, 1976 ద్వారా రాజ్యాంగంలోని IV-A భాగంలో ప్రాథమిక విధులు చేర్చబడ్డాయి."
+  },
+  {
+    "id": "P2_BAS_025",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution abolishes 'Untouchability'?",
+    "te": "భారత రాజ్యాంగంలోని ఏ అధికరణం 'అస్పృశ్యతను' రద్దు చేస్తుంది?",
+    "opts": [
+      "Article 15 (అధికరణ 15)",
+      "Article 16 (అధికరణ 16)",
+      "Article 17 (అధికరణ 17)",
+      "Article 18 (అధికరణ 18)"
+    ],
+    "ans": 2,
+    "exp": "Article 17 of the Indian Constitution abolishes 'untouchability' and forbids its practice in any form.",
+    "exp_te": "భారత రాజ్యాంగంలోని అధికరణ 17 'అస్పృశ్యతను' రద్దు చేస్తుంది మరియు దాని ఆచరణను ఏ రూపంలోనైనా నిషేధిస్తుంది."
+  },
+  {
+    "id": "P2_BAS_026",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Who administers the oath of office to the President of India?",
+    "te": "भारत the President of India (రాష్ట్రపతికి) ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+    "opts": [
+      "Prime Minister (ప్రధాన మంత్రి)",
+      "Chief Justice of India (భారత ప్రధాన న్యాయమూర్తి)",
+      "Vice President (ఉప రాష్ట్రపతి)",
+      "Speaker of Lok Sabha (లోక్‌సభ స్పీకర్)"
+    ],
+    "ans": 1,
+    "exp": "The Chief Justice of India administers the oath of office to the President of India. (భారత ప్రధాన న్యాయమూర్తి రాష్ట్రపతికి ప్రమాణ స్వీకారం చేయిస్తారు.)"
+  },
+  {
+    "id": "P2_BAS_027",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "What is the minimum age required to become a member of the Lok Sabha?",
+    "te": "లోక్‌సభ సభ్యుడిగా ఎన్నిక కావడానికి కావలసిన కనీస వయస్సు ఎంత?",
+    "opts": [
+      "21 years (21 సంవత్సరాలు)",
+      "25 years (25 సంవత్సరాలు)",
+      "30 years (30 సంవత్సరాలు)",
+      "35 years (35 సంవత్సరాలు)"
+    ],
+    "ans": 1,
+    "exp": "The minimum age for membership in the Lok Sabha is 25 years. (లోక్‌సభ సభ్యుడిగా ఉండటానికి కనీస వయస్సు 25 సంవత్సరాలు.)"
+  },
+  {
+    "id": "P2_BAS_028",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Who appoints the Governor of a State in India?",
+    "te": "భారతదేశంలో రాష్ట్ర గవర్నర్‌ను ఎవరు నియమిస్తారు?",
+    "opts": [
+      "Chief Minister of the State (రాష్ట్ర ముఖ్యమంత్రి)",
+      "Prime Minister (ప్రధాన మంత్రి)",
+      "President of India (భారత రాష్ట్రపతి)",
+      "Chief Justice of the High Court (హైకోర్టు ప్రధాన న్యాయమూర్తి)"
+    ],
+    "ans": 2,
+    "exp": "The Governor of a State is appointed by the President of India. (రాష్ట్ర గవర్నర్‌ను భారత రాష్ట్రపతి నియమిస్తారు.)"
+  },
+  {
+    "id": "P2_BAS_029",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Which article of the Indian Constitution deals with the establishment of the Supreme Court?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ సుప్రీంకోర్టు ఏర్పాటు గురించి తెలియజేస్తుంది?",
+    "opts": [
+      "Article 124 (ఆర్టికల్ 124)",
+      "Article 143 (ఆర్టికల్ 143)",
+      "Article 214 (ఆర్టికల్ 214)",
+      "Article 356 (ఆర్టికల్ 356)"
+    ],
+    "ans": 0,
+    "exp": "Article 124 of the Indian Constitution provides for the establishment and constitution of the Supreme Court. (భారత రాజ్యాంగంలోని ఆర్టికల్ 124 సుప్రీంకోర్టు ఏర్పాటు మరియు రాజ్యాంగం గురించి వివరిస్తుంది.)"
+  },
+  {
+    "id": "P2_BAS_030",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Who is the nominal executive head of the State Government?",
+    "te": "రాష్ట్ర ప్రభుత్వ నామమాత్రపు కార్యనిర్వాహక అధిపతి ఎవరు?",
+    "opts": [
+      "Chief Minister (ముఖ్యమంత్రి)",
+      "Governor (గవర్నర్)",
+      "Speaker of Legislative Assembly (శాసనసభ స్పీకర్)",
+      "Chief Justice of High Court (హైకోర్టు ప్రధాన న్యాయమూర్తి)"
+    ],
+    "ans": 1,
+    "exp": "The Governor is the nominal executive head of the State Government, while the Chief Minister is the real executive head. (రాష్ట్ర ప్రభుత్వ నామమాత్రపు అధిపతి గవర్నర్ కాగా, వాస్తవ అధిపతి ముఖ్యమంత్రి.)"
+  },
+  {
+    "id": "P2_BAS_031",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which part of the Indian Constitution deals with the legislative relations between the Union and the States?",
+    "te": "भारतीय संविधानంలోని ఏ భాగం కేంద్ర మరియు రాష్ట్రాల మధ్య శాసన సంబంధాలతో వ్యవహరిస్తుంది?",
+    "opts": [
+      "Part IX",
+      "Part X",
+      "Part XI",
+      "Part XII"
+    ],
+    "ans": 2,
+    "exp": "Part XI (Articles 245-255) of the Indian Constitution deals with legislative relations between the Union and the States."
+  },
+  {
+    "id": "P2_BAS_032",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which Constitutional Amendment Act gave constitutional status to Panchayati Raj Institutions in India?",
+    "te": "భారతదేశంలో పంచాయతీ రాజ్ సంస్థలకు ఏ రాజ్యాంగ సవరణ చట్టం ద్వారా రాజ్యాంగ హోదా కల్పించబడింది?",
+    "opts": [
+      "71st Amendment Act",
+      "73rd Amendment Act",
+      "74th Amendment Act",
+      "76th Amendment Act"
+    ],
+    "ans": 1,
+    "exp": "The 73rd Constitutional Amendment Act, 1992 added Part IX to the Constitution, giving constitutional status to Panchayati Raj Institutions."
+  },
+  {
+    "id": "P2_BAS_033",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which of the following is a constitutional body?",
+    "te": "క్రింది వాటిలో రాజ్యాంగ సంస్థ (Constitutional Body) ఏది?",
+    "opts": [
+      "National Human Rights Commission",
+      "Election Commission of India",
+      "Central Information Commission",
+      "NITI Aayog"
+    ],
+    "ans": 1,
+    "exp": "The Election Commission of India is a permanent and independent body established directly by Article 324 of the Constitution of India."
+  },
+  {
+    "id": "P2_BAS_034",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "The 74th Constitutional Amendment Act of 1992 is related to which of the following?",
+    "te": "1992 నాటి 74వ రాజ్యాంగ సవరణ చట్టం కింది వాటిలో దేనికి సంబంధించినది?",
+    "opts": [
+      "Panchayats",
+      "Municipalities",
+      "Co-operative Societies",
+      "Anti-defection law"
+    ],
+    "ans": 1,
+    "exp": "The 74th Constitutional Amendment Act, 1992 added Part IX-A to the Constitution, which deals with Municipalities (Urban Local Governments)."
+  },
+  {
+    "id": "P2_BAS_035",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Under which Article of the Indian Constitution is the Finance Commission constituted every five years by the President?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ ప్రకారం రాష్ట్రపతి ప్రతి ఐదు సంవత్సరాలకు ఒకసారి ఆర్థిక సంఘాన్ని ఏర్పాటు చేస్తారు?",
+    "opts": [
+      "Article 268",
+      "Article 280",
+      "Article 315",
+      "Article 324"
+    ],
+    "ans": 1,
+    "exp": "Article 280 of the Indian Constitution provides for the establishment of a Finance Commission by the President every five years."
+  },
+  {
+    "id": "P2_BAS_036",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered the fundamental unit of Indian society?",
+    "te": "భారతీయ సమాజంలో క్రింది వాటిలో ఏది ప్రాథమిక యూనిట్ గా పరిగణించబడుతుంది?",
+    "opts": [
+      "Family / కుటుంబం",
+      "Caste / కులం",
+      "Village / గ్రామం",
+      "Religion / మతం"
+    ],
+    "ans": 0,
+    "exp": "The family is universally recognized as the fundamental and basic building block of Indian social structure."
+  },
+  {
+    "id": "P2_BAS_037",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Endogamy refers to a marriage rule that requires an individual to marry within their own:",
+    "te": "ఎండోగామి (అంతర్వివాహం) అనేది ఒక వ్యక్తి తన సొంత దేనిలో వివాహం చేసుకోవాలని కోరే వివాహ నియమాన్ని సూచిస్తుంది?",
+    "opts": [
+      "Gotra / గోత్రం",
+      "Caste or Group / కులం లేదా సమూహం",
+      "Village / గ్రామం",
+      "Family / కుటుంబం"
+    ],
+    "ans": 1,
+    "exp": "Endogamy is the custom of marrying within a specific social group, caste, or ethnic group."
+  },
+  {
+    "id": "P2_BAS_038",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "The traditional Varna system in India is divided into how many primary categories?",
+    "te": "భారతదేశంలోని సాంప్రదాయ వర్ణ వ్యవస్థ ఎన్ని ప్రాథమిక వర్గాలుగా విభజించబడింది?",
+    "opts": [
+      "Two / రెండు",
+      "Three / మూడు",
+      "Four / నాలుగు",
+      "Five / ఐదు"
+    ],
+    "ans": 2,
+    "exp": "The traditional Varna system consists of four primary orders: Brahmins, Kshatriyas, Vaishyas, and Shudras."
+  },
+  {
+    "id": "P2_BAS_039",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Which term is used to describe a family structure consisting of parents, their children, and other close relatives living together?",
+    "te": "తల్లిదండ్రులు, వారి పిల్లలు మరియు ఇతర సమీప బంధువులు కలిసి నివసించే కుటుంబ వ్యవస్థను ఏమంటారు?",
+    "opts": [
+      "Nuclear family / కేంద్రీకృత కుటుంబం",
+      "Joint family / సంయుక్త కుటుంబం",
+      "Single parent family / ఏక తల్లిదండ్రుల కుటుంబం",
+      "Peer family / సహచర కుటుంబం"
+    ],
+    "ans": 1,
+    "exp": "A joint family includes multiple generations, such as parents, children, spouses of children, and offspring, living under one roof."
+  },
+  {
+    "id": "P2_BAS_040",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Scheduled Tribes (STs) in India are primarily characterized by which of the following features?",
+    "te": "భారతదేశంలోని షెడ్యూల్డ్ తెగలు (STలు) ప్రధానంగా క్రింది ఏ లక్షణాల ద్వారా వర్గీకరించబడతాయి?",
+    "opts": [
+      "Urban lifestyle / పట్టణ జీవన శైలి",
+      "Isolation, distinct culture, and primitive traits / ఏకాంతం, ప్రత్యేక సంస్కృతి మరియు ప్రాచీన లక్షణాలు",
+      "High industrial employment / అధిక పారిశ్రామిక ఉద్యోగ ఉపాధి",
+      "Complete integration with modern western culture / ఆధునిక పాశ్చాత్య సంస్కృతితో పూర్తి ఏకీకరణ"
+    ],
+    "ans": 1,
+    "exp": "Tribal communities are generally characterized by geographical isolation, a distinct culture, shyness of contact with other communities, and backwardness."
+  },
+  {
+    "id": "P2_BAS_041",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "Which article of the Indian Constitution prohibits the employment of children below the age of 14 years in any factory, mine, or hazardous activities?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ 14 సంవత్సరాల కంటే తక్కువ వయస్సు గల పిల్లలను ఏ ఫ్యాรక్టరీ, గని లేదా ప్రమాదకరమైన కార్యకలాపాలలో పనిచేయకుండా నిషేధిస్తుంది?",
+    "opts": [
+      "Article 21A",
+      "Article 23",
+      "Article 24",
+      "Article 45"
+    ],
+    "ans": 2,
+    "exp": "Article 24 of the Indian Constitution prohibits child labour in hazardous industries and factories for children below 14 years of age."
+  },
+  {
+    "id": "P2_BAS_042",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "What does the term 'Communalism' primarily signify in the socio-political context of India?",
+    "te": "భారతదేశ సామాజిక-రాజకీయ సందర్భంలో 'మతతత్వం' (కమ్యూనలిజం) అనే పదం ప్రధానంగా దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Equal respect for all religions",
+      "Promotion of one religion at the expense of others leading to social tension",
+      "Cooperation among different religious groups",
+      "Adherence to secular principles"
+    ],
+    "ans": 1,
+    "exp": "Communalism in India refers to an aggressive political ideology and allegiance to one's own religious group rather than the wider society, often resulting in inter-religious conflict."
+  },
+  {
+    "id": "P2_BAS_043",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "When is Human Rights Day celebrated globally every year?",
+    "te": "ప్రతి సంవత్సరం అంతర్జాతీయ మానవ హక్కుల దినోత్సవాన్ని ఎప్పుడు జరుపుకుంటారు?",
+    "opts": [
+      "December 10",
+      "January 26",
+      "August 15",
+      "October 2"
+    ],
+    "ans": 0,
+    "exp": "Human Rights Day is celebrated on December 10 every year, commemorating the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly in 1948."
+  },
+  {
+    "id": "P2_BAS_044",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered a primary manifestation of Regionalism in India?",
+    "te": "భారతదేశంలో ప్రాంతీయవాదం యొక్క ప్రాథమిక రూపంగా క్రింది వాటిలో ఏది పరిగణించబడుతుంది?",
+    "opts": [
+      "Demand for separate statehood or preferential treatment for a specific region",
+      "Respect for national integration and unity",
+      "Equal economic development across all states",
+      "Promotion of a common national language"
+    ],
+    "ans": 0,
+    "exp": "Regionalism manifests when people of a particular region develop excessive attachment to their region, often leading to demands for separate statehood or grievances regarding resource allocation."
+  },
+  {
+    "id": "P2_BAS_045",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "The Protection of Women from Domestic Violence Act was enacted in India in which year?",
+    "te": "గృహింస నుండి మహిళల రక్షణ చట్టం భారతదేశంలో ఏ సంవత్సరంలో చేయబడింది?",
+    "opts": [
+      "2001",
+      "2005",
+      "2010",
+      "2013"
+    ],
+    "ans": 1,
+    "exp": "The Protection of Women from Domestic Violence Act was enacted by the Parliament of India in 2005 to protect women from domestic abuse."
+  },
+  {
+    "id": "P2_BAS_046",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Who founded the Adi Hindu movement in Hyderabad State to unite the Dalits and assert their independent identity?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో దళితులను ఏకం చేయడానికి మరియు వారి స్వతంత్ర గుర్తింపును చాటడానికి 'ఆది హిందూ' ఉద్యమాన్ని ఎవరు ప్రారంభించారు?",
+    "opts": [
+      "Bhagya Reddy Varma",
+      "B. R. Ambedkar",
+      "Jyotirao Phule",
+      "Periyar E. V. Ramasamy"
+    ],
+    "ans": 0,
+    "exp": "Bhagya Reddy Varma founded the Adi Hindu movement in Hyderabad to eradicate untouchability and foster self-respect among the marginalized communities."
+  },
+  {
+    "id": "P2_BAS_047",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "The Chipko Movement, a prominent environmental movement in India, originated in which state?",
+    "te": "భారతదేశంలో ప్రసిద్ధ పర్యావరణ ఉద్యమమైన 'చిప్కో ఉద్యమం' ఏ రాష్ట్రంలో ఉద్భవించింది?",
+    "opts": [
+      "Kerala",
+      "Uttarakhand",
+      "Karnataka",
+      "Assam"
+    ],
+    "ans": 1,
+    "exp": "The Chipko Movement originated in the Himalayan region of Uttarakhand (then part of Uttar Pradesh) in the 1970s to protect trees from being felled."
+  },
+  {
+    "id": "P2_BAS_048",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Who led the historic Ramappa agitation and tribal revolts against the Nizam's forest laws in Telangana?",
+    "te": "తెలంగాణలో నిజాం అటవీ చట్టాలకు వ్యతిరేకంగా చారిత్రాత్మకమైన రామప్ప పోరాటాన్ని మరియు గిరిజన తిరుగుబాటును ఎవరు నాయకత్వం వహించారు?",
+    "opts": [
+      "Komaram Bheem",
+      "Rami Reddy",
+      "Alluri Sitarama Raju",
+      "Turrebaz Khan"
+    ],
+    "ans": 0,
+    "exp": "Komaram Bheem led the tribal revolt against the Nizam's government with the slogan 'Jal, Jangal, Zameen' (Water, Forest, Land)."
+  },
+  {
+    "id": "P2_BAS_049",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Which social reformer is known for founding 'Satyashodhak Samaj' (Society of Seekers of Truth) in 1873?",
+    "te": "1873 లో 'సత్యశోధక సమాజ్' (సత్య అన్వేషకుల సమాజం) ను స్థాపించినందుకు ఏ సంఘ సంస్కర్త ప్రసిద్ధులు?",
+    "opts": [
+      "Swami Vivekananda",
+      "Jyotirao Phule",
+      "Dayanand Saraswati",
+      "Mahadev Govind Ranade"
+    ],
+    "ans": 1,
+    "exp": "Jyotirao Phule founded Satyashodhak Samaj in Maharashtra to advocate for the rights of lower castes, shudras, and untouchables."
+  },
+  {
+    "id": "P2_BAS_050",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "The Narmada Bachao Andolan is primarily associated with which of the following?",
+    "te": "నర్మదా బచావో ఆందోళన ప్రధానంగా దేనికి సంబంధించింది?",
+    "opts": [
+      "Protection of forests",
+      "Opposition to large dam projects and displacement",
+      "Women's suffrage",
+      "Anti-untouchability movement"
+    ],
+    "ans": 1,
+    "exp": "Narmada Bachao Andolan was a social movement led by native tribals, farmers, environmentalists, and human rights activists against the Sardar Sarovar Dam and other large dam projects."
+  },
+  {
+    "id": "P2_BAS_051",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Which of the following Indus Valley Civilization sites is famous for its dockyard?",
+    "te": "కింది సింధు లోయ నాగరికత ప్రదేశాలలో ఏది ఓడరేవుకు ప్రసిద్ధి చెందింది?",
+    "opts": [
+      "Harappa / హరప్పా",
+      "Mohenjo-daro / మొహంಜోదారో",
+      "Lothal / లోథాల్",
+      "Kalibangan / కాళీబంగన్"
+    ],
+    "ans": 2,
+    "exp": "Lothal in Gujarat is well-known for the discovery of a dockyard, indicating maritime trade during the Indus Valley Civilization. / గుజరాత్‌లోని లోథాల్ సింధు లోయ నాగరికత కాలంలో సముద్ర వాణిజ్యాన్ని సూచించే డాక్‌యార్డ్ (ఓడరేవు) ఆవిష్కరణకు ప్రసిద్ధి చెందింది."
+  },
+  {
+    "id": "P2_BAS_052",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Which Veda is primarily known for musical hymns and chants?",
+    "te": "సంగీత శ్లోకాలు మరియు మంత్రాల కోసం ఏ వేదం ప్రధానంగా ప్రసిద్ధి చెందింది?",
+    "opts": [
+      "Rigveda / రుగ్వేదం",
+      "Samaveda / సామవేదం",
+      "Yajurveda / యజుర్వేదం",
+      "Atharvaveda / అధర్వణవేదం"
+    ],
+    "ans": 1,
+    "exp": "The Samaveda consists of a collection of hymns and chants meant for melodies and is considered the root of Indian music. / సామవేదం మెలొడీల కోసం ఉద్దేశించిన శ్లోకాలు మరియు మంత్రాల సేకరణను కలిగి ఉంది మరియు ఇది భారతీయ సంగీతానికి మూలంగా పరిగణించబడుతుంది."
+  },
+  {
+    "id": "P2_BAS_053",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Who was the founder of the Maurya Empire?",
+    "te": "మౌర్య సామ్రాజ్య స్థాపకుడు ఎవరు?",
+    "opts": [
+      "Ashoka / అశోకుడు",
+      "Bindusara / బిందుసారుడు",
+      "Chandragupta Maurya / చంద్రగుప్త మౌర్యుడు",
+      "Brihadratha / బృహద్రథుడు"
+    ],
+    "ans": 2,
+    "exp": "Chandragupta Maurya founded the Maurya Empire with the guidance of Chanakya by defeating the Nanda dynasty. / చాణక్యుని మార్గదర్శకత్వంలో నంద వంశాన్ని ఓడించి చంద్రగుప్త మౌర్యుడు మౌర్య సామ్రాಜ్యాన్ని స్థాపించాడు."
+  },
+  {
+    "id": "P2_BAS_054",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "During whose reign did the Chinese pilgrim Fa-Hien visit India?",
+    "te": "ఎవరి పాలనా కాలంలో చైనా యాత్రికుడు ఫాహియాన్ భారతదేశాన్ని సందర్శించారు?",
+    "opts": [
+      "Chandragupta I / మొదటి చంద్రగుప్తుడు",
+      "Samudragupta / సముద్రగుప్తుడు",
+      "Chandragupta II / రెండవ చంద్రగుప్తుడు",
+      "Skandagupta / స్కందగుప్తుడు"
+    ],
+    "ans": 2,
+    "exp": "Fa-Hien visited India during the reign of Chandragupta II, also known as Vikramaditya, of the Gupta dynasty. / గుప్తా వంశానికి చెందిన విక్రమాదిత్యుడు అని కూడా పిలువబడే రెండవ చంద్రగుప్తుని పాలనా కాలంలో ఫాహియాన్ భారతదేశాన్ని సందర్శించారు."
+  },
+  {
+    "id": "P2_BAS_055",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Basic",
+    "en": "Who among the following was a famous female Bhakti saint from South India?",
+    "te": "కింది వారిలో దక్షిణ భారతదేశానికి చెందిన ప్రసిద్ధ మహిళా భక్తి संत ఎవరు?",
+    "opts": [
+      "Mirabai / మీరాబాయి",
+      "Andal / ఆండాళ్",
+      "Akka Mahadevi / అక్క మహాదేవి",
+      "Bahinabai / బహిణాబాయి"
+    ],
+    "ans": 1,
+    "exp": "Andal was a prominent female Alvar saint of South India, known for her devotion to Lord Vishnu. / ఆండాళ్ దక్షిణ భారతదేశానికి చెందిన ప్రముఖ ఆళ్వార్ మహిళా భక్తురాలు, విష్ణుమూర్తి పట్ల ఆమె భక్తికి ప్రసిద్ధి చెందారు."
+  },
+  {
+    "id": "P2_BAS_001",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Who was the first European to reach India by sea via the Cape of Good Hope?",
+    "te": "కేప్ ఆఫ్ గుడ్ హోప్ ద్వారా సముద్ర మార్గం గుండా భారతదేశానికి చేరుకున్న మొదటి యూరోపియన్ ఎవరు?",
+    "opts": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Marco Polo"
+    ],
+    "ans": 1,
+    "exp": "Vasco da Gama reached Calicut, India on May 20, 1498, after sailing around the Cape of Good Hope."
+  },
+  {
+    "id": "P2_BAS_002",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "In which year did the Battle of Plassey take place?",
+    "te": "ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+    "opts": [
+      "1526",
+      "1757",
+      "1764",
+      "1857"
+    ],
+    "ans": 1,
+    "exp": "The Battle of Plassey was fought on June 23, 1757, establishing British East India Company's political rule in Bengal."
+  },
+  {
+    "id": "P2_BAS_003",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Who was the Governor-General of India during the Revolt of 1857?",
+    "te": "1857 తిరుగుబాటు సమయంలో భారతదేశ గవర్నర్-జనరల్ ఎవరు?",
+    "opts": [
+      "Lord Dalhousie",
+      "Lord Canning",
+      "Lord Wellesley",
+      "Lord William Bentinck"
+    ],
+    "ans": 1,
+    "exp": "Lord Canning served as the Governor-General of India during the Indian Rebellion of 1857."
+  },
+  {
+    "id": "P2_BAS_004",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Who founded the Indian National Congress in 1885?",
+    "te": "1885లో ఇండియన్ నేషనల్ కాంగ్రెస్‌ను ఎవరు స్థాపించారు?",
+    "opts": [
+      "Mahatma Gandhi",
+      "A.O. Hume",
+      "W.C. Bonnerjee",
+      "Dadabhai Naoroji"
+    ],
+    "ans": 1,
+    "exp": "Allan Octavian Hume (A.O. Hume), a retired British civil servant, played a key role in founding the Indian National Congress in 1885."
+  },
+  {
+    "id": "P2_BAS_005",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Basic",
+    "en": "Mangal Pandey, a key figure in the 1857 revolt, was associated with which military cantonment?",
+    "te": "1857 తిరుగుబాటులో కీలక వ్యక్తి అయిన మంగళ్ పాండే ఏ సైనిక స్థావరానికి చెందినవారు?",
+    "opts": [
+      "Meerut",
+      "Barrackpore",
+      "Delhi",
+      "Jhansi"
+    ],
+    "ans": 1,
+    "exp": "Mangal Pandey was a sepoy at Barrackpore who revolted against the use of greased cartridges, sparking the events of 1857."
+  },
+  {
+    "id": "P2_BAS_061",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Which of the following Prakrit literary works was authored by the Satavahana King Hala?",
+    "te": "కింది ప్రాకృత సాహిత్య గ్రంథాలలో శాతవాహన రాజు హలుడు రచించినది ఏది?",
+    "opts": [
+      "Gathasaptashati (గాథాసప్తశతి)",
+      "Brihatkatha (బృత్కథ)",
+      "Katatantra (కటాంత్ర)",
+      "Lilavati (లీలావతి)"
+    ],
+    "ans": 0,
+    "exp": "Gathasaptashati is a collection of 700 Prakrit verses compiled by King Hala, reflecting the social and cultural life of the Satavahana period."
+  },
+  {
+    "id": "P2_BAS_062",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "The famous Thousand Pillar Temple (Rudreshwara Swamy Temple) at Hanamkonda was built during the reign of which dynasty?",
+    "te": "హనుమకొండలోని ప్రసిద్ధ వేలస్తంభాల గుడి (రుద్రేశ్వర స్వామి ఆలయం) ఏ రాజవంశం హారంలో నిర్మించబడింది?",
+    "opts": [
+      "Satavahanas (శాతవాహనులు)",
+      "Ikshvakus (ఇక్ష్వాకులు)",
+      "Kakatiyas (కాకతీయులు)",
+      "Qutb Shahis (కుతుబ్ షాహీలు)"
+    ],
+    "ans": 2,
+    "exp": "The Thousand Pillar Temple was built by King Rudradeva of the Kakatiya dynasty in 1163 AD."
+  },
+  {
+    "id": "P2_BAS_063",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Who was the founder of the Asaf Jahi (Nizam) dynasty of Hyderabad?",
+    "te": "హైదరాబాద్ లోని ఆసఫ్ జాహీ (నిజామ్) వంశాన్ని స్థాపించినది ఎవరు?",
+    "opts": [
+      "Nizam Ali Khan (నిజామ్ అలీ ఖాన్)",
+      "Mir Qamar-ud-din Khan (Asaf Jah I) (మీర్ కమర్-ఉద్-దిన్ ఖాన్ - ఆసఫ్ జా I)",
+      "Sikandar Jah (సికందర్ జా)",
+      "Mir Osman Ali Khan (మీర్ ఉస్మాన్ అలీ ఖాన్)"
+    ],
+    "ans": 1,
+    "exp": "Mir Qamar-ud-din Khan, bearing the title Nizam-ul-Mulk Asaf Jah I, founded the Asaf Jahi dynasty in 1724."
+  },
+  {
+    "id": "P2_BAS_064",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Golconda Fort was originally built and fortified during the 14th century by which dynasty before it became the capital of Qutb Shahis?",
+    "te": "గోల్కొండ కోటను మొదట 14వ శతాబ్దంలో ఏ రాజవంశం నిర్మించింది/బలోపేతం చేసింది?",
+    "opts": [
+      "Kakatiyas (కాకతీయులు)",
+      "Bahmanis (బహమనీలు)",
+      "Vijayanagara (విజయనగరం)",
+      "Mughals (మొఘల్స్)"
+    ],
+    "ans": 0,
+    "exp": "Golconda Fort was originally a mud fort built by the Kakatiyas, later fortified by the Bahmanis and then the Qutb Shahis."
+  },
+  {
+    "id": "P2_BAS_065",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Basic",
+    "en": "Which Qutb Shahi ruler is famously known as the patron of Telugu literature and the author of 'Kulliyat-e-Quli Qutb Shah' in Dakhani Urdu?",
+    "te": "తెలుగు సాహిత్య పోషకుడిగా మరియు దఖ్ఖనీ ఉర్దూలో 'కుల్లియత్-ఇ-కులీ కుతుబ్ షా' రచయితగా ప్రసిద్ధి చెందిన కుతుబ్ షాహీ పాలకుడు ఎవరు?",
+    "opts": [
+      "Ibrahim Quli Qutb Shah (ఇబ్రహీం కులీ కుతుబ్ షా)",
+      "Muhammad Quli Qutb Shah (మొహమ్మద్ కులీ కుతుబ్ షా)",
+      "Abdullah Qutb Shah (అబ్దుల్లా కుతుబ్ షా)",
+      "Abul Hasan Tana Shah (అబుల్ హసన్ తానాషా)"
+    ],
+    "ans": 1,
+    "exp": "Muhammad Quli Qutb Shah founded Hyderabad, patronized Telugu poets, and wrote poetry in Persian, Dakhani Urdu, and Telugu."
+  },
+  {
+    "id": "P2_BAS_066",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "Who led the famous tribal rebellion against the Nizam's rule and landlords with the slogan 'Jal, Jangal, Zameen'?",
+    "te": "'జల్, జంగల్, జమీన్' నినాదంతో నిజాం పాలనకు మరియు భూస్వాములకు వ్యతిరేకంగా ప్రసిద్ధ గిరిజన తిరుగుబాటుకు నాయకత్వం వహించిన వారు ఎవరు?",
+    "opts": [
+      "Ramji Gond / రామ్జీ గೊಂಡ్",
+      "Komaram Bheem / కొమరం భీಮ್",
+      "Alluri Sitarama Raju / అల్లూరి సీతారామరాజు",
+      "Tammaiah / తమ్మయ్య"
+    ],
+    "ans": 1,
+    "exp": "Komaram Bheem led the Gond tribals in the Adilabad region with the slogan 'Jal, Jangal, Zameen' (Water, Forest, Land) fighting against the oppression of the Nizam's administration and landlords.",
+    "exp_te": "కొమరం భీమ్ నిజాం పాలన మరియు భూస్వాముల అణచివేతకు వ్యతిరేకంగా 'జల్, జంగల్, జమీన్' నినాదంతో ఆదిలాబాద్ ప్రాంతంలో గొండు గిరిజనులను నాయకత్వం వహించి పోరాడారు."
+  },
+  {
+    "id": "P2_BAS_067",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "In which district did Ramji Gond lead the Adivasi rebellion against the British and the Nizam?",
+    "te": "బ్రిటిష్ మరియు నిజాంలకు వ్యతిరేకంగా రామ్జీ గೊಂಡ్ ఏ జిల్లాలో ఆదివాసి తిరుగుబాటుకు నాయకత్వం వహించారు?",
+    "opts": [
+      "Karimnagar / కరీంనగర్",
+      "Khammam / ఖమ్మం",
+      "Adilabad / ఆదిలాబాద్",
+      "Warangal / వరంగల్"
+    ],
+    "ans": 2,
+    "exp": "Ramji Gond led a fierce rebellion of Rohillas and Gonds against the British and Nizam in the Adilabad region during the 19th century.",
+    "exp_te": "రామ్జీ గೊಂಡ్ 19వ శతాబ్దంలో ఆదిలాబాద్ ప్రాంతంలో బ్రిటిష్ మరియు నిజాంలకు వ్యతిరేకంగా రోహిల్లాలతో కలిసి ఆదివాసి తిరుగుబాటుకు నాయకత్వం వహించారు."
+  },
+  {
+    "id": "P2_BAS_068",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "During which years did the historic Telangana Peasant Armed Struggle take place?",
+    "te": "చారిత్రాత్మక తెలంగాణ రైతాంగ సాయుధ పోరాటం ఏ సంవత్సరాల మధ్య జరిగింది?",
+    "opts": [
+      "1930 - 1935",
+      "1940 - 1944",
+      "1946 - 1951",
+      "1952 - 1956"
+    ],
+    "ans": 2,
+    "exp": "The Telangana Peasant Armed Struggle was a communist-led peasant revolt against the feudal landlords (Jagirdars and Deshmukhs) and the Nizam, which lasted primarily from 1946 to 1951.",
+    "exp_te": "తెలంగాణ రైతాంగ సాయుధ పోరాటం భూస్వాములు (జాగీర్దార్లు మరియు దేశ్‌ముఖ్‌లు) మరియు నిజాంకు వ్యతిరేకంగా కమ్యూనిస్ట్ పార్టీ ఆధ్వర్యంలో ప్రధానంగా 1946 నుండి 1951 వరకు జరిగింది."
+  },
+  {
+    "id": "P2_BAS_069",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "What was the name of the military operation launched by the Government of India to integrate the Hyderabad State into the Indian Union in 1948?",
+    "te": "1948లో హైదరాబాద్ సంస్థానాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి భారత ప్రభుత్వం నిర్వహించిన సైనిక చర్య పేరు ఏమిటి?",
+    "opts": [
+      "Operation Polo / ఆపరేషన్ పోలో",
+      "Operation Vijay / ఆపరేషన్ విజయ్",
+      "Operation Blue Star / ఆపరేషన్ బ్లూ స్టార్",
+      "Operation Meghdoot / ఆపరేషన్ మేఘ్‌దూత్"
+    ],
+    "ans": 0,
+    "exp": "Operation Polo was the code name for the 'police action' executed by the Indian Armed Forces in September 1948 to overthrow the Nizam and annex Hyderabad State into India.",
+    "exp_te": "1948 సెప్టెంబర్‌లో నిజాం ప్రభుత్వాన్ని తొలగించి హైదరాబాద్ సంస్థానాన్ని భారతదేశంలో విలీనం చేయడానికి భారత సాయుధ దళాలు నిర్వహించిన 'పోలీసు చర్య'కు ఆపరేషన్ పోలో అని పేరు."
+  },
+  {
+    "id": "P2_BAS_070",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Basic",
+    "en": "Who was the last Nizam of Hyderabad State at the time of its integration into India in 1948?",
+    "te": "1948లో భారతదేశంలో హైదరాబాద్ సంస్థానం విలీనమైన సమయంలో చివరి నిజాం నవాబ్ ఎవరు?",
+    "opts": [
+      "Mir Osman Ali Khan / మీర్ ఉస్మాన్ అలీ ఖాన్",
+      "Nizam-ul-Mulk / నిజాం-ఉల్-ముల్క్",
+      "Nasir-ud-dawla / నాసిర్-ఉద్-దౌలా",
+      "Afzal-ud-dawla / అఫ్జల్-ఉద్-దౌలా"
+    ],
+    "ans": 0,
+    "exp": "Mir Osman Ali Khan was the seventh and last Nizam of Hyderabad, ruling the princely state until it was integrated into the Indian Union in September 1948.",
+    "exp_te": "సెప్టెంబర్ 1948లో భారత యూనియన్‌లో విలీనం అయ్యే వరకు హైదరాబాద్‌ను పాలించిన ఏడవ మరియు చివరి నిజాం మీర్ ఉస్మాన్ అలీ ఖాన్."
+  },
+  {
+    "id": "P2_BAS_071",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act, 1976?",
+    "te": "1976 the 42nd రాజ్యాంగ సవరణ చట్టం ద్వారా భారత రాజ్యాంగ పీఠికకు క్రింది వాటిలో ఏ పదాలు జోడించబడ్డాయి?",
+    "opts": [
+      "Sovereign, Socialist, Secular",
+      "Socialist, Secular, Integrity",
+      "Democratic, Republic, Fraternity",
+      "Liberty, Equality, Fraternity"
+    ],
+    "ans": 1,
+    "exp": "The Preamble has been amended only once so far, by the 42nd Amendment Act of 1976, which added three new words: Socialist, Secular, and Integrity."
+  },
+  {
+    "id": "P2_BAS_072",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Part III of the Indian Constitution guarantees which of the following?",
+    "te": "భారత రాజ్యాంగంలోని III వ భాగం క్రింది వాటిలో దేనికి హామీ ఇస్తుంది?",
+    "opts": [
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Emergency Provisions"
+    ],
+    "ans": 1,
+    "exp": "Part III of the Indian Constitution (Articles 12 to 35) contains the Fundamental Rights, which are justifiable in nature."
+  },
+  {
+    "id": "P2_BAS_073",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "From which country's constitution were the Directive Principles of State Policy (DPSP) borrowed?",
+    "te": "ఆదేశిక సూత్రాలు (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+    "opts": [
+      "USA",
+      "Britain",
+      "Ireland",
+      "Canada"
+    ],
+    "ans": 2,
+    "exp": "The Directive Principles of State Policy (Part IV, Articles 36-51) are borrowed from the Irish Constitution of 1937, which had copied it from the Spanish Constitution."
+  },
+  {
+    "id": "P2_BAS_074",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "On the recommendation of which committee were the Fundamental Duties added to the Indian Constitution?",
+    "te": "ఏ కమిటీ సిఫారసు మేరకు భారత రాజ్యాంగంలో ప్రాథమిక విధులను చేర్చారు?",
+    "opts": [
+      "Sarkaria Commission",
+      "Swaran Singh Committee",
+      "Punchhi Commission",
+      "Balwant Rai Mehta Committee"
+    ],
+    "ans": 1,
+    "exp": "The Fundamental Duties were added to Part IV-A of the Constitution (Article 51A) upon the recommendations of the Swaran Singh Committee in 1976."
+  },
+  {
+    "id": "P2_BAS_075",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Basic",
+    "en": "Which Article of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ 'అస్పృశ్యతను' నిర్మూలిస్తుంది మరియు దాని ఆచరణను ఏ రూపంలోనైనా నిషేధిస్తుంది?",
+    "opts": [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 18"
+    ],
+    "ans": 2,
+    "exp": "Article 17 of the Indian Constitution abolishes untouchability and makes its practice in any form a punishable offense under the law."
+  },
+  {
+    "id": "P2_BAS_076",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Who appoints the Prime Minister of India?",
+    "te": "भारत the Prime Minister (ప్రధానమంతి) ని ఎవరు నియమిస్తారు?",
+    "opts": [
+      "President of India",
+      "Chief Justice of India",
+      "Lok Sabha Speaker",
+      "Vice President"
+    ],
+    "ans": 0,
+    "exp": "The President of India appoints the Prime Minister under Article 75 of the Constitution."
+  },
+  {
+    "id": "P2_BAS_077",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "What is the minimum age required to become a member of the Lok Sabha?",
+    "te": "లోక్‌సభ సభ్యుడు కావడానికి కావలసిన కనీస వయస్సు ఎంత?",
+    "opts": [
+      "21 years",
+      "25 years",
+      "30 years",
+      "35 years"
+    ],
+    "ans": 1,
+    "exp": "According to Article 84(b) of the Constitution, the minimum age for contesting elections to the Lok Sabha is 25 years."
+  },
+  {
+    "id": "P2_BAS_078",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Who is the constitutional head of a state in India?",
+    "te": "భారతదేశంలో ఒక రాష్ట్రానికి రాజ్యాంగ అధిపతి ఎవరు?",
+    "opts": [
+      "Chief Minister",
+      "Governor",
+      "Speaker of the Legislative Assembly",
+      "High Court Chief Justice"
+    ],
+    "ans": 1,
+    "exp": "The Governor is the constitutional and nominal head of the state, while the Chief Minister is the real executive head."
+  },
+  {
+    "id": "P2_BAS_079",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "Which article of the Indian Constitution deals with the establishment of the Supreme Court?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ సుప్రీంకోర్టు ఏర్పాటు గురించి తెలియజేస్తుంది?",
+    "opts": [
+      "Article 112",
+      "Article 124",
+      "Article 214",
+      "Article 356"
+    ],
+    "ans": 1,
+    "exp": "Article 124 of the Indian Constitution provides for the establishment and constitution of the Supreme Court."
+  },
+  {
+    "id": "P2_BAS_080",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Basic",
+    "en": "To whom does the President of India submit their resignation letter?",
+    "te": "భారత రాష్ట్రపతి తన రాజీనామా లేఖను ఎవరికి సమర్పిస్తారు?",
+    "opts": [
+      "Prime Minister",
+      "Chief Justice of India",
+      "Vice President of India",
+      "Speaker of Lok Sabha"
+    ],
+    "ans": 2,
+    "exp": "The President of India submits their resignation to the Vice President of India under Article 56(1)(a)."
+  },
+  {
+    "id": "P2_BAS_081",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which schedule of the Indian Constitution was added by the 73rd Constitutional Amendment Act?",
+    "te": "73వ రాజ్యాంగ సవరణ చట్టం ద్వారా భారత రాజ్యాంగంలోని ఏ షెడ్యూల్ను చేర్చారు?",
+    "opts": [
+      "Schedule 9",
+      "Schedule 10",
+      "Schedule 11",
+      "Schedule 12"
+    ],
+    "ans": 2,
+    "exp": "The 73rd Constitutional Amendment Act of 1992 added Schedule 11 to the Indian Constitution, which contains the 29 functional items of Panchayats."
+  },
+  {
+    "id": "P2_BAS_082",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which article of the Indian Constitution provides for the establishment of the Finance Commission?",
+    "te": "భారత రాజ్యాంగంలోని ఏ నిబంధన ఆర్థిక సంఘం ఏర్పాటుకు వీيలు కల్పిస్తుంది?",
+    "opts": [
+      "Article 263",
+      "Article 280",
+      "Article 324",
+      "Article 356"
+    ],
+    "ans": 1,
+    "exp": "Article 280 of the Indian Constitution provides for the constitution of a Finance Commission by the President every five years or earlier."
+  },
+  {
+    "id": "P2_BAS_083",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Union, State, and Concurrent lists are contained in which schedule of the Indian Constitution?",
+    "te": "యూనియన్, స్టేట్ మరియు కన్కరెంట్ జాబితాలు భారత రాజ్యాంగంలోని ఏ షెడ్యూల్లో పొందుపరచబడ్డాయి?",
+    "opts": [
+      "Fifth Schedule",
+      "Sixth Schedule",
+      "Seventh Schedule",
+      "Eighth Schedule"
+    ],
+    "ans": 2,
+    "exp": "The Seventh Schedule of the Indian Constitution divides legislative powers between the Union and States through three lists: Union List, State List, and Concurrent List."
+  },
+  {
+    "id": "P2_BAS_084",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "The 74th Constitutional Amendment Act is related to which of the following?",
+    "te": "74వ రాజ్యాంగ సవరణ చట్టం కింది వాటిలో దేనికి సంబంధించినది?",
+    "opts": [
+      "Panchayati Raj Institutions",
+      "Municipalities (Urban Local Governments)",
+      "Cooperative Societies",
+      "Anti-Defection Law"
+    ],
+    "ans": 1,
+    "exp": "The 74th Constitutional Amendment Act, 1992 is related to Urban Local Governments or Municipalities, adding Part IX-A and Schedule 12 to the Constitution."
+  },
+  {
+    "id": "P2_BAS_085",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Basic",
+    "en": "Which of the following is a statutory body rather than a constitutional body?",
+    "te": "కింది వాటిలో రాజ్యాంగబద్ధమైన సంస్థ కాకుండా చట్టబద్ధమైన (స్టాట్యుటరీ) సంస్థ ఏది?",
+    "opts": [
+      "Election Commission of India",
+      "Finance Commission",
+      "National Human Rights Commission",
+      "Union Public Service Commission"
+    ],
+    "ans": 2,
+    "exp": "The National Human Rights Commission (NHRC) is a statutory body established under the Protection of Human Rights Act, 1993, whereas the others are constitutional bodies."
+  },
+  {
+    "id": "P2_BAS_086",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered the basic structural unit of Indian society?",
+    "te": "క్రింది వాటిలో భారతీయ సమాజపు ప్రాథమిక నిర్మాణ యూనిట్‌గా ఏది పరిగణించబడుతుంది?",
+    "opts": [
+      "Caste (కులం)",
+      "Family (కుటుంబం)",
+      "Religion (మతం)",
+      "Village (గ్రామం)"
+    ],
+    "ans": 1,
+    "exp": "Family is universally recognized as the basic structural and functional unit of Indian society. / కుటుంబాన్ని సార్వత్రికంగా భారతీయ సమాజపు ప్రాథమిక నిర్మాణ మరియు క్రియాత్మక యూనిట్‌గా గుర్తిస్తారు."
+  },
+  {
+    "id": "P2_BAS_087",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "What is a marriage system called where one man marries more than one woman?",
+    "te": "ఒక పురుషుడు ఒకటి కంటే ఎక్కువ మంది స్త్రీలను వివాహం చేసుకునే వ్యవస్థను ఏమంటారు?",
+    "opts": [
+      "Polyandry (బహుభర్തൃత్వం)",
+      "Polygyny (బహుభార్యత్వం)",
+      "Monogamy (ఏకపత్నీవ్రతం)",
+      "Endogamy (సగోత్ర వివాహం)"
+    ],
+    "ans": 1,
+    "exp": "Polygyny is the practice where a man has more than one wife at the same time. / ఒక పురుషుడు ఒకే సమయంలో ఒకటి కంటే ఎక్కువ మంది భార్యలను కలిగి ఉండే పద్ధతిని బహుభార్యత్వం (Polygyny) అంటారు."
+  },
+  {
+    "id": "P2_BAS_088",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "The caste system in India is primarily based on which of the following?",
+    "te": "భారతదేశంలో కుల వ్యవస్థ ప్రధానంగా క్రింది వాటిలో దేనిపై ఆధారపడి ఉంటుంది?",
+    "opts": [
+      "Achieved status (సాధించిన హోదా)",
+      "Ascribed status (జన్మతః వచ్చే హోదా)",
+      "Economic wealth (आर्थिक ಸಂಪద)",
+      "Political power (రాజకీయ శక్తి)"
+    ],
+    "ans": 1,
+    "exp": "Caste status in India is traditionally ascribed by birth, meaning an individual's caste is determined by the family they are born into. / భారతదేశంలో కుల హోదా సాంప్రదాయకంగా పుట్టుక ద్వారా నిర్ణయించబడుతుంది, అనగా వ్యక్తి జన్మించిన కుటుంబాన్ని బట్టి కులం నిర్ధారించబడుతుంది."
+  },
+  {
+    "id": "P2_BAS_089",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "Which term is used to describe communities living in relatively isolated geographic regions, possessing a distinct culture and lifestyle, often referred to as Adivasis?",
+    "te": "సాధారణంగా ఆదివాసులు అని పిలువబడే, ప్రత్యేక సంస్కృతి మరియు జీవనశైలిని కలిగి ఉండి, సాపేక్షంగా ఏకాంత భౌగోళిక ప్రాంతాలలో నివసించే వర్గాలను సూచించడానికి ఏ పదం ఉపయోగిస్తారు?",
+    "opts": [
+      "Caste groups (కుల సమూహాలు)",
+      "Religious minorities (మతపరమైన మైనారిటీలు)",
+      "Tribal communities (గిరిజన కమ్యూనిటీలు)",
+      "Urban elite (పట్టణ ఉన్నత వర్గం)"
+    ],
+    "ans": 2,
+    "exp": "Tribal communities (Scheduled Tribes or Adivasis) live in distinct geographic regions with unique cultural traits and social organization. / గిరిజన వర్గాలు (షెడ్యూల్డ్ తెగలు లేదా ఆదివాసులు) ప్రత్యేకమైన సాంస్కృతిక లక్షణాలు మరియు సామాజిక వ్యవస్థతో ప్రత్యేక భౌగోళిక ప్రాంతాలలో నివసిస్తాయి."
+  },
+  {
+    "id": "P2_BAS_090",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Basic",
+    "en": "What type of marriage rule requires an individual to marry within their own caste, tribe, or religious group?",
+    "te": "ఒక వ్యక్తి తన సొంత కులం, తెగ లేదా మత సమూహం లోపల మాత్రమే వివాహం చేసుకోవాలని కోరే వివాహ నిబంధనను ఏమంటారు?",
+    "opts": [
+      "Exogamy (గోత్రాంతర వివాహం)",
+      "Endogamy (సగోత్ర / అంతర్వివాహం)",
+      "Hypergamy (అనులోమ వివాహం)",
+      "Hypogamy (ప్రతిలోమ వివాహం)"
+    ],
+    "ans": 1,
+    "exp": "Endogamy is the custom of marrying within the limits of a specific social group, caste, or community. / అంతర్వివాహం (Endogamy) అనేది ఒక నిర్దిష్ట సామాజిక సమూహం, కులం లేదా సంఘం పరిమితుల్లోనే వివాహం చేసుకునే ఆచారం."
+  },
+  {
+    "id": "P2_BAS_091",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "Which article of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "te": "భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ మతం, జాతి, కులం, लिंग (స్త్రీ/పురుష) లేదా పుట్టిన ప్రదేశం ఆధారంగా వివక్షను నిషేధిస్తుంది?",
+    "opts": [
+      "Article 14",
+      "Article 15",
+      "Article 16",
+      "Article 17"
+    ],
+    "ans": 1,
+    "exp": "Article 15 of the Constitution of India prohibits discrimination on grounds of religion, race, caste, sex, or place of birth."
+  },
+  {
+    "id": "P2_BAS_092",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "According to the Child Labour (Prohibition and Regulation) Amendment Act, a child is defined as a person below the age of:",
+    "te": "బాల కార్మిక (నిషేధ మరియు క్రమబద్ధీకరణ) సవరణ చట్టం ప్రకారం, పిల్లవాడు అనగా ఏ వయస్సు లోపు ఉన్న వ్యక్తి?",
+    "opts": [
+      "12 years",
+      "14 years",
+      "16 years",
+      "18 years"
+    ],
+    "ans": 1,
+    "exp": "Under the Child Labour Act, a child is defined as any person below the age of 14 years."
+  },
+  {
+    "id": "P2_BAS_093",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "The Protection of Women from Domestic Violence Act was enacted in which year?",
+    "te": "గృహింస నిరోధక చట్టం (Protection of Women from Domestic Violence Act) ఏ సంవత్సరంలో చేయబడింది?",
+    "opts": [
+      "2001",
+      "2005",
+      "2008",
+      "2010"
+    ],
+    "ans": 1,
+    "exp": "The Protection of Women from Domestic Violence Act was passed in the year 2005 to protect women from domestic violence."
+  },
+  {
+    "id": "P2_BAS_094",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "Which of the following is considered a major threat to national integration and secularism in India?",
+    "te": "భారతదేశంలో జాతీయ సమైక్యత మరియు లౌకికవాదానికి ప్రధాన ముప్పుగా పరిగణించబడేది ఏమిటి?",
+    "opts": [
+      "Globalisation",
+      "Communalism",
+      "Industrialisation",
+      "Urbanisation"
+    ],
+    "ans": 1,
+    "exp": "Communalism promotes religious polarization and poses a severe threat to the secular fabric and national integration of India."
+  },
+  {
+    "id": "P2_BAS_095",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Basic",
+    "en": "Human Rights Day is observed globally on which date?",
+    "te": "ప్రపంచ మానవ హక్కుల దినోత్సవాన్ని ఏ తేదీన జరుపుకుంటారు?",
+    "opts": [
+      "January 26",
+      "August 15",
+      "December 10",
+      "November 14"
+    ],
+    "ans": 2,
+    "exp": "Human Rights Day is celebrated every year on December 10, commemorating the adoption of the Universal Declaration of Human Rights in 1948."
+  },
+  {
+    "id": "P2_BAS_096",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Who founded the Adi Hindu movement in Hyderabad to uplift the marginalized communities?",
+    "te": "హైదరాబాద్‌లో అణగారిన వర్గాల అభ్యున్నతి కోసం 'ఆది హిందూ' ఉద్యమాన్ని ఎవరు స్థాపించారు?",
+    "opts": [
+      "B. S. Venkat Rao",
+      "Bhagya Reddy Varma",
+      "Arutla Kamala Devi",
+      "Komaram Bheem"
+    ],
+    "ans": 1,
+    "exp": "Bhagya Reddy Varma founded the Adi Hindu movement in the erstwhile Hyderabad state to create social awareness and identity for the untouchables."
+  },
+  {
+    "id": "P2_BAS_097",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "The Chipko Movement, famous for hugging trees to prevent them from being cut down, originated in which state?",
+    "te": "చెట్లను నరకకుండా కాపాడడానికి వాటిని కౌగిలించుకునే 'చిప్కో ఉద్యమం' ఏ రాష్ట్రంలో ప్రారంభమైంది?",
+    "opts": [
+      "Kerala",
+      "Karnataka",
+      "Uttarakhand",
+      "Odisha"
+    ],
+    "ans": 2,
+    "exp": "The Chipko Movement originated in the Himalayan region of Uttarakhand (then part of Uttar Pradesh) in the 1970s."
+  },
+  {
+    "id": "P2_BAS_098",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Who led the historic Telangana Armed Struggle (1946-1951) against the Nizam's rule and feudal lords?",
+    "te": "నిజాం పాలనకు మరియు జాగీర్దార్లకు వ్యతిరేకంగా జరిగిన చారిత్రాత్మక తెలంగాణ సాయుధ పోరాటాన్ని (1946-1951) ఎవరు నడిపించారు?",
+    "opts": [
+      "Communist Party and Peasants",
+      "Indian National Congress",
+      "Arya Samaj",
+      "Andhra Mahasabha alone"
+    ],
+    "ans": 0,
+    "exp": "The Telangana Armed Struggle was led by the Communist Party of India (CPI) along with local peasants and guerrillas against the feudal system."
+  },
+  {
+    "id": "P2_BAS_099",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Which tribal leader raised the slogan 'Jal, Jungle, Zameen' (Water, Forest, Land) during his uprising in Telangana?",
+    "te": "'జల్, జంగల్, జమీన్' (నీరు, అడవి, భూమి) అనే నినాదాన్ని తెలంగాణలో తన తిరుగుబాటు సమయంలో ఏ గిరిజన నాయకుడు లేపారు?",
+    "opts": [
+      "Alluri Sitarama Raju",
+      "Komaram Bheem",
+      "Birsa Munda",
+      "Tamar Ramu"
+    ],
+    "ans": 1,
+    "exp": "Komaram Bheem was a Gond tribal leader who fought against the Nizam's rule using the slogan 'Jal, Jungle, Zameen'."
+  },
+  {
+    "id": "P2_BAS_100",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Basic",
+    "en": "Who is the author of the famous Telugu feminist work 'Stree Vaada Kavithwam' and a prominent voice in the modern women's movement?",
+    "te": "ప్రసిద్ధ తెలుగుస్త్రీవాద కవితా ఉద్యమ రచయిత్రి మరియు ఆధునిక మహిళా ఉద్యమంలో ప్రముఖ గొంతుక ఎవరు?",
+    "opts": [
+      "Chatla Rajeshwari",
+      "Vimala Rao",
+      "K. Swaroopa Rani",
+      "Volga (Popuri Lalitha Kumari)"
+    ],
+    "ans": 3,
+    "exp": "Volga (Popuri Lalitha Kumari) is a renowned Telugu feminist writer and activist who significantly contributed to the women's movement in Andhra Pradesh and Telangana."
+  }
+]

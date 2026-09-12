@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Group-II Mock Test Platform</title>
+<meta name="description" content="Group-II mock tests with syllabus-wise practice, ₹10 test access, passkeys, results and leaderboard.">
+<style>
+:root{--bg:#f5f7fb;--card:#fff;--text:#172033;--muted:#6b7280;--primary:#5b4bdb;--primary2:#7c3aed;--accent:#0ea5e9;--success:#16a34a;--danger:#dc2626;--border:#e5e7eb;--shadow:0 18px 45px rgba(31,41,55,.10)}
+*{box-sizing:border-box} body{margin:0;font-family:Inter,Segoe UI,Arial,sans-serif;background:linear-gradient(135deg,#f7f8ff,#eef7ff);color:var(--text)}
+button,input,select{font:inherit} button{cursor:pointer;border:0}.app{min-height:100vh}
+header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.nav{max-width:1180px;margin:auto;padding:15px 20px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.brand{display:flex;align-items:center;gap:12px;font-weight:800}.logo{width:42px;height:42px;border-radius:13px;background:linear-gradient(135deg,var(--primary),var(--accent));display:grid;place-items:center;color:white;font-size:21px;box-shadow:0 8px 20px rgba(91,75,219,.25)}
+.navlinks{display:flex;gap:8px;flex-wrap:wrap}.navlinks button{background:transparent;color:#4b5563;padding:9px 12px;border-radius:9px}.navlinks button:hover{background:#f1f0ff;color:var(--primary)}
+main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.screen.active{display:block}
+.hero{padding:54px 30px;border-radius:28px;background:linear-gradient(135deg,#17152d,#30256e 55%,#0b789c);color:white;box-shadow:var(--shadow);position:relative;overflow:hidden}
+.hero:after{content:"";position:absolute;width:360px;height:360px;border-radius:50%;right:-120px;top:-140px;background:rgba(255,255,255,.10)}
+.hero h1{font-size:clamp(34px,6vw,62px);line-height:1.02;margin:12px 0}.hero p{font-size:18px;color:#e5e7eb;max-width:680px;line-height:1.6}
+.btn{padding:12px 18px;border-radius:12px;font-weight:750;transition:.2s}.btn:hover{transform:translateY(-1px)}.primary{background:linear-gradient(135deg,var(--primary),var(--primary2));color:white}.secondary{background:#eef2ff;color:var(--primary)}.success{background:#dcfce7;color:#166534}.danger{background:#fee2e2;color:#991b1b}.ghost{background:white;border:1px solid var(--border);color:#374151}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:25px}.stat{background:rgba(255,255,255,.12);padding:17px;border-radius:16px}.stat b{display:block;font-size:27px}
+.section-title{margin:35px 0 16px}.section-title h2{margin:0 0 5px}.muted{color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:22px;box-shadow:var(--shadow)}.paper-card{position:relative;overflow:hidden}.paper-card h3{margin:5px 0 8px}.paper-card .tag{display:inline-block;padding:6px 9px;border-radius:999px;background:#f0efff;color:var(--primary);font-size:12px;font-weight:700}
+.form{max-width:760px;margin:auto}.field{margin-bottom:16px}.field label{display:block;font-weight:700;margin-bottom:7px}.field input,.field select{width:100%;padding:13px 14px;border:1px solid var(--border);border-radius:11px;background:#fff;outline:none}.field input:focus,.field select:focus{border-color:var(--primary);box-shadow:0 0 0 3px #e9e7ff}
+.options{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.choice{padding:12px;border:1px solid var(--border);border-radius:11px;background:#fff;text-align:center;font-weight:700}.choice.selected{border-color:var(--primary);background:#f0efff;color:var(--primary)}
+.paybox{text-align:center;max-width:650px;margin:auto}.price{font-size:48px;font-weight:900;margin:5px}.qr{width:250px;height:250px;margin:18px auto;border:12px solid white;box-shadow:0 8px 28px rgba(0,0,0,.12);border-radius:14px;background:#fff}.upi{font-weight:800;background:#f8fafc;border:1px dashed #cbd5e1;padding:10px;border-radius:10px}
+.notice{padding:13px 15px;border-radius:12px;background:#fff7ed;color:#9a3412;border:1px solid #fed7aa;line-height:1.5}
+.test-layout{display:grid;grid-template-columns:250px 1fr;gap:18px}.qnav{position:sticky;top:85px;height:max-content}.qnums{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin-top:15px}.qnum{padding:9px 0;border-radius:8px;background:#f3f4f6;text-align:center;font-weight:700}.qnum.answered{background:#dcfce7;color:#166534}.qnum.current{outline:2px solid var(--primary)}.timer{font-size:24px;font-weight:900;color:var(--danger)}
+.question{font-size:20px;line-height:1.55;font-weight:750;margin:18px 0;white-space:pre-line}.answer{display:block;width:100%;padding:14px;margin:10px 0;border:1px solid var(--border);border-radius:12px;background:white;text-align:left;font-size:15px}.answer.selected{border-color:var(--primary);background:#f0efff;font-weight:700}.test-actions{display:flex;justify-content:space-between;gap:10px;margin-top:25px}
+.result-score{text-align:center}.score{font-size:72px;font-weight:950;color:var(--primary);line-height:1}.result-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:25px 0}.result-item{text-align:center;padding:18px;border-radius:15px;background:#f8fafc}.result-item b{display:block;font-size:27px}
+.table{width:100%;border-collapse:collapse}.table th,.table td{padding:12px;border-bottom:1px solid var(--border);text-align:left}.rank{font-weight:900}
+.admin-lock{max-width:500px;margin:auto}.hidden{display:none!important}.footer{text-align:center;color:var(--muted);padding:30px}
+.toast{position:fixed;right:20px;bottom:20px;background:#111827;color:white;padding:13px 17px;border-radius:12px;display:none;z-index:30}
+@media(max-width:800px){.grid,.grid4,.stats{grid-template-columns:1fr}.test-layout{grid-template-columns:1fr}.qnav{position:static}.nav{align-items:flex-start}.navlinks{justify-content:flex-end}.hero{padding:35px 22px}.options{grid-template-columns:1fr}.result-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:500px){main{padding:20px 12px 50px}.nav{padding:11px 12px}.brand span{display:none}.navlinks button{padding:7px 8px}.hero h1{font-size:40px}.result-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="app">
+<header>
+<div class="nav">
+<div class="brand"><div class="logo">G2</div><span>GROUP-II MOCKS</span></div>
+<div class="navlinks">
+<button onclick="showScreen('home')">Home</button>
+<button onclick="showScreen('papers')">Tests</button>
+<button onclick="showScreen('leaderboard')">Leaderboard</button>
+<button onclick="showScreen('admin')">Admin</button>
+</div>
+</div>
+</header>
+
+<main>
+<section id="home" class="screen active">
+<div class="hero">
+<div style="font-weight:800;letter-spacing:.08em">TELANGANA GROUP-II PREPARATION</div>
+<h1>Practice. Analyse.<br>Improve.</h1>
+<p>A modern mock-test platform for Paper-I to Paper-IV with 25 / 50 / 100 question attempts, difficulty selection, English/Telugu display, result reports and leaderboard[cite: 2].</p>
+<button class="btn primary" onclick="showScreen('details')">🚀 Start Mock Test</button>
+<div class="stats">
+<div class="stat"><b>4</b>Papers[cite: 2]</div><div class="stat"><b>600</b>Marks TSPSC Pattern[cite: 2]</div><div class="stat"><b>₹10</b>Per Paid Attempt[cite: 2]</div>
+</div>
+</div>
+<div class="section-title"><h2>What is included</h2><div class="muted">Fast on-demand question loader hosted directly on GitHub Pages[cite: 1, 2].</div></div>
+<div class="grid4">
+<div class="card"><b>📚 Syllabus-wise</b><p class="muted">Strictly mapped to TSPSC Papers I, II, III, and IV[cite: 2].</p></div>
+<div class="card"><b>🎯 Difficulty Tiers</b><p class="muted">Dynamically loads Basic, Medium, or Advanced JSON files[cite: 2].</p></div>
+<div class="card"><b>🔄 Real Randomization</b><p class="muted">Shuffles questions on every single test attempt[cite: 2].</p></div>
+<div class="card"><b>📄 PDF Reports</b><p class="muted">Instant scoring breakdown, analysis, and printable scorecard[cite: 2].</p></div>
+</div>
+</section>
+
+<section id="papers" class="screen">
+<div class="section-title"><h2>Select a Paper</h2><p class="muted">Choose the Group-II paper you want to practise[cite: 2].</p></div>
+<div id="paperGrid" class="grid"></div>
+</section>
+
+<section id="details" class="screen">
+<div class="card form">
+<div class="section-title"><h2>👤 Candidate Details</h2><p class="muted">These details are recorded for your passkey and PDF result report[cite: 2].</p></div>
+<div class="field"><label>Full Name *</label><input id="candidateName" placeholder="Enter your full name"></div>
+<div class="field"><label>Mobile Number *</label><input id="candidateMobile" inputmode="numeric" placeholder="10-digit mobile number"></div>
+<div class="field"><label>Email</label><input id="candidateEmail" type="email" placeholder="you@example.com"></div>
+<div class="field"><label>Select Paper</label><select id="paperSelect"></select></div>
+<div class="field"><label>Number of Questions</label><div id="countChoices" class="options"></div></div>
+<div class="field"><label>Difficulty</label><div id="difficultyChoices" class="options"></div></div>
+<div class="field"><label>Language</label><div class="options"><button class="choice selected" data-lang="English" onclick="selectLang(this)">English</button><button class="choice" data-lang="Telugu" onclick="selectLang(this)">తెలుగు</button></div></div>
+<button class="btn primary" style="width:100%;margin-top:8px" onclick="continueToPayment()">Continue to Payment →</button>
+</div>
+</section>
+
+<section id="payment" class="screen">
+<div class="card paybox">
+<div class="section-title"><h2>🔐 Test Access Fee</h2><p id="paymentSummary" class="muted"></p></div>
+<div class="price">₹10</div><p class="muted">One-time test attempt fee[cite: 2]</p>
+<div id="qrBox" class="qr"></div>
+<div class="upi" id="upiText">UPI ID: YOUR-UPI-ID@BANK</div>
+<p class="muted" style="margin-top:12px;">Scan the QR using GooglePay, PhonePe, or Paytm[cite: 2].</p>
+
+<div class="field" style="text-align:left; margin-top:20px;">
+  <label>Enter 12-Digit Bank UTR / UPI Reference Number: *</label>
+  <input id="candidateUtr" maxlength="12" placeholder="e.g. 408912345678">
+</div>
+
+<button class="btn success" style="margin-top:10px; width:100%;" onclick="submitPaymentUTR()">✅ Submit UTR & Issue Passkey</button>
+<div style="margin-top:15px"><button class="btn ghost" onclick="showScreen('details')">← Back</button></div>
+</div>
+</section>
+
+<section id="passkey" class="screen">
+<div class="card form" style="text-align:center">
+<div style="font-size:55px">🎉</div><h2>Passkey Generated</h2>
+<p class="muted">Your access passkey for this attempt[cite: 2]:</p>
+<div id="passkeyDisplay" style="font-size:26px;font-weight:950;letter-spacing:.12em;padding:16px;background:#f3f4f6;border-radius:14px;color:var(--primary);margin:15px 0;"></div>
+<div class="field" style="text-align:left;margin-top:15px"><label>Enter Passkey to Begin</label><input id="passkeyInput" placeholder="G2-XXXX-XXXX"></div>
+<button class="btn primary" style="width:100%" onclick="verifyPasskey()">Load Questions & Start Test 🚀</button>
+</div>
+</section>
+
+<section id="test" class="screen">
+<div class="test-layout">
+<div class="card qnav">
+<div style="display:flex;justify-content:space-between;gap:10px"><b>Questions</b><span id="timer" class="timer">00:00</span></div>
+<div class="qnums" id="qnums"></div>
+<p class="muted" style="font-size:12px;margin-top:15px">Green = Answered[cite: 2]</p>
+<button class="btn danger" style="width:100%;margin-top:8px" onclick="submitTest()">Submit Test</button>
+</div>
+<div class="card">
+<div class="muted" id="testMeta"></div>
+<div id="questionArea"></div>
+</div>
+</div>
+</section>
+
+<section id="result" class="screen">
+<div class="card result-score">
+<div style="font-size:50px">🎉</div><h2>Test Completed</h2><p id="resultCandidate" class="muted"></p>
+<div id="score" class="score">0%</div><p id="scoreText"></p>
+<div class="result-grid">
+<div class="result-item"><b id="correct">0</b>Correct</div>
+<div class="result-item"><b id="wrong">0</b>Wrong</div>
+<div class="result-item"><b id="unanswered">0</b>Unanswered</div>
+</div>
+<div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+<button class="btn primary" onclick="downloadPDF()">📄 Download Result PDF</button>
+<button class="btn secondary" onclick="retake()">🔄 Retake Test (₹10)</button>
+<button class="btn ghost" onclick="showScreen('leaderboard')">🏆 Leaderboard</button>
+</div>
+</div>
+</section>
+
+<section id="leaderboard" class="screen">
+<div class="section-title"><h2>🏆 Leaderboard</h2><p class="muted">Recent attempts recorded in your session[cite: 2].</p></div>
+<div class="card"><div style="overflow:auto"><table class="table"><thead><tr><th>Rank</th><th>Candidate</th><th>Paper</th><th>Score</th><th>Accuracy</th></tr></thead><tbody id="leaderboardBody"></tbody></table></div></div>
+</section>
+
+<section id="admin" class="screen">
+<div id="adminLock" class="card admin-lock">
+<h2>👑 Admin Access</h2><p class="muted">View verified test attempts[cite: 2].</p>
+<div class="field"><label>Admin Key</label><input id="adminKey" type="password" placeholder="Enter admin key"></div>
+<button class="btn primary" style="width:100%" onclick="adminLogin()">Unlock Admin</button>
+</div>
+<div id="adminPanel" class="hidden">
+<div class="section-title"><h2>Admin Dashboard</h2><p class="muted">Live session telemetry[cite: 2].</p></div>
+<div class="grid4">
+<div class="card"><b>Total Attempts</b><h2 id="aAttempts">0</h2></div>
+<div class="card"><b>Users</b><h2 id="aUsers">0</h2></div>
+<div class="card"><b>Paid Tests</b><h2 id="aPaid">0</h2></div>
+<div class="card"><b>Total Revenue</b><h2 id="aRevenue">₹0</h2></div>
+</div>
+<div class="card" style="margin-top:18px"><h3>Attempt History</h3><div style="overflow:auto"><table class="table"><thead><tr><th>Name</th><th>Paper</th><th>Score</th><th>Date</th></tr></thead><tbody id="adminResults"></tbody></table></div></div>
+</div>
+</section>
+</main>
+<div class="footer">Group-II Mock Test Platform • GitHub Pages Edition</div>
+<div id="toast" class="toast"></div>
+</div>
+
+<script>
+const CONFIG = {
+  TEST_FEE: 10,
+  PAYMENT_UPI_ID: "YOUR-UPI-ID@BANK", // Update with your actual UPI ID[cite: 2]
+  DEMO_ADMIN_KEY: "ADMIN-DEMO-123"
+};
+
+let state = {
+  candidate: { name: "", mobile: "", email: "" },
+  paper: "Paper-I", count: 25, difficulty: "Basic", language: "English",
+  testQuestions: [], answers: {}, current: 0, seconds: 0, timer: null,
+  passkey: "", utr: "", paid: false, lastResult: null
+};
+
+function $(id){ return document.getElementById(id); }
+
+function showScreen(id){
+  document.querySelectorAll(".screen").forEach(s => s.classList.remove("active"));
+  $(id).classList.add("active");
+  if(id === "papers") renderPapers();
+  if(id === "leaderboard") renderLeaderboard();
+  if(id === "admin") renderAdmin();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function toast(msg){
+  const t = $("toast");
+  t.textContent = msg;
+  t.style.display = "block";
+  setTimeout(() => t.style.display = "none", 2400);
+}
+
+function init(){
+  const titles = {
+    "Paper-I": "General Studies & General Abilities",
+    "Paper-II": "History, Polity & Society",
+    "Paper-III": "Economy & Development",
+    "Paper-IV": "Telangana Movement & State Formation"
+  };
+
+  $("paperGrid").innerHTML = ["Paper-I", "Paper-II", "Paper-III", "Paper-IV"].map(p => `
+    <div class="card paper-card">
+      <span class="tag">${p}</span>
+      <h3>${titles[p]}</h3>
+      <p class="muted">Official syllabus practice tests with bilingual support[cite: 2].</p>
+      <button class="btn primary" onclick="choosePaper('${p}')">Attempt ₹10 →</button>
+    </div>
+  `).join("");
+
+  $("paperSelect").innerHTML = ["Paper-I", "Paper-II", "Paper-III", "Paper-IV"].map(p => `
+    <option value="${p}">${p}: ${titles[p]}</option>
+  `).join("");
+
+  $("countChoices").innerHTML = [25, 50, 100].map(n => `
+    <button class="choice ${n === 25 ? "selected" : ""}" onclick="selectCount(this, ${n})">${n}</button>
+  `).join("");
+
+  $("difficultyChoices").innerHTML = ["Basic", "Medium", "Advanced"].map(d => `
+    <button class="choice ${d === "Basic" ? "selected" : ""}" onclick="selectDifficulty(this, '${d}')">${d}</button>
+  `).join("");
+
+  $("upiText").textContent = "UPI ID: " + CONFIG.PAYMENT_UPI_ID;
+  renderQR();
+}
+
+function choosePaper(p){ state.paper = p; $("paperSelect").value = p; showScreen("details"); }
+function selectCount(el, n){ document.querySelectorAll("#countChoices .choice").forEach(x => x.classList.remove("selected")); el.classList.add("selected"); state.count = n; }
+function selectDifficulty(el, d){ document.querySelectorAll("#difficultyChoices .choice").forEach(x => x.classList.remove("selected")); el.classList.add("selected"); state.difficulty = d; }
+function selectLang(el){ document.querySelectorAll("[data-lang]").forEach(x => x.classList.remove("selected")); el.classList.add("selected"); state.language = el.dataset.lang; }
+
+function continueToPayment(){
+  const name = $("candidateName").value.trim();
+  const mobile = $("candidateMobile").value.trim();
+  if(!name){ toast("Please enter your name."); return; }
+  if(mobile.length < 10){ toast("Please enter a valid 10-digit mobile number."); return; }
+  state.candidate = { name, mobile, email: $("candidateEmail").value.trim() };
+  state.paper = $("paperSelect").value;
+  $("paymentSummary").textContent = `${state.candidate.name} • ${state.paper} • ${state.count} Qs • ${state.difficulty} • ${state.language}`;
+  renderQR();
+  showScreen("payment");
+}
+
+function renderQR(){
+  const upiPayload = `upi://pay?pa=${encodeURIComponent(CONFIG.PAYMENT_UPI_ID)}&pn=${encodeURIComponent("TSPSC Group 2 Mocks")}&am=${CONFIG.TEST_FEE}&cu=INR`;
+  $("qrBox").innerHTML = `<img alt="UPI payment QR" style="width:100%;height:100%;object-fit:contain" src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodeURIComponent(upiPayload)}">`;
+}
+
+function submitPaymentUTR(){
+  const utr = $("candidateUtr").value.trim();
+  if(utr.length < 8){
+    toast("Please enter a valid Bank UTR / UPI reference number.");
+    return;
+  }
+  state.utr = utr;
+  state.paid = true;
+  state.passkey = "G2-" + Math.random().toString(36).substring(2,6).toUpperCase() + "-" + Math.random().toString(36).substring(2,6).toUpperCase();
+  $("passkeyDisplay").textContent = state.passkey;
+  $("passkeyInput").value = "";
+  showScreen("passkey");
+}
+
+// DYNAMIC FILE FETCHING ENGINE BASED ON GENERATED JSON FILES
+async function fetchPaperQuestions(paper, difficulty){
+  const slug = paper.toLowerCase().replace("-", ""); 
+  const filePath = `data/${slug}/${slug}_${difficulty.toLowerCase()}.json`;
+
+  toast(`Loading ${difficulty} questions for ${paper}...`);
+  const response = await fetch(filePath);
+
+  if(!response.ok){
+    throw new Error(`Failed to load ${filePath}. Check that the file exists on GitHub.`);
+  }
+
+  return await response.json();
+}
+
+async function verifyPasskey(){
+  if($("passkeyInput").value.trim() !== state.passkey){
+    toast("Invalid Passkey.");
+    return;
+  }
+  if(!state.paid){
+    toast("Payment verification required.");
+    return;
+  }
+
+  try {
+    const rawBank = await fetchPaperQuestions(state.paper, state.difficulty);
+
+    if(!Array.isArray(rawBank) || rawBank.length === 0){
+      throw new Error("The selected question file is empty.");
+    }
+
+    // Shuffle pool and take requested question count
+    const pool = [...rawBank].sort(() => Math.random() - 0.5);
+    state.testQuestions = pool.slice(0, Math.min(state.count, pool.length));
+
+    state.answers = {};
+    state.current = 0;
+    state.seconds = state.testQuestions.length * 60; // 1 minute per question[cite: 2]
+
+    clearInterval(state.timer);
+    state.timer = setInterval(() => {
+      state.seconds--;
+      updateTimer();
+      if(state.seconds <= 0) submitTest();
+    }, 1000);
+
+    renderTest();
+    showScreen("test");
+  } catch (err){
+    console.error(err);
+    alert("Could not load questions: " + err.message);
+  }
+}
+
+function updateTimer(){
+  let s = Math.max(0, state.seconds), m = Math.floor(s/60), sec = s%60;
+  $("timer").textContent = String(m).padStart(2, "0") + ":" + String(sec).padStart(2, "0");
+}
+
+function renderTest(){
+  const qs = state.testQuestions;
+  $("testMeta").textContent = `${state.paper} • ${state.difficulty} • ${state.language} • ${qs.length} Questions`;
+  $("qnums").innerHTML = qs.map((q, i) => `
+    <button class="qnum ${state.answers[i] !== undefined ? "answered" : ""} ${i === state.current ? "current" : ""}" onclick="goQ(${i})">${i + 1}</button>
+  `).join("");
+
+  const q = qs[state.current];
+  const questionText = (state.language === "Telugu" && q.te) ? q.te : q.en;
+
+  $("questionArea").innerHTML = `
+    <div class="question">${state.current + 1}. ${questionText}</div>
+    ${q.opts.map((opt, i) => `
+      <button class="answer ${state.answers[state.current] === i ? "selected" : ""}" onclick="answer(${i})">
+        ${String.fromCharCode(65 + i)}. ${opt}
+      </button>
+    `).join("")}
+    <div class="test-actions">
+      <button class="btn ghost" onclick="prevQ()">← Previous</button>
+      <button class="btn primary" onclick="nextQ()">${state.current === qs.length - 1 ? "Review Answers" : "Next →"}</button>
+    </div>
+  `;
+  updateTimer();
+}
+
+function answer(i){ state.answers[state.current] = i; renderTest(); }
+function goQ(i){ state.current = i; renderTest(); }
+function prevQ(){ if(state.current > 0){ state.current--; renderTest(); } }
+function nextQ(){
+  if(state.current < state.testQuestions.length - 1){
+    state.current++;
+    renderTest();
+  } else {
+    toast("Review your answers on the palette, then click Submit Test.");
+  }
+}
+
+function submitTest(){
+  if(!state.testQuestions.length) return;
+  clearInterval(state.timer);
+  const total = state.testQuestions.length;
+  let correct = 0, unanswered = 0;
+
+  state.testQuestions.forEach((q, i) => {
+    if(state.answers[i] === undefined) unanswered++;
+    else if(state.answers[i] === q.ans) correct++;
+  });
+
+  const wrong = total - correct - unanswered;
+  const percentage = Math.round(correct / total * 100);
+
+  state.lastResult = {
+    name: state.candidate.name,
+    paper: state.paper,
+    total, correct, wrong, unanswered, percentage,
+    difficulty: state.difficulty,
+    language: state.language,
+    date: new Date().toLocaleString("en-IN")
+  };
+
+  const results = JSON.parse(localStorage.getItem("g2_results") || "[]");
+  results.push(state.lastResult);
+  localStorage.setItem("g2_results", JSON.stringify(results.slice(-500)));
+
+  $("resultCandidate").textContent = `${state.candidate.name} • ${state.paper} • ${state.difficulty}`;
+  $("score").textContent = percentage + "%";
+  $("scoreText").textContent = `${correct} / ${total} Correct`;
+  $("correct").textContent = correct;
+  $("wrong").textContent = wrong;
+  $("unanswered").textContent = unanswered;
+  showScreen("result");
+}
+
+function retake(){
+  state.paid = false;
+  state.passkey = "";
+  state.utr = "";
+  $("candidateUtr").value = "";
+  showScreen("details");
+  toast("Retake requires a new ₹10 payment access.");
+}
+
+function renderLeaderboard(){
+  const data = JSON.parse(localStorage.getItem("g2_results") || "[]").sort((a,b) => b.percentage - a.percentage).slice(0,50);
+  $("leaderboardBody").innerHTML = data.length ? data.map((r, i) => `
+    <tr>
+      <td class="rank">${i + 1}</td>
+      <td>${escapeHtml(r.name)}</td>
+      <td>${r.paper}</td>
+      <td>${r.correct}/${r.total}</td>
+      <td>${r.percentage}%</td>
+    </tr>
+  `).join("") : `<tr><td colspan="5" class="muted">No attempts yet.</td></tr>`;
+}
+
+function adminLogin(){
+  if($("adminKey").value !== CONFIG.DEMO_ADMIN_KEY){ toast("Invalid Admin Key."); return; }
+  $("adminLock").classList.add("hidden");
+  $("adminPanel").classList.remove("hidden");
+  renderAdmin();
+}
+
+function renderAdmin(){
+  const data = JSON.parse(localStorage.getItem("g2_results") || "[]");
+  $("aAttempts").textContent = data.length;
+  $("aUsers").textContent = new Set(data.map(x => x.name.toLowerCase())).size;
+  $("aPaid").textContent = data.length;
+  $("aRevenue").textContent = "₹" + (data.length * CONFIG.TEST_FEE);
+  $("adminResults").innerHTML = data.slice(-20).reverse().map(r => `
+    <tr><td>${escapeHtml(r.name)}</td><td>${r.paper}</td><td>${r.percentage}%</td><td>${r.date}</td></tr>
+  `).join("") || `<tr><td colspan="4" class="muted">No results yet.</td></tr>`;
+}
+
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, m => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;" }[m])); }
+
+function downloadPDF(){
+  const r = state.lastResult;
+  if(!r) return;
+  const w = window.open("", "_blank");
+  w.document.write(`
+    <html><head><title>TSPSC Group-II Result - ${escapeHtml(r.name)}</title>
+    <style>body{font-family:Arial,sans-serif;padding:45px;color:#172033}h1{text-align:center;color:#5b4bdb}.box{border:1px solid #ddd;padding:25px;border-radius:15px;max-width:600px;margin:auto}table{width:100%;border-collapse:collapse;margin-top:15px}td{padding:12px;border-bottom:1px solid #ddd}.score{font-size:55px;font-weight:bold;text-align:center;color:#5b4bdb;margin:15px 0}</style></head>
+    <body>
+      <h1>TSPSC GROUP-II MOCK TEST</h1>
+      <div class="box">
+        <h2>Candidate Scorecard</h2>
+        <table>
+          <tr><td><b>Candidate Name</b></td><td>${escapeHtml(r.name)}</td></tr>
+          <tr><td><b>Paper Attempted</b></td><td>${r.paper}</td></tr>
+          <tr><td><b>Question Count</b></td><td>${r.total}</td></tr>
+          <tr><td><b>Difficulty & Language</b></td><td>${r.difficulty} (${r.language})</td></tr>
+          <tr><td><b>Correct Answers</b></td><td>${r.correct}</td></tr>
+          <tr><td><b>Wrong Answers</b></td><td>${r.wrong}</td></tr>
+          <tr><td><b>Unanswered</b></td><td>${r.unanswered}</td></tr>
+        </table>
+        <p class="score">${r.percentage}%</p>
+        <p style="text-align:center;font-weight:bold">${r.correct} / ${r.total} Correct</p>
+        <p style="font-size:12px;color:#6b7280;margin-top:20px;">Generated on: ${escapeHtml(r.date)}</p>
+      </div>
+      <script>window.print()<\/script>
+    </body></html>
+  `);
+  w.document.close();
+}
+
+init();
+</script>
+</body>
+</html>

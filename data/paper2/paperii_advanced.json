@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "P2_ADV_001",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the social stratification and position of women during the Later Vedic period: 1. The concept of 'Gotra' institutionalized exogamy and lineage identity. 2. Women were completely denied access to Upanayana samskara and education. Which of the statements given above is/are correct?",
+    "te": "తర్వాత వే Vedic కాలంలో సామాజిక వర్గీకరణ మరియు స్త్రీల స్థానానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. 'గోత్ర' భావన బహిర్వివాహం (ఎక్సోగమి) మరియు వంశ గుర్తింపును సంస్థతీకరించింది. 2. స్త్రీలకు ఉపనయన సంస్కారం మరియు విద్య పూర్తిగా నిరాకరించబడ్డాయి. పైన ఇచ్చిన ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 0,
+    "exp": "During the Later Vedic period, the Gotra system emerged, making gotra exogamy a rule. However, women still had some access to education and ritual life (though restricted compared to Early Vedic period); Gargi and Maitreyi participated in philosophical debates, hence statement 2 is incorrect.",
+    "te_exp": "తరువాత వేద కాలంలో గోత్ర వ్యవస్థ ఉద్భవించింది, గోత్ర బహిర్వివాహం నియమంగా మారింది. అయితే, స్త్రీలకు విద్య మరియు ఆచార జీవితంలో కొంత ప్రవేశం ఉండేది (తొలి వేద కాలంతో పోలిస్తే పరిమితమైనప్పటికీ); గార్గి మరియు మైత్రేయి తత్వశాస్త్ర చర్చలలో పాల్గొనడం వలన ప్రకటన 2 తప్పు."
+  },
+  {
+    "id": "P2_ADV_002",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "In the context of the Mauryan administration as outlined in Kautilya's Arthashastra, what was the primary function of the 'Pradeshta'?",
+    "te_exp": "కౌటిల్యుని అర్థశాస్త్రం ప్రకారం, మౌర్య న్యాయ వ్యవస్థలో రెండు రకాల కోర్టులు ఉండేవి: ధర్మస్థీయ (ధర్మస్థుల ఆధ్వర్యంలోని సివిల్ కోర్టులు) మరియు కంటకశోధన (ప్రదేశ్రులు అనబడే ముగ్గురు కమీషనర్ల ఆధ్వర్యంలోని క్రిమినల్ కోర్టులు).",
+    "opts": [
+      "Chief judicial officer of civil courts (Dharmasthiya) / సివిల్ కోర్టుల (ధర్మస్థీయ) ప్రధాన న్యాయాధికారి",
+      "Chief judicial officer of criminal courts (Kantakashodhana) / క్రిమినల్ కోర్టుల (కంటకశోధన) ప్రధాన న్యాయాధికారి",
+      "Superintendent of royal treasury and revenue collection / రాజకోశాధికారి మరియు ఆదాయ సేకరణ పర్యవేక్షకుడు",
+      "Head of the military intelligence and espionage network / సైనిక గూఢచార మరియు గూఢచారి నెట్‌వర్క్ అధిపతి"
+    ],
+    "ans": 1,
+    "exp": "According to Kautilya's Arthashastra, the Mauryan judicial system had two types of courts: Dharmasthiya (civil courts presided over by Dharmasthas) and Kantakashodhana (criminal courts presided over by three commissioners called Pradeshtas)."
+  },
+  {
+    "id": "P2_ADV_003",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Match the following Gupta-era administrative/taxation terms with their correct meanings: A. Vishti B. Bali C. Udranga D. Bhoga. Codes: 1. Periodic tribute 2. Forced labor 3. Extra tax on permanent tenants 4. Periodic supply of fruits, flowers, etc.",
+    "te_exp": "గుప్త కాలంలో, విష్టి అంటే బలవంతపు పని (కోర్వీ), బలి అనేది సాంప్రదాయ స్వచ్ఛంద లేదా బలవంతపు కప్పం, ఉద్రంగ అనేది శాశ్వత కౌలుదారులపై విధించే పన్ను, మరియు భోగ అనేది రాజుకు ఇవ్వవలసిన పండ్లు, వంటచెరకు మరియు పువ్వుల ఆవర్తక సరఫరా.",
+    "opts": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-2, B-3, C-1, D-4",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "ans": 0,
+    "exp": "During the Gupta period, Vishti referred to forced labor (corvée), Bali was a traditional voluntary or coercive tribute, Udranga was a tax levied on permanent tenants, and Bhoga was the periodic supply of fruits, firewood, and flowers given to the king."
+  },
+  {
+    "id": "P2_ADV_004",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Which of the following architectural and socio-religious features are distinctly associated with the mature phase of the Indus Valley Civilization? 1. Absence of large monumental temples or palaces. 2. Widespread presence of Iron implements for agriculture. 3. Prevalence of Mother Goddess worship and Pashupati Mahadeva. Select the correct answer:",
+    "te_exp": "IVC అనేది కాంస్య యుగ నాగరికత, కాబట్టి వారికి ఇనుము గురించి తెలియదు (దీనివల్ల ప్రకటన 2 తప్పు). ప్రకటనలు 1 మరియు 3 సరైనవి: ఎటువంటి స్మారక రాజప్రసాదాలు/దేవాలయాలు కనుగొనబడలేదు, మరియు ముద్రికలు మాతృదేవత మరియు పశుపతి ఆరాధనను సూచిస్తాయి.",
+    "opts": [
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3",
+      "1 only / 1 మాత్రమే"
+    ],
+    "ans": 0,
+    "exp": "IVC was a Bronze Age civilization, hence iron was unknown to them (making statement 2 incorrect). Statements 1 and 3 are correct: no monumental palaces/temples have been found, and seals indicate Mother Goddess and Pashupati worship."
+  },
+  {
+    "id": "P2_ADV_005",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Regarding the Sufi Silsilas (orders) in medieval India, which of the following statements is/are correct? 1. The Suhrawardi order accepted state patronage and jagirs, unlike the Chishti order which kept away from state politics. 2. Shaikh Nizamuddin Auliya belonged to the Naqshbandi order. Select the correct answer using the codes below:",
+    "te_exp": "ప్రకటన 1 సరైనది: సుహ్రావర్దీలు రాజ్య పోషణను, భూములను అంగీకరించారు మరియు ఉన్నత అధికార పదవులను నిర్వహించారు. ప్రకటన 2 తప్పు ఎందుకంటే షేక్ నిజాముద్దీన్ ఔలియా నక్ష్‌బందీ ఆర్డర్ కాకుండా చిష్తీ ఆర్డర్‌కు చెందిన ప్రముఖ గురువు.",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 0,
+    "exp": "Statement 1 is correct: Suhrawardis accepted state patronage, lands, and held high official positions. Statement 2 is incorrect because Shaikh Nizamuddin Auliya was a prominent master of the Chishti order, not the Naqshbandi order."
+  },
+  {
+    "id": "P2_ADV_001",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the Subsidiary Alliance system introduced by Lord Wellesley:\n1. The Indian ruler had to keep a British resident at his court.\n2. The ruler was free to enter into alliances with other native states with prior British permission.\n3. In case of non-payment of subsidies, a portion of the territory was to be annexed.\nWhich of the statements given above are correct?",
+    "te": "లార్డ్ వెల్లస్లీ ప్రవేశపెట్టిన సైన్య సహకార పద్ధతికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారతీయ పాలకుడు తన రాజసభలో బ్రిటిష్ రెసిడెంట్‌ను ఉంచుకోవాలి.\n2. బ్రిటిష్ వారి ముందస్తు అనుమతితో ఇతర దేశీయ రాజ్యాలతో పొత్తు పెట్టుకోవడానికి పాలకుడు స్వతంత్రుడు.\n3. రాయితీలు చెల్లించనిక్షంలో, భూభాగంలో కొంత భాగాన్ని జప్తు చేయవలసి ఉంటుంది.\nపైన ఇచ్చిన ప్రకటనలలో ఏది సరైనది?",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 1,
+    "exp": "Under the Subsidiary Alliance, the Indian ruler was barred from entering into any alliance with any other foreign power or native state without the permission of the British. Thus statement 2 is incorrect as they were completely forbidden from independent alliances, and British permission was not for native state alliances freely, but outright banned without company consent."
+  },
+  {
+    "id": "P2_ADV_002",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Which of the following administrative measures were taken by the British immediately in the aftermath of the Revolt of 1857?\n1. Reorganization of the Indian Army by increasing the ratio of British to Indian troops.\n2. The Doctrine of Lapse was formally withdrawn.\n3. Promise of non-interference in the religious beliefs of Indians.\nSelect the correct answer using the code below:",
+    "te": "1857 తిరుగుబాటు తక్షణ అనంతర కాలంలో బ్రిటిష్ వారు తీసుకున్న పరిపాలనా చర్యలు ఏమిటి?\n1. భారతీయ సైనికులతో పోలిస్తే బ్రిటిష్ సైనికుల నిష్పత్తిని పెంచడం ద్వారా భారత సైన్యం పునర్వ్యవస్థీకరణ.\n2. రాజ్య సంక్రమణ సిద్ధాంతాన్ని అధికారికంగా ఉపసంహరించుకున్నారు.\n3. భారతీయుల మత విశ్వాసాలలో జోక్యం చేసుకోబోమని హామీ.\nక్రింది కోడ్‌ని ఉపయోగించి సరైన సమాచారాన్ని ఎంచుకోండి:",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 3,
+    "exp": "Post-1857, the British reorganized the army (European troops increased), formally abandoned the Doctrine of Lapse via Queen Victoria's Proclamation, and pledged non-interference in religious matters and respect for native princes' rights."
+  },
+  {
+    "id": "P2_ADV_003",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Match the following peasant and tribal uprisings with their respective regions and leaders during the British rule:\nList I (Uprising) - List II (Region/Leader)\nA. Moplah Rebellion - 1. Malabar\nB. Ramosi Uprising - 2. Western Ghats (Umaaji Naik)\nC. Santhal Rebellion - 3. Rajmahal Hills (Sidhu and Kanhu)\nD. Paika Rebellion - 4. Odisha (Buxi Jagabandhu)\nChoose the correct matching:",
+    "te": "బ్రిటిష్ పాలనలో క్రింది రైతాంగ మరియు గిరిజన తిరుగుబాటులను వాటి సంబంధిత ప్రాంతాలు మరియు నాయకులతో జతపరచండి:\nజాబితా I (తిరుగుబాటు) - జాబితా II (ప్రాంతం/నాయకుడు)\nA. మోప్లా తిరుగుబాటు - 1. మలబార్\nB. రామోసీ తిరుగుబాటు - 2. పశ్చిమ కనుమలు (ఉమాజీ నాయక్)\nC. సంతాల్ తిరుగుబాటు - 3. రాజ్‌మహల్ కొండలు (సిద్ధు మరియు కన్హు)\nD. పైకా తిరుగుబాటు - 4. ఒడిశా (బక్షి జగబంధు)\nసరైన జతను ఎంచుకోండి:",
+    "opts": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-3, C-2, D-4",
+      "A-4, B-2, C-1, D-3"
+    ],
+    "ans": 0,
+    "exp": "All pairs are correctly matched. Moplah in Malabar, Ramosi by Umaaji Naik in Western Ghats, Santhal by Sidhu-Kanhu in Rajmahal Hills, and Paika rebellion by Buxi Jagabandhu in Odisha."
+  },
+  {
+    "id": "P2_ADV_004",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "With reference to the Partition of Bengal (1905) and the Swadeshi Movement, consider the following statements:\n1. The formal proclamation of the Swadeshi Movement was made at the Calcutta Town Hall.\n2. 'Amar Sonar Bangla', now the national anthem of Bangladesh, was composed by Rabindranath Tagore during this period.\n3. The INC session at Benaras in 1905, presided over by Dadabhai Naoroji, supported the Swadeshi movement only for Bengal.\nWhich of the statements given above are correct?",
+    "te": "బెంగాల్ విభజన (1905) మరియు స్వదేశీ ఉద్యమానికి సంబంధించి, క్రింది ప్రకటనలను పరిశీలించండి:\n1. స్వదేశీ ఉద్యమం యొక్క అధికారిక ప్రకటన కలకత్తా టౌన్ హాల్‌లో చేయబడింది.\n2. ప్రస్తుతం బంగ్లాదేశ్ జాతీయ గీతమైన 'అమర్ సోನಾರ್ ಬంగ్ಲಾ'ను ఈ కాలంలో రవీంద్రనాథ్ టాగోర్ రచించారు.\n3. దాదాభాయ్ నౌరోజీ అధ్యక్షతన 1905లో బెనారస్‌లో జరిగిన కాంగ్రెస్ సమావేశం బెంగాల్‌కు మాత్రమే స్వదేశీ ఉద్యమానికి మద్దతు ఇచ్చింది.\nపైన ఇచ్చిన ప్రకటనలలో ఏది సరైనది?",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 0,
+    "exp": "Statement 3 is incorrect because the Benaras session of INC (1905) was presided over by Gopal Krishan Gokhale, not Dadabhai Naoroji, and it supported the Swadeshi and Boycott movement for Bengal (Naoroji presided over the 1906 Calcutta session)."
+  },
+  {
+    "id": "P2_ADV_005",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Which of the following acts introduced the principle of 'dyarchy' at the provincial level in British India?",
+    "te": "బ్రిటిష్ భారతదేశంలో ప్రావిన్షియల్ స్థాయిలో 'ద్విసభా పాలన' (డైపార్కీ) సూత్రాన్ని ఏ చట్టం ప్రవేశపెట్టింది?",
+    "opts": [
+      "Indian Councils Act of 1909 / 1909 నాటి భారత కౌన్సిల్స్ చట్టం",
+      "Government of India Act of 1919 / 1919 నాటి భారత ప్రభుత్వ చట్టం",
+      "Government of India Act of 1935 / 1935 నాటి భారత ప్రభుత్వ చట్టం",
+      "Indian Councils Act of 1892 / 1892 నాటి భారత కౌన్సిల్స్ చట్టం"
+    ],
+    "ans": 1,
+    "exp": "The Government of India Act of 1919 (Montagu-Chelmsford Reforms) introduced dyarchy (rule of two) at the provincial level, dividing executive subjects into transferred and reserved subjects."
+  },
+  {
+    "id": "P2_ADV_011",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "Which administrative official during the Kakatiya period was directly responsible for maintaining the village police and judicial records, functioning as the chief accountant at the village level?",
+    "te": "కాకతీయుల కాలంలో గ్రామ స్థాయిలోని ప్రధాన లెక్కలధికారిగా మరియు గ్రామ రక్షణ, న్యాయ రికార్డులను నిర్వహించడానికి ప్రత్యక్షంగా బాధ్యత వహించిన అధికార ప్రతినిధి ఎవరు?",
+    "opts": [
+      "Deshmukh",
+      "Karanam",
+      "Reddy (Gouda)",
+      "Talari"
+    ],
+    "ans": 1,
+    "exp": "The Karanam (village accountant) played a crucial role in the Kakatiya and later administrative systems by maintaining land, revenue, and judicial records at the village level."
+  },
+  {
+    "id": "P2_ADV_012",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "In the socio-economic context of the Satavahana period, what did the term 'Negama' specifically refer to?",
+    "te": "శాతవాహనుల కాలపు సామాజిక-ఆర్థిక సందర్భంలో 'నిగమ' (Negama) అను పదం దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Guilds of merchants and traders",
+      "Military commanders stationed at border posts",
+      "High-ranking revenue officials in charge of ports",
+      "Buddhist monks residing in rock-cut caves"
+    ],
+    "ans": 0,
+    "exp": "During the Satavahana period, 'Negama' referred to the guilds of merchants and traders who played a prominent role in urban economy and local governance, often issuing their own tokens or coins."
+  },
+  {
+    "id": "P2_ADV_013",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "During the Qutb Shahi period, what was the primary responsibility of the administrative official known as 'Mir Jumla'?",
+    "te": "కుతుబ్ షాహీల కాలంలో 'మీర్ జుమ్లా' అని పిలువబడే పరిపాలనాధికారి యొక్క ప్రధాన బాధ్యత ఏమిటి?",
+    "opts": [
+      "Head of religious endowments and charities",
+      "Prime Minister and Minister of Revenue and Finance",
+      "Commander-in-Chief of the cavalry",
+      "Chief Justice of the criminal courts"
+    ],
+    "ans": 1,
+    "exp": "Under the Qutb Shahis of Golconda, the Mir Jumla functioned as the Prime Minister or chief financial officer, overseeing state revenues, trade, and general administration."
+  },
+  {
+    "id": "P2_ADV_014",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "Which structural and administrative reform was introduced by Salar Jung I during the Asaf Jahi period to streamline district administration and curb the excesses of local revenue farmers?",
+    "te": "ఆసఫ్ జాహీల కాలంలో జిల్లా పరిపాలనను క్రమబద్ధీకరించడానికి మరియు స్థానిక రెవెన్యూ కౌలుదారుల అణచివేతను అరికట్టడానికి మొదటి సాలార్ జంగ్ ప్రవేశపెట్టిన నిర్మాణాత్మక మరియు పరిపాలనా సంస్కరణ ఏమిటి?",
+    "opts": [
+      "Abolition of the Jagirdari system entirely",
+      "Division of the state into districts (Zillas) headed by Taluqdars",
+      "Introduction of the Mansabdari system based on Zat and Sawar",
+      "Creation of the Paigah estates for military nobility"
+    ],
+    "ans": 1,
+    "exp": "Salar Jung I divided the Hyderabad state into districts (Zillas) headed by Taluqdars (District Collectors) to centralize revenue collection, improve law and order, and eliminate intermediaries."
+  },
+  {
+    "id": "P2_ADV_015",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "The famous cave temples at Keesaragutta and Tummalagudem are primarily associated with the patronage of which dynasty known for their devotion to Parama Maheshvara?",
+    "te": "పరమ మహేశ్వర భక్తికి ప్రసిద్ధి చెందిన ఏ రాజవంశం యొక్క పోషణతో కీసరగుట్ట మరియు తుమ్మలగూడెం గుహ దేవాలయాలు ప్రధానంగా ముడిపడి ఉన్నాయి?",
+    "opts": [
+      "Ikshvakus of Nagarjunakonda",
+      "Vishnukundins",
+      "Later Chalukyas of Vemulavada",
+      "Kakatiyas of Warangal"
+    ],
+    "ans": 1,
+    "exp": "The Vishnukundins were staunch patrons of Hinduism, particularly Shaivism, holding the title 'Parama Maheshvara', and are credited with the construction of rock-cut cave temples at Keesaragutta and Tummalagudem."
+  },
+  {
+    "id": "P2_ADV_016",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the Rohilla rebellion led by Ramji Gond against the Nizam's authority and British indirect rule:\n1. Ramji Gond operated primarily from the Nirmal forests of Adilabad district.\n2. He was supported by the Gond and Kolam tribes in his fight against the landlords and British-backed Nizam forces.\n3. Following his defeat, Ramji Gond and hundreds of his followers were publicly executed at a historic banyan tree in Nirmal.\nWhich of the statements given above are correct?",
+    "te": "నిజామ్ అధికారం మరియు బ్రిటిష్ పరోక్ష పాలనకు వ్యతిరేకంగా రామ్జీ గోండ్ నేతృత్వంలో జరిగిన రోహిల్లా తిరుగుబాటుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి:\n1. రామ్జీ గోండ్ ప్రధానంగా ఆదిలాబాద్ జిల్లాలోని నిర్మల్ అడవుల నుండి కార్యకలాపాలు నిర్వహించారు.\n2. భూస్వాములు మరియు బ్రిటిష్ మద్దతుగల నిజామ్ బలగాలకు వ్యతిరేకంగా ఆయన పోరాటంలో గోండ్ మరియు కోలామ్ తెగలు మద్దతుగా నిలిచాయి.\n3. అతని ఓటమి తర్వాత, రామ్జీ గోండ్ మరియు వందలాది మంది అనుచరులను నిర్మల్ లోని ఒక చారిత్రాత్మక మర్రి చెట్టు వద్ద బహిరంగంగా ఉరితీశారు.\nపైన ఇవ్వబడిన ప్రకటనలలో ఏవి సరైనవి?",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 3,
+    "exp": "All statements are historically accurate regarding Ramji Gond's resistance in Nirmal (Adilabad), his tribal alliances, and his eventual execution by hanging from a banyan tree along with his followers. / రామ్జీ గోండ్ చేసిన పోరాటం, గిరిజన మద్దతు మరియు నిర్మల్ లో ఉరిశిక్ష గురించిన అన్ని ప్రకటనలు చారిత్రాత్మకంగా సరైనవి."
+  },
+  {
+    "id": "P2_ADV_017",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "With reference to the historic Komaram Bheem's uprising, match the following key terms/locations with their significance:\nA. Jodeghat - 1. Final battle site where Komaram Bheem was martyred\nB. Babujhari - 2. Secret headquarters and meeting place of the tribal resistance\nC. Sidd Saheb - 3. Trusted aide and strategist of Komaram Bheem\nSelect the correct matching code:",
+    "te": "చారిత్రాత్మక కొమరం భీమ్ తిరుగుబాటుకు సంబంధించి, ఈ క్రింది కీలక పదాలు/ప్రాంతాలను వాటి ప్రాముఖ్యతతో జతపరచండి:\nA. జోడేఘాట్ - 1. కొమరం భీమ్ వీరమరణం పొందిన తుది యుద్ధ స్థలం\nB. బాబుఝారి - 2. గిరిజన ప్రతిఘటన యొక్క రహస్య ప్రధాన కార్యాలయం మరియు సమావేశ స్థలం\nC. సిద్ది సాహెబ్ - 3. కొమరం భీమ్ యొక్క విశ్వసనీయ సహచరుడు మరియు వ్యూహకర్త\nసరైన జతపరిచే కోడ్‌ను ఎంచుకోండి:",
+    "opts": [
+      "A-1, B-2, C-3",
+      "A-2, B-1, C-3",
+      "A-1, B-3, C-2",
+      "A-3, B-2, C-1"
+    ],
+    "ans": 0,
+    "exp": "Jodeghat was the site of the tragic final encounter on October 1, 1940, where Bheem was killed. Babujhari served as a tactical hideout, and Sidd Saheb was his close associate. / జోడేఘాట్ 1940 అక్టోబర్ 1 న భీమ్ అమరుడైన ప్రదేశం. బాబుఝారి వ్యూహాత్మక రహస్య స్థావరం, సిద్ది సాహెబ్ ఆయన సన్నిహిత సహచరుడు."
+  },
+  {
+    "id": "P2_ADV_018",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Consider the structural causes of the Telangana Peasant Armed Struggle (1946-1951):\n1. The oppressive feudal land tenure systems such as Jagirdari, Paigah, and Sarf-e-Khas.\n2. The brutal extraction of forced labor known as 'Vetti Chakiri' by the Deshmukhs and Patwaries.\n3. The complete ban on the Andhra Mahasabha and Communist party activities since its inception in 1921.\nWhich of the above statements are correct?",
+    "te": "తెలంగాణ సాయుధ రైతాంగ పోరాటం (1946-1951) యొక్క నిర్మాణపరమైన కారణాలను పరిశీలించండి:\n1. జాగీర్ధారీ, పైగా, మరియు సర్ఫ్-ఇ-ఖాస్ వంటి అణచివేత భూస్వామ్య విధానాలు.\n2. దేశ్‌ముఖ్‌లు మరియు పట్వారీలు అమలు చేసిన 'వెట్టి చాకిరి' అనే క్రూరమైన బలవంతపు శ్రమ.\n3. 1921లో ఆవిర్భవించినప్పటి నుండి ఆంధ్ర మహాసభ మరియు కమ్యూనిస్ట్ పార్టీ కార్యకలాపాలపై సంపూర్ణ నిషేధం.\nపై వాటిలో ఏ ప్రకటనలు సరైనవి?",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 0,
+    "exp": "Statements 1 and 2 are correct. Statement 3 is incorrect because Andhra Mahasabha was founded in 1930 (not 1921) and was not banned since its inception, though later it faced severe repression. / ప్రకటనలు 1 మరియు 2 సరైనవి. ప్రకటన 3 తప్పు, ఎందుకంటే ఆంధ్ర మహాసభ 1930లో స్థాపించబడింది (1921 కాదు)."
+  },
+  {
+    "id": "P2_ADV_019",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "During the annexation of the Hyderabad State under 'Operation Polo' (September 1948), who served as the Military Governor of Hyderabad appointed by the Government of India?",
+    "te": "'ఆపరేషన్ పోలో' (సెప్టెంబర్ 1948) సమయంలో హైదరాబాద్ రాష్ట్ర విలీన ప్రక్రియలో, భారతదేశ ప్రభుత్వం నియమించిన హైదరాబాద్ సైనిక గవర్నర్‌గా ఎవరు వ్యవహరించారు?",
+    "opts": [
+      "Major General Syed Ahmed El Edroos / మేజర్ జనరల్ సయ్యద్ అహ్మద్ ఎల్ ఎద్రూస్",
+      "Major General J.N. Chaudhuri / మేజర్ జనరల్ జె.ఎన్. చౌదరి",
+      "K.M. Munshi / కె.ఎం. మున్షి",
+      "V.P. Menon / వి.పి. మీనన్"
+    ],
+    "ans": 1,
+    "exp": "Following the surrender of the Nizam's army, Major General J.N. Chaudhuri was appointed as the Military Governor of Hyderabad state from September 1948 to December 1949. / నిజామ్ సైన్యం లొంగిపోయిన తర్వాత, మేజర్ జనరల్ జె.ఎన్. చౌదరి సెప్టెంబర్ 1948 నుండి డిసెంబర్ 1949 వరకు హైదరాబాద్ రాష్ట్ర సైనిక గవర్నర్‌గా నియమితులయ్యారు."
+  },
+  {
+    "id": "P2_ADV_020",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Consider the following events related to the integration of Hyderabad State:\n1. Signing of the Standstill Agreement between the Nizam and the Dominion of India.\n2. The appointment of K.M. Munshi as India's Agent-General in Hyderabad.\n3. The launch of Operation Polo by the Indian Army.\n4. The passing of the Hyderabad State Congress resolution demanding responsible government.\nWhat is the correct chronological order of these events?",
+    "te": "హైదరాబాద్ రాష్ట్ర విలీనానికి సంబంధించిన ఈ క్రింది సంఘటనలను పరిశీలించండి:\n1. నిజామ్ మరియు భారత డొమినియన్ మధ్య యథాతథ ఒప్పందం (Standstill Agreement) సంతకం.\n2. హైదరాబాద్‌లో భారతదేశ ఏజెంట్-జనరల్‌గా కె.ఎం. మున్షి నియామకం.\n3. భారత సైన్యం ద్వారా ఆపరేషన్ పోలో ప్రారంభం.\n4. బాధ్యాతాయుతమైన ప్రభుత్వాన్ని డిమాండ్ చేస్తూ హైదరాబాద్ స్టేట్ కాంగ్రెస్ తీర్మానం.\nఈ సంఘటనల సరైన కాలక్రమం ఏమిటి?",
+    "opts": [
+      "4, 1, 2, 3",
+      "1, 4, 2, 3",
+      "4, 2, 1, 3",
+      "2, 1, 4, 3"
+    ],
+    "ans": 0,
+    "exp": "The correct sequence: State Congress passed resolutions for responsible government earlier; Standstill Agreement was signed in Nov 1947; K.M. Munshi arrived as Agent-General in Jan 1948; Operation Polo took place in Sept 1948. / సరైన క్రమం: స్టేట్ కాంగ్రెస్ తీర్మానం (మునుపు); నవంబర్ 1947లో స్టాండ్‌స్టిల్ ఒప్పందం; జనవరి 1948లో కె.ఎం. మున్షి రాక; సెప్టెంబర్ 1948లో ఆపరేషన్ పోలో."
+  },
+  {
+    "id": "P2_ADV_021",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the 'Basic Structure' doctrine and its application to Fundamental Rights and the Preamble: 1. The Supreme Court in the Kesavananda Bharati case held that the Preamble is a part of the Constitution and can be amended, subject to the condition that the basic elements or fundamental features of the Preamble cannot be altered. 2. The doctrine of 'Eclipse' applies primarily to pre-constitutional laws that are inconsistent with Fundamental Rights, rendering them dead ab initio. Which of the statements given above is/are correct?",
+    "te": "'ప్రాథమిక నిర్మాణం' సిద్ధాంతం మరియు ప్రాథమిక హక్కులు, పీఠికకు దాని అనువర్తనానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. కేశవానంద భారతి కేసులో సుప్రీంకోర్టు పీఠిక రాజ్యాంగంలో అంతర్భాగమని మరియు దాని ప్రాథమిక లక్షణాలను మార్చకుండా సవరించవచ్చని పేర్కొంది. 2. 'ఎక్లిప్స్' (గ్రహణం) సిద్ధాంతం ప్రధానంగా ప్రాథమిక హక్కులతో అసమానంగా ఉన్న రాజ్యాంగ పూర్వ చట్టాలకు వర్తిస్తుంది. పై ఇచ్చిన ప్రకటనలలో ఏది/ఏవి సరైనవి?",
+    "opts": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "ans": 0,
+    "exp": "Statement 1 is correct because in Kesavananda Bharati (1973), the SC held that Preamble is part of the Constitution and amendable under Article 368 without altering its basic structure. Statement 2 is incorrect because pre-constitutional laws violating Fundamental Rights are not dead ab initio (from the beginning); rather, they are eclipsed and remain dormant, becoming operative again if the restrictive Fundamental Right is amended."
+  },
+  {
+    "id": "P2_ADV_022",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "In the context of the Directive Principles of State Policy (DPSP) and Fundamental Rights, which of the following judicial pronouncements correctly established the principle of harmonious construction between Part III and Part IV of the Constitution?",
+    "te": "ఆదేశిక సూత్రాలు (DPSP) మరియు ప్రాథమిక హక్కుల సందర్భంలో, రాజ్యాంగంలోని III మరియు IV భాగాల మధ్య సామరస్యపూర్వక నిర్మాణ సూత్రాన్ని ఏ న్యాయపరమైన తీర్పు సరిగ్గా స్థాపించింది?",
+    "opts": [
+      "Champakam Dorairajan v. State of Madras (1951)",
+      "Golaknath v. State of Punjab (1967)",
+      "Kesavananda Bharati v. State of Kerala (1973) and Minerva Mills v. Union of India (1980)",
+      "A.K. Gopalan v. State of Madras (1950)"
+    ],
+    "ans": 2,
+    "exp": "In Minerva Mills (1980) and Kesavananda Bharati, the Supreme Court emphasized that Fundamental Rights and Directive Principles constitute the conscience of the Constitution and there must be a harmonious balance between them without giving absolute primacy to one over the other in all contexts."
+  },
+  {
+    "id": "P2_ADV_023",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Which of the following Fundamental Rights are available to both Indian citizens and foreigners (except enemy aliens), but are subject to restrictions under Article 19?",
+    "te": "క్రింది ప్రాథమిక హక్కులలో ఏది భారతీయ పౌరులకు మరియు విదేశీయులకు (శత్రు దేశపు విదేశీయులు మినహా) రెండింటికీ వర్తిస్తుంది, కానీ ఆర్టికల్ 19 కింద నిబంధనలకు లోబడి ఉంటుంది?",
+    "opts": [
+      "Article 15, Article 16, and Article 19",
+      "Article 14, Article 20, and Article 21",
+      "Article 19, Article 29, and Article 30",
+      "Article 15, Article 18, and Article 22"
+    ],
+    "ans": 1,
+    "exp": "Articles 15, 16, 19, 29, and 30 are available only to citizens. Article 14 (Equality before law), Article 20 (Protection in respect of conviction), and Article 21 (Protection of life and personal liberty) are available to both citizens and non-citizens (foreigners)."
+  },
+  {
+    "id": "P2_ADV_024",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Consider the Fundamental Duties incorporated under Article 51A by the 42nd and 86th Constitutional Amendment Acts. Which of the following duties is NOT explicitly mentioned in the text of Article 51A?",
+    "te": "42వ మరియు 86వ రాజ్యాంగ సవరణ చట్టాల ద్వారా ఆర్టికల్ 51A కింద చేర్చబడిన ప్రాథమిక విధులను పరిశీలించండి. ఆర్టికల్ 51A పాఠంలో క్రింది ఏ బాధ్యత స్పష్టంగా పేర్కొనబడలేదు?",
+    "opts": [
+      "To value and preserve the rich heritage of our composite culture",
+      "To strive towards excellence in all spheres of individual and collective activity",
+      "To protect and improve the natural environment including forests, lakes, rivers and wildlife",
+      "To pay taxes honestly and regularly as a prime civic duty towards nation-building"
+    ],
+    "ans": 3,
+    "exp": "Paying taxes honestly and regularly is not explicitly listed as a Fundamental Duty under Article 51A, although it is a statutory obligation under various tax laws. The other three are explicitly mentioned under Article 51A (f), (j), and (g) respectively."
+  },
+  {
+    "id": "P2_ADV_025",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "With reference to the writs issued under Article 32 and Article 226 of the Constitution, consider the following statements: 1. The writ of 'Certiorari' can be issued against both judicial/quasi-judicial bodies and administrative bodies affecting the rights of individuals. 2. The writ of 'Quo-Warranto' can be sought by any private individual, not necessarily an aggrieved person, to prevent illegal usurpation of a public office. Which of the statements given above is/are correct?",
+    "te": "రాజ్యాంగంలోని ఆర్టికల్ 32 మరియు ఆర్టికల్ 226 కింద జారీ చేయబడిన రిట్ల संदर्भంగా, క్రింది ప్రకటనలను పరిశీలించండి: 1. 'సర్టియోరారి' (ఉత్ప్రేషణ) రిట్ న్యాయపరమైన/అర్ధ-న్యాయపరమైన సంస్థలు మరియు పరిపాలనా సంస్థలపై జారీ చేయవచ్చు. 2. 'కో-వార్టో' (అధికార పృచ్ఛ) రిట్‌ను బాధితుడే కాకుండా, ఏదైనా ప్రైవేట్ వ్యక్తి పబ్లిక్ ఆఫీస్ యొక్క చట్టవిరుద్ధమైన ఆక్రమణను నిరోధించడానికి కోరవచ్చు. పై ఇచ్చిన ప్రకటనలలో ఏది/ఏవి సరైనవి?",
+    "opts": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "ans": 2,
+    "exp": "Both statements are correct. Originally, Certiorari was available only against judicial/quasi-judicial bodies, but later the Supreme Court extended it to administrative authorities affecting citizens' rights. Quo-warranto is a unique writ where a petition can be filed by any interested person (not necessarily an aggrieved person)."
+  },
+  {
+    "id": "P2_ADV_026",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the ordinance-making power of the President under Article 123: 1. It is co-extensive with the legislative power of the Parliament. 2. The President can issue an ordinance even when both Houses of Parliament are in session if they are unable to pass a bill. Which of the statements given above is/are correct?",
+    "te": "ఆర్టికల్ 123 కింద రాష్ట్రపతి యొక్క ఆర్డినెన్స్ జారీ చేసే అధికారానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. ఇది పార్లమెంటు శాసనసభా అధికారంతో సమానమైన పరిధిని కలిగి ఉంటుంది. 2. పార్లమెంటు ఉభయ సభలు సమావేశంలో ఉన్నప్పటికీ, ఒక బిల్లును ఆమోదించలేకపోతే రాష్ట్రపతి ఆర్డినెన్స్ జారీ చేయవచ్చు. పై పేర్కొన్న ప్రకటనలలో ఏది/ఏవి సరైనది/సమమైనది?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 இரண்டும்",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 0,
+    "exp": "An ordinance can be issued only when both Houses of Parliament are not in session, or when either of the Houses is not in session. Hence, statement 2 is incorrect while statement 1 is correct."
+  },
+  {
+    "id": "P2_ADV_027",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "With reference to the pardoning power of the President and the Governor, which of the following is correct?",
+    "te": "రాష్ట్రపతి మరియు గవర్నర్ యొక్క క్షమాభిక్ష అధికారానికి సంబంధించి, క్రింది వాటిలో ఏది సరైనది?",
+    "opts": [
+      "The Governor can pardon a sentence of death, but cannot grant pardon in cases involving court-martial.",
+      "The President can grant pardon in all cases where the punishment or sentence is by a court-martial, whereas the Governor does not possess this power.",
+      "Both the President and the Governor have concurrent powers with respect to death sentence pardons.",
+      "The Governor can suspend, remit or commute a death sentence just like the President."
+    ],
+    "ans": 1,
+    "exp": "The President can grant pardons in cases of court-martial (military courts), but the Governor does not have this power. Also, only the President can pardon a death sentence."
+  },
+  {
+    "id": "P2_ADV_028",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Under which constitutional mechanism can the Supreme Court issue writs for the enforcement of fundamental rights, and how does its jurisdiction compare with High Courts under Article 226?",
+    "te": "ఏ రాజ్యాంగ యంత్రాంగం కింద సుప్రీంకోర్టు ప్రాథమిక హక్కుల అమలు కోసం రిట్లను జారీ చేయగలదు మరియు ఆర్టికల్ 226 కింద హైకోర్టులతో దాని అధికార పరిధి ఎలా పోల్చబడుతుంది?",
+    "opts": [
+      "Supreme Court jurisdiction is exclusive and wider than High Courts.",
+      "Supreme Court jurisdiction is original but not exclusive; High Court writ jurisdiction is wider in scope regarding fundamental rights and other legal rights.",
+      "High Courts can only issue writs within their state territory for statutory rights, unlike the Supreme Court.",
+      "Both Supreme Court and High Courts have identical territorial and subject-matter jurisdiction for writs."
+    ],
+    "ans": 1,
+    "exp": "Article 32 makes the Supreme Court's jurisdiction original for fundamental rights, but not exclusive, as Article 226 gives High Courts writ jurisdiction not only for fundamental rights but also for any other purpose, making it wider in scope."
+  },
+  {
+    "id": "P2_ADV_029",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Which of the following statements regarding a Money Bill in the State Legislature is constitutionally accurate?",
+    "te": "రాష్ట్ర శాసనసభలో మనీ బిల్లుకు సంబంధించి క్రింది ప్రకటనలలో ఏది రాజ్యాంగపరంగా కచ్చితమైనది?",
+    "opts": [
+      "A Money Bill can be introduced in either House of the State Legislature if the state has a bicameral legislature.",
+      "The Governor can return a Money Bill for reconsideration by the State Legislature.",
+      "The Legislative Council must return the Money Bill within 14 days with or without recommendations, and the Assembly may accept or reject all or any of them.",
+      "Prior recommendation of the President is mandatory before introducing a Money Bill in the State Legislature."
+    ],
+    "ans": 2,
+    "exp": "A Money Bill can only be introduced in the Legislative Assembly, not the Council. The Governor cannot return a Money Bill for reconsideration. Prior recommendation of the Governor (not President) is required."
+  },
+  {
+    "id": "P2_ADV_030",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "In the context of the Collegium system for the appointment of judges to the Supreme Court and High Courts, which landmark Supreme Court judgment established the primacy of the Collegium over the Executive?",
+    "te": "సుప్రీంకోర్టు మరియు హైకోర్టుల న్యాయమూర్తుల నియామకం కోసం కొలీజియం వ్యవస్థ సందర్భంలో, కార్యనిర్వాహక వర్కంపై కొలీజియం ప్రాధాన్యతను ఏ మైలురాయి సుప్రీంకోర్టు తీర్పు స్థాపించింది?",
+    "opts": [
+      "First Judges Case (1981)",
+      "Second Judges Case (1993)",
+      "Kesavananda Bharati Case (1973)",
+      "Minerva Mills Case (1980)"
+    ],
+    "ans": 1,
+    "exp": "The Supreme Court Advocates-on-Record Association v. Union of India case (1993), known as the Second Judges Case, ruled that the Chief Justice of India's recommendation must be formed in consultation with two senior-most judges, establishing the Collegium system."
+  },
+  {
+    "id": "P2_ADV_031",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Which of the following Sarkaria Commission recommendations regarding Article 356 were NOT implemented by the Union Government?",
+    "te": "ఆర్టికల్ 356 కి సంబంధించి సర్కారియా కమిషన్ సిఫార్సులలో కేంద్ర ప్రభుత్వం అమలు చేయనిది క్రింది వాటిలో ఏది?",
+    "opts": [
+      "Article 356 should be used very sparingly as a measure of last resort.",
+      "A warning should be issued to the errant State before invoking President's Rule.",
+      "The proclamation imposing President's Rule must be placed before both Houses of Parliament for approval.",
+      "State Legislative Assembly should not be dissolved prior to parliamentary approval of the proclamation."
+    ],
+    "ans": 3,
+    "exp": "Sarkaria Commission recommended that the State Legislative Assembly should not be dissolved until the proclamation is approved by both Houses of Parliament. While options A, B, and C found varying degrees of acceptance, the dissolution practice continued controversially until the Bommai case (1994) mandated it."
+  },
+  {
+    "id": "P2_ADV_032",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Consider the provisions under the 74th Constitutional Amendment Act: 1. Constitution of District Planning Committees (DPCs) 2. Constitution of Metropolitan Planning Committees (MPCs) 3. Mandatory reservation of seats for Backward Classes (BCs) at the discretion of the State Legislature. Which of the above are correct?",
+    "te": "74వ రాజ్యాంగ సవరణ చట్టం ప్రకారం నిబంధనలను పరిశీలించండి: 1. జిల్లా ప్రణాళికా కమిటీల (DPCలు) ఏర్పాటు 2. మహానగర ప్రణాళికా కమిటీల (MPCలు) ఏర్పాటు 3. రాష్ట్ర శాసనసభ అభీష్టానుసారం వెనుకబడిన తరగతులకు (BCలు) సీట్ల రిజర్వేషన్. పై వాటిలో సరైనవి ఏవి?",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 3,
+    "exp": "All three statements are correct under Article 243ZD (DPC), Article 243ZE (MPC), and Article 243T (where reservations for BCs are left to the discretion of the state legislature, unlike SCs/STs which are mandatory based on population)."
+  },
+  {
+    "id": "P2_ADV_033",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "In the context of statutory bodies in India, which of the following statements regarding the National Human Rights Commission (NHRC) is correct?",
+    "te": "భారతదేశంలోని చట్టబద్ధమైన సంస్థల సందర్భంలో, జాతీయ మానవ హక్కుల కమిషన్ (NHRC) కి సంబంధించి క్రింది స్టేట్‌మెంట్‌లలో ఏది సరైనది?",
+    "opts": [
+      "It is a constitutional body established under Article 350A.",
+      "The Chairperson and members are appointed by the President on the recommendation of a six-member committee headed by the Prime Minister.",
+      "The NHRC has the power to penalize the violators of human rights.",
+      "The Chairperson must compulsorily be a serving judge of the Supreme Court of India."
+    ],
+    "ans": 1,
+    "exp": "NHRC is a statutory body established under the Protection of Human Rights Act, 1993. It is headed by a committee consisting of PM, Speaker of Lok Sabha, Deputy Chairman of Rajya Sabha, Leaders of Opposition in both Houses, and Union Home Minister. It only has recommendatory powers, cannot penalize, and the Chairperson must be a retired (not serving) Chief Justice or judge of the Supreme Court."
+  },
+  {
+    "id": "P2_ADV_034",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Which of the following constitutional provisions exemplifies the asymmetric federal feature within the Indian Union?",
+    "te": "భారతీయ యూనియన్‌లోని అసమాన ఫెడరల్ లక్షణాన్ని క్రింది రాజ్యాంగ నిబంధనలలో ఏది ఉదాహరిస్తుంది?",
+    "opts": [
+      "Article 263 (Inter-State Council)",
+      "Article 371-D (Special provisions with respect to the State of Andhra Pradesh and Telangana)",
+      "Article 280 (Finance Commission)",
+      "Article 356 (President's Rule)"
+    ],
+    "ans": 1,
+    "exp": "Articles 371 through 371-J contain special provisions for various states, reflecting asymmetric federalism. Article 371-D specifically relates to special provisions for Andhra Pradesh and Telangana regarding public employment and education."
+  },
+  {
+    "id": "P2_ADV_035",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "With reference to the 73rd Constitutional Amendment Act, match the following mandatory provisions with their corresponding Articles: A. Gram Sabha - 1. Article 243-B B. Constitution of Panchayats - 2. Article 243-A C. Reservation of seats - 3. Article 243-C D. Composition of Panchayats - 4. Article 243-D",
+    "te": "73వ రాజ్యాంగ సవరణ చట్టం ప్రకారం, కింది విధిగా పాటించాల్సిన నిబంధనలను వాటి సంబంధిత ఆర్టికల్స్‌తో సరిపోల్చండి: A. గ్రామ సభ - 1. ఆర్టికల్ 243-B B. పంచాయతీల ఏర్పాటు - 2. ఆర్టికల్ 243-A C. సీట్ల రిజర్వేషన్ - 3. ఆర్టికల్ 243-C D. పంచాయతీల కూర్పు - 4. ఆర్టికల్ 243-D",
+    "opts": [
+      "A-2, B-1, C-4, D-3",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-3, C-2, D-1"
+    ],
+    "ans": 0,
+    "exp": "Correct matching is: Gram Sabha is under Article 243-A, Constitution of Panchayats at village/intermediate/district levels is under Article 243-B, Composition of Panchayats is under Article 243-C, and Reservation of seats is under Article 243-D."
+  },
+  {
+    "id": "P2_ADV_036",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Which sociologist propounded the concept of 'Dominant Caste' and in which regional context was it primarily studied?",
+    "te": "'ప్రభావిత కులం' (Dominant Caste) భావనను ప్రతిపాదించిన సమాజ శాస్త్రవేత్త ఎవరు మరియు ఇది ప్రాథమికంగా ఏ ప్రాంతీయ సందర్భంలో అధ్యయనం చేయబడింది?",
+    "opts": [
+      "G.S. Ghurye, Western India",
+      "M.N. Srinivas, Rampura village in Karnataka",
+      "Andre Beteille, Sripuram in Tamil Nadu",
+      "D.N. Majumdar, Almora in Uttar Pradesh"
+    ],
+    "ans": 1,
+    "exp": "M.N. Srinivas introduced the concept of 'Dominant Caste' based on his ethnographic study of the Rampura village in Karnataka, emphasizing criteria like land ownership, numerical strength, and political power."
+  },
+  {
+    "id": "P2_ADV_037",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "In the context of kinship and marriage in India, what does the term 'Hypergamy' (Anuloma) signify?",
+    "te": "భారతదేశంలో బంధుత్వం మరియు వివాహ సందర్భంలో, 'అనులోమ వివాహం' (Hypergamy) అనగా ఏమిటి?",
+    "opts": [
+      "Marriage between a man of a higher varna/caste and a woman of a lower varna/caste",
+      "Marriage between a woman of a higher varna/caste and a man of a lower varna/caste",
+      "Marriage strictly within the same gotra and sub-caste",
+      "Marriage prohibited within the kinship network"
+    ],
+    "ans": 0,
+    "exp": "Hypergamy or Anuloma refers to a form of marriage where a man from a higher social status, caste, or varna marries a woman from a lower social status, caste, or varna."
+  },
+  {
+    "id": "P2_ADV_038",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Elwin-Ghurye debate on Indian tribes primarily centered around which of the following perspectives?",
+    "te": "భారతీయ గిరిజనులపై ఎల్విన్-ఘుర్యే వివాదం ప్రధానంగా క్రింది ఏ దృక్పథాల చుట్టూ కేంద్రీకృతమై ఉంది?",
+    "opts": [
+      "Taxation policies vs Land reforms for tribal belts",
+      "Isolation/National Park approach vs Assimilation/Hinduization approach",
+      "Christian missionary activities vs Islamic proselytization in tribal areas",
+      "Matriarchal family structures vs Patriarchal dominance in tribal societies"
+    ],
+    "ans": 1,
+    "exp": "Verrier Elwin advocated for a policy of minimal interference (isolation/national park approach) to protect tribal culture, whereas G.S. Ghurye advocated for assimilation and integration of tribes into the Hindu mainstream."
+  },
+  {
+    "id": "P2_ADV_039",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Louis Dumont's structuralist analysis of the Indian caste system in his book 'Homo Hierarchicus' is primarily based on which foundational opposition?",
+    "te": "'హోమో హైరార్కికస్' పుస్తకంలో లూయిస్ డిమాంట్ చేసిన భారతీయ కుల వ్యవస్థ యొక్క నిర్మాణ విశ్లేషణ ప్రాథమికంగా ఏ వ్యతిరేకతపై ఆధారపడి ఉంటుంది?",
+    "opts": [
+      "Rich vs Poor",
+      "Purity vs Pollution",
+      "Urban vs Rural",
+      "Brahmin vs Dalit"
+    ],
+    "ans": 1,
+    "exp": "Louis Dumont argued that the caste system is fundamentally based on the religious ideology of 'purity and pollution', which determines hierarchy and social interactions."
+  },
+  {
+    "id": "P2_ADV_040",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Which of the following best describes the structural shift in the traditional Indian Joint Family system due to modernization and urbanization, as noted by sociologists?",
+    "te": "సామాజిక శాస్త్రవేత్తలు పేర్కొన్నట్లుగా, ఆధునీకీకరణ మరియు పట్టణీకరణ కారణంగా సాంప్రదాయ భారతీయ ఉమ్మడి కుటుంబ వ్యవస్థలో వచ్చిన నిర్మాణపరమైన మార్పును క్రింది వాటిలో ఏది ఉత్తమంగా వివరిస్తుంది?",
+    "opts": [
+      "Complete extinction of family bonds",
+      "Shift from joint residential family to functional or modified nuclear family structures with strong kinship networks",
+      "Immediate transition to Western-style isolated individualism without any family obligations",
+      "Strict enforcement of patriarchal authority across urban sectors"
+    ],
+    "ans": 1,
+    "exp": "Sociological studies indicate that while physical co-residence (traditional joint family) has decreased due to migration and urbanization, functional ties, mutual aid, and emotional integration persist, often described as the 'modified nuclear family' or 'network of jointness'."
+  },
+  {
+    "id": "P2_ADV_041",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "Which sociological perspective best explains 'Casteism' not merely as a system of stratification, but as a dynamic political resource mobilized for resource distribution in contemporary democratic India?",
+    "te": "సmకాలin ప్రజాస్వామ్య భారతదేశంలో వనరుల పంపిణీ కోసం కులతత్వాన్ని కేవలం ఒక స్థరీకరణ వ్యవస్థగా కాకుండా, చైతన్యవంతమైన రాజకీయ వనరుగా ఏ సామాజిక శాస్త్ర దృక్పథం అత్య ఉత్తమంగా వివరిస్తుంది?",
+    "opts": [
+      "Functionalist perspective focusing on social integration",
+      "Subaltern and Political Economy perspective focusing on power and identity mobilization",
+      "Positivist perspective emphasizing strict ritual purity and pollution",
+      "Evolutionary unilinear perspective of social change"
+    ],
+    "ans": 1,
+    "exp": "The Subaltern and Political Economy perspective views caste not just as a traditional ritual hierarchy, but as an instrument of political mobilization and resource allocation in competitive electoral democracies."
+  },
+  {
+    "id": "P2_ADV_042",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "In the context of Communalism in India, Bipan Chandra identifies three distinct stages. Which of the following correctly sequences these stages from genesis to manifestation?",
+    "te": "భారతదేశంలో మతతత్త్వానికి సంబంధించి, బిపిన్ చంద్ర మూడు వేర్వేరు దశలను గుర్తించారు. క్రింది వాటిలో ఏది ఈ దశలను ఆవిర్భావం నుండి వ్యక్తీకరణ వరకు సరిగ్గా క్రమపరుస్తుంది?",
+    "opts": [
+      "Communal Violence -> Nationalist Communalism -> Liberal Communalism",
+      "First Stage (Liberal Communalism) -> Second Stage (Fascist/Extremist Communalism) -> Third Stage (Communal Violence)",
+      "Mass Communalism -> Elite Communalism -> Institutional Communalism",
+      "Economic Communalism -> Cultural Communalism -> Political Communalism"
+    ],
+    "ans": 1,
+    "exp": "Bipan Chandra classifies communalism into three stages: Liberal Communalism (belief that people of same religion have same secular interests), Extremist Communalism (militant strand based on active hostility), and Communal Violence (outbreak of riots)."
+  },
+  {
+    "id": "P2_ADV_043",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "Analyze the structural linkage between Regionalism and Sub-regional aspirations in India. Which constitutional amendment and corresponding schedule/articles are primarily invoked to address internal regional imbalances through decentralized autonomy?",
+    "te": "భారతదేశంలో ప్రాంతీయవాదం మరియు ఉప-ప్రాంతీయ ఆకాంక్షల మధ్య నిర్మాణ సంబంధాన్ని విశ్లేషించండి. వికేంద్రీకృత స్వయంప్రతిపత్తి ద్వారా అంతర్గత ప్రాంతీయ అసమతుల్యతలను పరిష్కరించడానికి ప్రధానంగా ఏ రాజ్యాంగ సవరణ మరియు సంబంధిత షెడ్యూల్/ఆర్టికల్స్ ఆవశ్యకం?",
+    "opts": [
+      "38th and 39th Constitutional Amendments under Article 356",
+      "73rd and 74th Constitutional Amendments empowering local governance, alongside Article 371 provisions",
+      "42nd Constitutional Amendment incorporating Fundamental Duties",
+      "91st Constitutional Amendment restricting cabinet sizes"
+    ],
+    "ans": 1,
+    "exp": "Articles under 371 (A-J) and the 73rd/74th Amendments provide special regional safeguards and decentralized governance structures to mitigate sub-regional grievances and imbalances."
+  },
+  {
+    "id": "P2_ADV_044",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "The Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) is often termed an international bill of rights for women. Under which Indian legislative framework was the Supreme Court's 'Vishakha Guidelines' systematically codified into statutory law?",
+    "te": "మహిళలపై అన్ని రకాల వివక్షతలను రూపుమాపే కన్వెన్షన్ (CEDAW) మహిళల హక్కుల అంతర్జాతీయ బిల్లు అని పిలువబడుతుంది. సుప్రీంకోర్టు యొక్క 'విశాఖ మార్గదర్శకాలను' ఏ భారతీయ శాసనసభ చట్టపరమైన చట్టంగా క్రోడీకరించింది?",
+    "opts": [
+      "The Protection of Women from Domestic Violence Act, 2005",
+      "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+      "The Immoral Traffic (Prevention) Act, 1956",
+      "The Criminal Law (Amendment) Act, 2013"
+    ],
+    "ans": 1,
+    "exp": "The Vishakha Guidelines laid down by the SC in 1997 were codified into statutory law through The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013."
+  },
+  {
+    "id": "P2_ADV_045",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "How does the Child Labour (Prohibition and Regulation) Amendment Act, 2016 intersect with the Right to Education (RTE) Act, 2009 in terms of critique by child rights activists regarding 'family enterprises'?",
+    "te": "'కుటుంబ సంస్థల' విషయమై బాలల హక్కుల కార్యకర్తల విమర్శల ప్రకారం, బాల కార్మికుల (నిషేధ మరియు క్రమబద్ధీకరణ) సవరణ చట్టం, 2016 ఉచిత మరియు నిర్బంధ విద్య హక్కు (RTE) చట్టం, 2009 తో ఏ విధంగా విభేదిస్తుంది?",
+    "opts": [
+      "It completely bans child labour in all forms, aligning with RTE without exceptions.",
+      "The exception allowing children to help in 'family enterprises' after school hours is critiqued for blurring work-study lines and perpetuating educational deprivation.",
+      "It raises the minimum age of employment to 18 for all sectors unconditionally.",
+      "It transfers the jurisdiction of child labour monitoring entirely to international bodies."
+    ],
+    "ans": 1,
+    "exp": "The 2016 amendment permitted children to help in family enterprises, which activists argue creates loopholes, exploits children under the guise of family labor, and hinders their attendance and performance under the RTE Act."
+  },
+  {
+    "id": "P2_ADV_046",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the 'Jal-Jangal-Zamin' slogan during the Telangana Armed Struggle: 1. It encapsulated the core demands of the tribal uprisings led by figures like Komaram Bheem. 2. It was exclusively adopted from the Santhal rebellion of Bengal. Which of the statements given above is/are correct?",
+    "te": "తెలంగాణ సాయుధ పోరాటంలో 'జల్-జంగల్-జమీన్' నినాదానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. ఇది కొమరం భీమ్ వంటి నాయకుల ఆధ్వర్యంలో జరిగిన గిరిజన తిరుగుబాట్ల ప్రధాన డిమాండ్లను ప్రతిబింబించింది. 2. ఇది పూర్తిగా బెంగాల్ యొక్క సంతాల్ తిరుగుబాటు నుండి గ్రహించబడింది. పై ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 0,
+    "exp": "The slogan 'Jal-Jangal-Zamin' (Water, Forest, Land) was central to the Adivasi revolts in Hyderabad state, notably championed by Komaram Bheem against the Nizam's forest laws and exploitation. Statement 2 is incorrect as it was rooted organically in the local conditions of the Adilabad forests."
+  },
+  {
+    "id": "P2_ADV_047",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Match the following Backward Class/Social reform associations with their founders/leaders in the context of early 20th-century movements in Hyderabad State: a. Adi-Hindu Social Service League - b. Bhagya Reddy Varma, c. Praja Mandal - d. Swami Ramanand Tirtha. Which among the following represents the correct alignment?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో 20వ శతాబ్దపు ప్రారంభ ఉద్యమాల సందర్భంలో క్రింది వెనుకబడిన తరగతుల/సాంఘిక సంస్కరణ సంఘాలను వాటి స్థాపకులు/నాయకులతో జతపరచండి: a. ఆది-హిందూ సోషల్ సర్వీస్ లీగ్ - b. భాగ్య రెడ్డి వర్మ, c. ప్రజామండల్ - d. స్వామి రామానంద తీర్థ. క్రింది వాటిలో సరైన అమరికను గుర్తించండి.",
+    "opts": [
+      "a and c are correctly matched / a మరియు c సరిగ్గా జతపరచబడ్డాయి",
+      "Only a is correctly matched / a మాత్రమే సరిగ్గా జతపరచబడింది",
+      "None of the above / పైవేవీ కావు",
+      "All are correctly matched / అన్నీ సరిగ్గా జతపరచబడ్డాయి"
+    ],
+    "ans": 0,
+    "exp": "Bhagya Reddy Varma founded the Adi-Hindu Social Service League to uplift the depressed classes and assert their distinct non-Aryan indigenous identity. Swami Ramanand Tirtha was a prominent leader associated with the Hyderabad State Congress and Praja Mandal movements."
+  },
+  {
+    "id": "P2_ADV_048",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "In the context of the Dalit movement in India, which organization was established by B.R. Ambedkar in 1924 aimed at the upliftment of the depressed classes, education promotion, and securing civic rights?",
+    "te": "భారతదేశంలో దళిత ఉద్యమ సందర్భంలో, అణగారిన వర్గాల అభ్యున్నతి, విద్యను ప్రోత్సహించడం మరియు పౌర హక్కులను పొందడం లక్ష్యంగా బి.ఆర్. అంబేద్కర్ 1924 లో ఏ సంస్థను స్థాపించారు?",
+    "opts": [
+      "Bahishkrit Hitakarini Sabha / బహిష్కృత హితకారిణి సభ",
+      "Samata Sainik Dal / సమతా సైనిక్ దళ్",
+      "Scheduled Castes Federation / షెడ్యూల్డ్ క్యాస్ట్స్ ఫెడరేషన్",
+      "Independent Labour Party / ఇండిపెండెంట్ లేబర్ పార్టీ"
+    ],
+    "ans": 0,
+    "exp": "Bahishkrit Hitakarini Sabha was founded by Dr. B.R. Ambedkar in July 1924 in Bombay to spread education and improve the socio-economic status of the depressed classes."
+  },
+  {
+    "id": "P2_ADV_049",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Which of the following women's organizations played a pioneering role in fighting against the patriarchal structures and the Nizam's autocratic rule, actively participating in the Telangana Armed Struggle?",
+    "te": "తెలంగాణ సాయుధ పోరాగంలో క్రిుయశీలకంగా పాల్గొంటూ, పితృస్వామ్య వ్యవస్థలకు మరియు నిజాం నిరంకుశ పాలనకు వ్యతిరేకంగా పోరాడటంలో క్రింది మహిళా సంఘాలలో ఏది అగ్రగామి పాత్ర పోషించింది?",
+    "opts": [
+      "Mahila Sangham / మహిళా సంఘం",
+      "All India Women's Conference / ఆల్ ఇండియా విమెన్స్ కాన్ఫరెన్స్",
+      "Women's India Association / విమెన్స్ ఇండియా అసోసియేషన్",
+      "National Council of Women in India / నేషనల్ కౌన్సిల్ ఆఫ్ విమెన్ ఇన్ ఇండియా"
+    ],
+    "ans": 0,
+    "exp": "Mahila Sanghams were organized by the Communist Party of India (CPI) and the Andhra Mahasabha during the Telangana Armed Struggle to mobilize women against feudal landlords (Deshmukhs) and the Nizam's Razakars."
+  },
+  {
+    "id": "P2_ADV_050",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Consider the following environmental movements in India: 1. Silent Valley Movement, 2. Chipko Movement, 3. Appiko Movement. What is the correct chronological order of their inception?",
+    "te": "భారతదేశంలోని క్రింది పర్యావరణ ఉద్యమాలను పరిశీలించండి: 1. సైలెంట్ వ్యాలీ ఉద్యమం, 2. చిప్కో ఉద్యమం, 3. అప్పికో ఉద్యమం. వాటి ప్రారంభానికి సంబంధించిన సరైన కాలక్రమం ఏది?",
+    "opts": [
+      "2, 1, 3 / 2, 1, 3",
+      "1, 2, 3 / 1, 2, 3",
+      "2, 3, 1 / 2, 3, 1",
+      "3, 2, 1 / 3, 2, 1"
+    ],
+    "ans": 0,
+    "exp": "The Chipko Movement began in 1973 in Uttarakhand. The Silent Valley Movement started around 1973-1978 in Kerala to protect tropical evergreen forests. The Appiko Movement was launched in 1983 in Karnataka as a southern offshoot of the Chipko movement. Thus, the correct chronological order of major mobilization/launch is Chipko (1973), Silent Valley (1973/78), Appiko (1983)."
+  },
+  {
+    "id": "P2_ADV_051",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the social and economic life during the Later Vedic period: 1. The Varna system became firmly established by birth rather than occupation. 2. Iron (Krishna Ayas) was extensively used, shifting the economy from pastoralism to agriculture. 3. Women were allowed to participate in the Vidatha and Upanayana ceremonies. Which of the statements given above are correct?",
+    "te": "మరుసటి వేద కాలం నాటి సామాజిక మరియు ఆర్థిక జీవితానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. వృత్తి కంటే పుట్టిన ఆధారంగా వర్ణ వ్యవస్థ గట్టిగా స్థిరపడింది. 2. ఇనుము (కృష్ణ అయస్) విస్తృతంగా ఉపయోగించబడింది, ఇది పశుపోషణ నుండి వ్యవసాయానికి ఆర్థిక వ్యవస్థను మార్చింది. 3. మహిళలకు విధత మరియు ఉపనయన వేడుకలలో పాల్గొనే అవకాశం ఉండేది. పైన ఇవ్వబడిన ప్రకటనలలో ఏవి సరైనవి?",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 0,
+    "exp": "In the Later Vedic period, the Varna system hardened into birth-based strata. Iron (Krishna Ayas) was widely used for agriculture. However, the status of women declined drastically during this period, and they were denied participation in political assemblies like Vidatha and Upanayana sanskara."
+  },
+  {
+    "id": "P2_ADV_052",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Which of the following Mauryan officials were primarily responsible for the maintenance of municipal administration in Pataliputra, as detailed by Megasthenes in his account 'Indica'?",
+    "te": "మెగస్తనీస్ తన 'ఇండికా' గ్రంథంలో వివరించినట్లుగా, పాటలీపుత్రంలో మున్సిపల్ పరిపాలనను నిర్వహించడానికి క్రింది మౌర్య అధికారులలో ఎవరు ప్రధానంగా బాధ్యులు?",
+    "opts": [
+      "Pradeshtikas and Yuktas",
+      "Nagarakas and Samahartas",
+      "Boards of thirty members divided into six committees of five",
+      "Rajukas and Sthanikas"
+    ],
+    "ans": 2,
+    "exp": "According to Megasthenes, the municipal administration of Pataliputra was carried out by a city council of 30 members, which was subdivided into 6 committees of 5 members each, looking after industries, foreigners, registration of births/deaths, trade, manufacturing, and tax collection."
+  },
+  {
+    "id": "P2_ADV_053",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Match the socio-religious reform concepts of the Bhakti and Sufi movements with their primary proponents: A. Silsila of Suhrawardi - 1. Khwaja Moinuddin Chishti B. Vishishtadvaita - 2. Ramanuja C. Shudadvaita - 3. Vallabhacharya D. Silsila of Chishti - 4. Baha-ud-din Zakariya Choose the correct code:",
+    "te": "భక్తి మరియు సూఫీ ఉద్యమాల సామాజిక-మతపరమైన సంస్కరణ భావాలను వాటి ప్రధాన ప్రతిపాదకులతో సరిపోల్చండి: A. సుహ్రావర్ది సిల్సిలా - 1. ఖ్వాజా మొయినుద్దీన్ చిష్టి B. విశిష్టాద్వైతం - 2. రామానుజుడు C. శుద్ధాద్వైతం - 3. వల్లభాచార్య D. చిష్టి సిల్సిలా - 4. బహా-ఉద్-దిన్ జకరియా సరైన కోడ్‌ను ఎంచుకోండి:",
+    "opts": [
+      "A-4, B-2, C-3, D-1",
+      "A-1, B-3, C-2, D-4",
+      "A-4, B-3, C-2, D-1",
+      "A-2, B-4, C-1, D-3"
+    ],
+    "ans": 0,
+    "exp": "Suhrawardi Silsila was established in India by Baha-ud-din Zakariya, Chishti Silsila by Khwaja Moinuddin Chishti, Vishishtadvaita was propounded by Ramanuja, and Shudadvaita by Vallabhacharya."
+  },
+  {
+    "id": "P2_ADV_054",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "During the Gupta period, the land revenue system saw specific terminology for different types of lands. What does the term 'Aprahata' signify in contemporary epigraphical records?",
+    "te": "గుప్తుల కాలంలో భూమి శిస్తు వ్యవస్థలో వివిధ రకాల భూముల కోసం నిర్దిష్ట పరిభాష ఉండేది. సమకాలీన శాసన రికార్డులలో 'అప్రహత' అనే పదం దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Cultivated land fit for revenue",
+      "Uncultivated forest/wasteland",
+      "Land gifted to Brahmanas",
+      "Waterlogged marshy land"
+    ],
+    "ans": 1,
+    "exp": "In Gupta inscriptions, various land classifications are found: Kshetra (cultivated land), Aprahata (uncultivated/forest land), Vastusta (habitable land), Kshila (wasteland), and Aprahata specifically denotes uncultivated virgin or forest land."
+  },
+  {
+    "id": "P2_ADV_055",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of India: Indus Valley, Vedic, Maurya, Gupta, Bhakti & Sufi Movements",
+    "difficulty": "Advanced",
+    "en": "Which of the following structural and socio-religious features were characteristic of the mature Harappan (Indus Valley) Civilization? 1. Absence of large monumental structures like temples or palaces. 2. A matriarchal societal structure evidenced by the abundance of terracotta female figurines. 3. Use of standardized burnt bricks with a strict 1:2:4 ratio. Select the correct options:",
+    "te": "పరిపక్వ హరప్పా (సింధు లోయ) నాగరికత యొక్క నిర్మాణాత్మక మరియు సామాజిక-మతపరమైన లక్షణాలలో క్రిందివి ఏవి? 1. దేవాలయాలు లేదా రాజప్రసాదాల వంటి పెద్ద స్మారక కట్టడాలు లేకపోవడం. 2. టెర్రకోట మహిళా బొమ్మల సమృద్ధి ద్వారా నిరూపించబడిన మాతృస్వామ్య సామాజిక నిర్మాణం. 3. కఠినమైన 1:2:4 నిష్పత్తితో ప్రామాణీకరించిన కాల్చిన ఇటుకల ఉపయోగం. సరైన ఎంపికలను ఎంచుకోండి:",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 2,
+    "exp": "Harappan civilization lacked monumental temples or palaces (unlike Mesopotamia/Egypt). Bricks were standardized with a ratio of length to breadth to thickness typically being 4:2:1. While female figurines are abundant, defining society strictly as 'matriarchal' is speculative and debated by historians, though it hints at high status for mother goddesses."
+  },
+  {
+    "id": "P2_ADV_056",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Which of the following Governor-Generals introduced the 'Sunset Law' and what was its primary implication for the Zamindars?",
+    "te": "కింది గవర్నర్-జనరల్స్‌లో ఎవరు 'సన్‌సెట్ లా' (సూర్యాస్తమయ చట్టం)ను ప్రవేశపెట్టారు మరియు జమీందార్లకు దీని ప్రధాన చిక్కు ఏమిటి?",
+    "opts": [
+      "Lord Wellesley; Immediate confiscation of estate if subsidiary alliance payments defaulted",
+      "Lord Cornwallis; Fixed revenue had to be paid by sunset of a specified date or the estate was auctioned",
+      "Lord Dalhousie; Annexation of state if 'lapse' occurred before sunset",
+      "Lord William Bentinck; Abolition of zamindari rights by sunset of the fiscal year"
+    ],
+    "ans": 1,
+    "exp": "Lord Cornwallis introduced the Sunset Law under the Permanent Settlement (1793), requiring zamindars to pay revenue by a specific date's sunset, failing which their estates were auctioned."
+  },
+  {
+    "id": "P2_ADV_057",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Analyze the role of the 'Awadh Oudh' annexation (1856) in fueling the 1857 Revolt. Which specific socio-economic factor amplified the grievance of the sepoys?",
+    "te": "1857 తిరుగుబాటును రేకెత్తించడంలో 'అవధ్' ఆక్రమణ (1856) పాత్రను విశ్లేషించండి. సైనికుల అసంతృప్తిని ఏ నిర్దిష్ట సామాజిక-ఆర్థిక అంశం పెంచింది?",
+    "opts": [
+      "Immediate conversion of all Awadh sepoys to Christianity",
+      "Loss of the 'ursery of the Bengal Army' status and introduction of heavy land revenue on their families",
+      "Total ban on sepoys visiting their families in Awadh",
+      "Replacement of all Awadh sepoys with British troops"
+    ],
+    "ans": 1,
+    "exp": "Awadh was the primary nursery of the Bengal Army. Its annexation alienated the sepoys because their families back home faced high taxation and land dispossession under British rule."
+  },
+  {
+    "id": "P2_ADV_058",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "During the Indian National Movement, the 'Home Rule Movement' led by Annie Besant and Tilak differed in which strategic aspect?",
+    "te": "జాతీయ ఉద్యమ కాలంలో, అన్నీ బెసెంట్ మరియు తిలక్ ల నేతృత్వంలోని 'హోమ్ రూల్ ఉద్యమం' ఏ వ్యూహాత్మక అంశంలో భిన్నంగా ఉంది?",
+    "opts": [
+      "Tilak's league demanded complete independence, while Besant's demanded dominion status",
+      "Tilak's sphere of influence covered Maharashtra, Karnataka, Berar, and Central Provinces, while Besant's covered the rest of India including Madras",
+      "Besant rejected cooperation with the Indian National Congress, whereas Tilak worked exclusively through it",
+      "Tilak advocated for violent overthrow, whereas Besant strictly used constitutional methods"
+    ],
+    "ans": 1,
+    "exp": "Tilak's Home Rule League operated in Maharashtra, Karnataka, Berar, and the Central Provinces, while Annie Besant's league operated in the rest of India, including Madras."
+  },
+  {
+    "id": "P2_ADV_059",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "Match the following peasant/tribal uprisings with their primary leadership and core objective:\n1. Moplah Rebellion - 1921 - Khilafat and agrarian grievances\n2. Ramosi Uprising - 1879 - Vasudev Balwant Pharke against famine and British rule\n3. Pagal Panthi Movement - 1825 - Karam Shah against arbitrary rent extraction by zamindars",
+    "te": "కింది రైతు/గిరిజన తిరుగుబాటులను వాటి ప్రాథమిక నాయకత్వం మరియు ముఖ్య ఉద్దేశ్యంతో జతపరచండి:\n1. మోప్లా తిరుగుబాటు - 1921 - ఖిలాఫత్ మరియు వ్యవసాయ సమస్యలు\n2. రామోసి తిరుగుబాటు - 1879 - కరవు మరియు బ్రిటిష్ పాలనకు వ్యతిరేకంగా వాసుదేవ బలవంత ఫడ్కే\n3. పాగల్ పంథీ ఉద్యమం - 1825 - జమీందార్ల అడ్డగోలు కౌలు వసూళ్లకు వ్యతిరేకంగా కరం షా",
+    "opts": [
+      "Only 1 and 2 are correctly matched",
+      "Only 2 and 3 are correctly matched",
+      "Only 1 and 3 are correctly matched",
+      "All 1, 2, and 3 are correctly matched"
+    ],
+    "ans": 3,
+    "exp": "All three peasant and tribal movements are accurately paired with their historical timeline, key leaders, and primary socio-economic/political objectives."
+  },
+  {
+    "id": "P2_ADV_060",
+    "paper": "Paper-II",
+    "topic": "Advent of Europeans, British Rule, 1857 Revolt and Indian National Movement",
+    "difficulty": "Advanced",
+    "en": "The 'Drain of Wealth' theory propounded by Dadabhai Naoroji identified specific components of economic drain. Which of the following was NOT a direct component of this drain?",
+    "te": "దాదాభాయ్ నౌరోజీ ప్రతిపాదించిన 'సంపద తరలింపు' (Drain of Wealth) సిద్ధాంతం ఆర్థిక తరలింపు యొక్క నిర్దిష్ట భాగాలను గుర్తించింది. కింది వాటిలో ఏది ఈ తరలింపు యొక్క ప్రత్యక్ష భాగం కాదు?",
+    "opts": [
+      "Home charges remitted to Britain",
+      "Profits earned by British private foreign capital invested in India",
+      "Interest on public debt raised in India for railway construction guaranteed by the government",
+      "Foreign direct investment that directly generated employment and modern infrastructure assets retained within India"
+    ],
+    "ans": 3,
+    "exp": "While the first three constituted unrequited economic transfers (drain), foreign investments and their profits formed part of capital flows, but Naoroji specifically targeted home charges, pensions, and military expenditures as the core drain."
+  },
+  {
+    "id": "P2_ADV_061",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "During the Satavahana period, which administrative division was placed under the charge of a 'Gaulmika', and what was his primary role?",
+    "te": "శাতవాహనుల కాలంలో 'గౌల్మికుడు' యొక్క ఛార్జ్ కింద ఉంచబడిన పరిపాలనా విభాగం ఏది మరియు అతని ప్రాథమిక పాత్ర ఏమిటి?",
+    "opts": [
+      "Head of a district (Ahara) responsible for revenue collection",
+      "Military officer in charge of a military regiment (Gulma) often deployed in rural areas",
+      "Chief judicial officer of the capital city",
+      "Maritime trade supervisor at ports"
+    ],
+    "ans": 1,
+    "exp": "A Gaulmika in the Satavahana administration was the head of a military regiment (Gulma), usually consisting of 9 chariots, 9 elephants, 27 horses, and 45 foot soldiers, often functioning as a rural administrator with military powers."
+  },
+  {
+    "id": "P2_ADV_062",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "Which Ikshvaku queen is prominently associated with the construction of the Mahachaitya at Nagarjunakonda and extensive patronage of various Buddhist sects (Aparaseliya and Bahusrutiya)?",
+    "te": "నాగార్జునకొండ వద్ద మహాచైత్య నిర్మాణం మరియు వివిధ బౌద్ధ శాఖల (అపరసైలియ మరియు బహుశ్రుతీయ) విస్తృత పోషణతో ఏ ఇక్ష్వాకు రాణి ప్రముఖంగా ముడిపడి ఉన్నారు?",
+    "opts": [
+      "Queen Chantisri",
+      "Queen Vammadevi",
+      "Queen Bodhisiri",
+      "Queen Rudramadevi"
+    ],
+    "ans": 0,
+    "exp": "Mahadevi Chantisri, sister of Vashishtiputra Chantamula, is recorded in the Nagarjunakonda inscriptions as the chief patron who funded the construction of the Mahachaitya and multiple viharas for different Buddhist sects."
+  },
+  {
+    "id": "P2_ADV_063",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "The Vishnukundin king Madhavavarman II is credited with performing numerous Vedic sacrifices. Which inscription provides a comprehensive account of his military conquests, extensive sacrifices, and titles?",
+    "te": "విష్ణుకుండిన రాజు మాధవవర్మ II అనేక వేదిక యాగాలను నిర్వహించినట్లు పేర్కొనబడింది. అతని సైనిక విజయాలు, విస్తృత యాగం మరియు బిరుదుల గురించి సమగ్రమైన వివరణ ఇచ్చే శాసనం ఏది?",
+    "opts": [
+      "Ipuru Plates",
+      "Chikkulla Plates",
+      "Tummalagudem Inscription",
+      "Polamuru Inscription"
+    ],
+    "ans": 2,
+    "exp": "The Tummalagudem Inscriptions (First and Second Plates) provide detailed information about Madhavavarman II, his performance of 11 Ashwamedhas, Bahusuvarna, and other sacrifices, and his broad territorial control."
+  },
+  {
+    "id": "P2_ADV_064",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "Under the Kakatiya socio-economic framework, what specific designation was given to the village-level accountants who maintained land records and revenue details?",
+    "te": "కాకతీయ సామాజిక-ఆర్థిక వ్యవస్థలో, భూ రికార్డులు మరియు రెవెన్యూ వివరాలను నిర్వహించే గ్రాస స్థాయి గుమస్తాలకు (అకౌంటెంట్లకు) ఇచ్చిన నిర్దిష్ట హోదా ఏమిటి?",
+    "opts": [
+      "Nayak",
+      "Karanam or Ayagara",
+      "Reddy or Gavunda",
+      "Sthaladhipati"
+    ],
+    "ans": 1,
+    "exp": "Village accountants during the Kakatiya period were known as Karnams, operating within the hereditary Ayagara system to manage local land revenue and administrative records."
+  },
+  {
+    "id": "P2_ADV_065",
+    "paper": "Paper-II",
+    "topic": "Socio-Cultural History of Telangana: Satavahanas, Ikshvakus, Vishnukundins, Kakatiyas, Qutb Shahis, Asaf Jahis",
+    "difficulty": "Advanced",
+    "en": "During the Asaf Jahi period, particularly under Salar Jung I's administrative reforms, what was the primary function of the 'Malguzar' or revenue farmers replaced by direct ryotwari settlement?",
+    "te": "ఆసఫ్ జాహీ కాలంలో, ముఖ్యంగా సాలార్ జంగ్ I పరిపాలనా సంస్కరణల క్రింద, ప్రత్యక్ష రైతువారీ సెటిల్మెంట్ ద్వారా భర్తీ చేయబడిన 'మల్గుజార్' లేదా రెవెన్యూ రైతుల ప్రాథమిక విధి ఏమిటి?",
+    "opts": [
+      "Judicial adjudication of civil disputes",
+      "Collection of land revenue from villages and handing over a fixed sum to the state treasury",
+      "Supervision of police and internal security in urban Kotwalis",
+      "Management of royal karkhanas and mints"
+    ],
+    "ans": 1,
+    "exp": "Malguzars were intermediate revenue farmers who collected land revenue from the peasantry and paid a fixed assessment to the government, a system largely curtailed and reformed under Salar Jung I to protect cultivators from exploitation."
+  },
+  {
+    "id": "P2_ADV_066",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the Rohilla rebellion led by Ramji Gond against the Nizam's rule: 1. It was concentrated in the Adilabad-Nirmal region. 2. Ramji Gond was supported by the Gond and Kolam tribal chieftains. 3. The rebellion was brutally suppressed, resulting in the public hanging of hundreds of rebels at Jodeghat. Which of the statements given above are correct?",
+    "te": "నిజాం పాలనకు వ్యతిరేకంగా రామ్జీ గోండ్ నేతృత్వంలో జరిగిన రోహిల్లా తిరుగుబాటుకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి: 1. ఇది ఆదిలాబాద్-నిర్మల్ ప్రాంతంలో కేంద్రీకృతమై ఉంది. 2. రామ్జీ గోండ్ కు గోండు మరియు కోలం గిరిజన నాయకుల మద్దతు లభించింది. 3. ఈ తిరుగుబాటును క్రూరంగా అణచివేశారు, దీని ఫలితంగా జోడేఘాట్ వద్ద వందలాది మంది తిరుగుబాటుదారులను బహిరంగంగా ఉరితీశారు. పైన ఇచ్చిన ప్రకటనలలో ఏది సరైనది?",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 3,
+    "exp": "All statements are correct regarding the historical context of Ramji Gond's uprising and the brutal suppression by the Nizam's forces and British allies in Nirmal."
+  },
+  {
+    "id": "P2_ADV_067",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "In the context of Komaram Bheem's movement, what does the slogan 'Jal, Jangal, Zamin' signify and which specific administrative Act/Regulations of the Nizam were primarily protested against by the Gonds?",
+    "te": "కొమరం భీమ్ ఉద్యమ సందర్భంలో, 'జల్, జంగల్, జమీన్' నినాదం దేనిని సూచిస్తుంది మరియు గోండులు ప్రధానంగా నిజాం యొక్క ఏ నిర్దిష్ట పరిపాలనా చట్టాలు/నిబంధనలను నిరసించారు?",
+    "opts": [
+      "Demand for separate Gond state; Forest Act of 1927",
+      "Rights over water, forest, and land; Forest Regulations restricting podu cultivation and forest access",
+      "Abolition of Jagirdari system; Land Alienation Act of 1910",
+      "Right to education and employment; Excise Act on toddy tapping"
+    ],
+    "ans": 1,
+    "exp": "Jal, Jangal, Zamin signifies indigenous rights over water, forests, and land. Komaram Bheem fought against oppressive forest regulations that criminalized Podu cultivation and traditional forest access."
+  },
+  {
+    "id": "P2_ADV_068",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "During the Telangana Peasant Armed Struggle (1946-51), which of the following villages/districts was famously declared as the 'liberated zone' where landlords were driven out and 'Gramrajyam' was established first?",
+    "te": "తెలంగాణ సాయుధ రైతాంగ పోరాటం (1946-51) సమయంలో, భూస్వాములు తరుముకొనబడి మొట్టమొదట 'గ్రామరాజ్యం' స్థాపించబడిన 'విముక్తి ప్రాంతం'గా ఏ గ్రామం/జిల్లా ప్రసిద్ధి చెందింది?",
+    "opts": [
+      "Jangaon taluka of Nalgonda district",
+      "Sircilla taluka of Karimnagar district",
+      "Maddirala village of Suryapet",
+      "Khammam district"
+    ],
+    "ans": 0,
+    "exp": "The armed struggle intensely took root in Jangaon taluka of Nalgonda district, spreading to Warangal and Karimnagar, where liberated zones (Gramrajyaalu) were established."
+  },
+  {
+    "id": "P2_ADV_069",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Consider the following events related to the Integration of Hyderabad State: A. Execution of Operation Polo (Police Action), B. Signing of the Standstill Agreement between Hyderabad State and the Indian Dominion, C. Assassination of Shoebullah Khan by Razakars, D. Flight of Qasim Razvi to Pakistan. Arrange the events in chronological order.",
+    "te": "హైదరాబాద్ రాష్ట్ర విలీనానికి సంబంధించిన ఈ క్రింది సంఘటనలను పరిశీలించండి: A. ఆపరేషన్ పోలో (పోలీసు చర్య) అమలు, B. హైదరాబాద్ రాష్ట్రం మరియు భారత డొమినియన్ మధ్య స్టాండ్‌స్టిల్ ఒప్పందంపై సంతకం, C. రజాకార్ల చేతిలో షోయబుల్లా ఖాన్ హత్య, D. కాాసిమ్ రజ్వీ పాకిస్తాన్‌కు పలాయనం. సంఘటనలను కాలక్రమానుసారంగా అమర్చండి.",
+    "opts": [
+      "B, C, A, D",
+      "B, A, C, D",
+      "A, B, C, D",
+      "C, B, A, D"
+    ],
+    "ans": 0,
+    "exp": "Standstill Agreement: Nov 1947; Shoebullah Khan assassination: Aug 1948; Operation Polo: Sept 1948; Qasim Razvi arrested and later exiled to Pakistan."
+  },
+  {
+    "id": "P2_ADV_070",
+    "paper": "Paper-II",
+    "topic": "Telangana Peasant Armed Struggle, Tribal Rebellions (Komaram Bheem, Ramji Gond), Hyderabad Integration",
+    "difficulty": "Advanced",
+    "en": "Which key socio-political factors contributed to the radical shift of the Telangana Armed Struggle from a peasant anti-zamindari movement into an open guerrilla war against the Indian Union forces even after September 1948?",
+    "te": "సెప్టెంబర్ 1948 తర్వాత కూడా తెలంగాణ సాయుధ పోరాటం రైతు వ్యతిరేక జమీందారీ ఉద్యమం నుండి భారత యూనియన్ బలగాలకు వ్యతిరేకంగా సాయుధ గెరిల్లా యుద్ధంగా మారడానికి ఏ కీలక సామాజిక-రాజకీయ కారకాలు దోహదపడ్డాయి?",
+    "opts": [
+      "Immediate withdrawal of the Communist Party by Sardar Vallabhbhai Patel",
+      "The refusal of the Indian military to abolish the Nizam's rule entirely",
+      "The continuation of feudal land relations, brutal reprisals by the Indian military and Razakar remnants, and the CPI's tactical line of 'Hydarabad ki Azadi ke baad bhi jung'",
+      "The demand for a merger with Andhra State immediately"
+    ],
+    "ans": 2,
+    "exp": "The CPI leadership (B.T. Ranadive line) decided to continue the armed struggle ('Boggu Gani Poratam' / continuation of war) because feudal structures were not dismantled immediately and military crackdowns continued against peasants."
+  },
+  {
+    "id": "P2_ADV_071",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the Preamble of the Indian Constitution: 1. The ideals of liberty, equality, and fraternity mentioned in the Preamble are inspired by the Russian Revolution. 2. In the Berubari Union case (1960), the Supreme Court held that the Preamble is an integral part of the Constitution. Which of the statements given above is/are correct?",
+    "te": "भारतीय రాజ్యాంగ పీఠికకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. పీఠికలో పేర్కొన్న స్వేచ్ఛ, సమానత్వం, సౌభ్రాతృత్వ ఆదర్శాలు రష్యన్ విప్లవం నుండి ప్రేరణ పొందాయి. 2. బెరుబారి యూనియన్ కేసులో (1960), పీఠిక రాజ్యాంగంలో అంతర్భాగమని సుప్రీంకోర్టు తీర్పునిచ్చింది. పై ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 இரண்டும்",
+      "Neither 1 nor 2 / 1 లేదా 2 కావు"
+    ],
+    "ans": 3,
+    "exp": "Statement 1 is incorrect because the ideals of liberty, equality, and fraternity are inspired by the French Revolution, not the Russian Revolution (which inspired social, economic, and political justice). Statement 2 is incorrect because in the Berubari Union case (1960), the Supreme Court held that the Preamble is NOT a part of the Constitution. It was only in the Kesavananda Bharati case (1973) that the Court held it is an integral part."
+  },
+  {
+    "id": "P2_ADV_072",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Which of the following Fundamental Rights are available to both Indian citizens and foreigners (except enemy aliens)? 1. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15) 2. Equality of opportunity in matters of public employment (Article 16) 3. Protection of life and personal liberty (Article 21) 4. Protection of language, script and culture of minorities (Article 29) Select the correct answer using the code given below:",
+    "te": "క్రింది ప్రాథమిక హక్కులలో ఏది భారతీయ పౌరులకు మరియు విదేశీయులకు (శత్రు దేశీయులు మినహా) అందుబాటులో ఉంది? 1. మతం, జాతి, కులం, लिंग లేదా పుట్టిన ప్రదేశం ఆధారంగా వివక్షత నిషేధం (అధికరణ 15) 2. ప్రభుత్వ ఉద్యోగ విషయాలలో సమాన అవకాశాలు (అధికరణ 16) 3. ప్రాణం మరియు వ్యక్తిగత స్వేచ్ఛ రక్షణ (అధికరణ 21) 4. మైనారిటీల భాష, లిపి మరియు సంస్కృతి పరిరక్షణ (అధికరణ 29) క్రింది కోడ్ ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "3 only / 3 మాత్రమే",
+      "3 and 4 only / 3 మరియు 4 మాత్రమే",
+      "1, 2, 3 and 4 / 1, 2, 3 మరియు 4"
+    ],
+    "ans": 1,
+    "exp": "Articles 15, 16, 19, 29, and 30 are available only to Indian citizens. Article 21 is available to both citizens and non-citizens. Therefore, only statement 3 is correct."
+  },
+  {
+    "id": "P2_ADV_073",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "With reference to the Directive Principles of State Policy (DPSP), consider the following provisions added by various Constitutional Amendments: 1. To secure opportunities for healthy development of children (42nd Amendment Act, 1976) 2. To promote equal justice and provide free legal aid (42nd Amendment Act, 1976) 3. To co-operative societies (97th Amendment Act, 2011) 4. To minimize inequalities in income, status, facilities, and opportunities (44th Amendment Act, 1978) Which of the above are correctly matched?",
+    "te": "ఆదేశిక సూత్రాలకు (DPSP) సంబంధించి, వివిధ రాజ్యాంగ సవరణల ద్వారా చేర్చబడిన క్రింది నిబంధనలను పరిశీలించండి: 1. పిల్లల ఆరోగ్యకరమైన అభివృద్ధికి అవకాశాలను భద్రపరచడం (42వ సవరణ చట్టం, 1976) 2. సమాన న్యాయాన్ని ప్రోత్సహించడం మరియు ఉచిత న్యాయ సహాయం అందించడం (42వ సవరణ చట్టం, 1976) 3. సహకార సంఘాలకు సంబంధించిన నిబంధన (97వ సవరణ చట్టం, 2011) 4. ఆదాయం, హోదా, సౌకర్యాలు మరియు అవకాశాలలో అసమానతలను తగ్గించడం (44వ సవరణ చట్టం, 1978) పైవాటిలో ఏవి సరిగ్గా సరిపోలాయి?",
+    "opts": [
+      "1, 2 and 3 only / 1, 2 మరియు 3 మాత్రమే",
+      "2, 3 and 4 only / 2, 3 మరియు 4 మాత్రమే",
+      "1, 3 and 4 only / 1, 3 మరియు 4 మాత్రమే",
+      "1, 2, 3 and 4 / 1, 2, 3 మరియు 4"
+    ],
+    "ans": 3,
+    "exp": "All the pairs given are correctly matched. The 42nd Amendment added Articles 39(f), 39A, 43A, and 48A. The 44th Amendment added Article 38(2) relating to minimizing inequalities. The 97th Amendment added Article 43B regarding co-operative societies."
+  },
+  {
+    "id": "P2_ADV_074",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding Fundamental Duties: 1. They were incorporated upon the recommendation of the Swaran Singh Committee. 2. Originally, 10 fundamental duties were added by the 42nd Constitutional Amendment Act, 1976. 3. The 86th Constitutional Amendment Act, 2002 added the duty relating to providing opportunities for education to a child between the age of 6 and 14 years. Which of the statements given above are correct?",
+    "te": "ప్రాథమిక విధులకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. స్వర్ణ్ సింగ్ కమిటీ సిఫారసు మేరకు ఇవి చేర్చబడ్డాయి. 2. మొదట్లో 42వ రాజ్యాంగ సవరణ చట్టం, 1976 ద్వారా 10 ప్రాథమిక విధులు చేర్చబడ్డాయి. 3. 86వ రాజ్యాంగ సవరణ చట్టం, 2002 ద్వారా 6 నుండి 14 సంవత్సరాల వయస్సు గల పిల్లవాడికి విద్యనభ్యసించే అవకాశాలను కల్పించే బాధ్యతను చేర్చారు. పై ప్రకటనలలో ఏవి సరైనవి?",
+    "opts": [
+      "1 and 2 only / 1 మరియు 2 మాత్రమే",
+      "2 and 3 only / 2 మరియు 3 మాత్రమే",
+      "1 and 3 only / 1 మరియు 3 మాత్రమే",
+      "1, 2 and 3 / 1, 2 మరియు 3"
+    ],
+    "ans": 3,
+    "exp": "All three statements are correct. The Swaran Singh Committee suggested 8 duties, but the 42nd Amendment added 10 duties. The 11th duty was added by the 86th Amendment Act in 2002."
+  },
+  {
+    "id": "P2_ADV_075",
+    "paper": "Paper-II",
+    "topic": "Indian Constitution: Preamble, Fundamental Rights, Directive Principles, Fundamental Duties",
+    "difficulty": "Advanced",
+    "en": "Which of the following writs can be issued against both public authorities and private individuals/bodies? 1. Habeas Corpus 2. Mandamus 3. Prohibition 4. Quo-Warranto Select the correct answer using the code given below:",
+    "te": "ప్రజా అధికారులు మరియు ప్రైవేట్ వ్యక్తులు/సంస్థలు రెండింటిపై క్రింది ఏ రిట్‌లను జారీ చేయవచ్చు? 1. హేబియస్ కార్పస్ 2. మ్యాండమస్ 3. ప్రొహిబిషన్ 4. కో-వారంటో క్రింది కోడ్ ఉపయోగించి సరైన సమాధానాన్ని ఎంచుకోండి:",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "1 and 4 only / 1 మరియు 4 మాత్రమే",
+      "1, 2 and 4 only / 1, 2 మరియు 4 మాత్రమే",
+      "1, 3 and 4 only / 1, 3 మరియు 4 మాత్రమే"
+    ],
+    "ans": 0,
+    "exp": "Habeas Corpus (to have the body of) is the only writ that can be issued against both public authorities and private individuals. Mandamus, Prohibition, Certiorari, and Quo-Warranto are generally available against public authorities/judicial bodies, not private individuals."
+  },
+  {
+    "id": "P2_ADV_076",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the ordinance-making power of the President under Article 123: 1. It is coextensive with the legislative power of the Parliament. 2. The satisfaction of the President in promulgating an ordinance is immune from judicial review. Which of the statements given above is/are correct?",
+    "te": "ప\"అధికరణ 123 క్రింద రాష్ట్రపతి యొక్క ఆర్డినెన్స్ తయారీ శక్తికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. ఇది పార్లమెంట్ యొక్క శాసనసభా శక్తితో సమానమైనది. 2. ఆర్డినెన్స్‌ను జారీ చేయడంలో రాష్ట్రపతి సంతృప్తిని న్యాయ సమీక్ష నుండి మినహాయించారు. పైన ఇవ్వబడిన ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "ans": 0,
+    "exp": "Statement 1 is correct because the ordinance-making power is coextensive with the legislative power of Parliament (subject to the same constitutional limitations). Statement 2 is incorrect because the 38th Constitutional Amendment Act's provision making the President's satisfaction final and conclusive was deleted by the 44th Amendment Act, making it subject to judicial review on grounds of mala fide."
+  },
+  {
+    "id": "P2_ADV_077",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "With reference to the Supreme Court's collegium system, which of the following judgments established the 'Pranab Kumar Chattopadhyay' principle or extended the primacy of the CJI, leading to the current collegium model? Choose the correct historical sequence or landmark judgment association.",
+    "te": "సుప్రీంకోర్టు కొలీజియం వ్యవస్థకు సంబంధించి, క్రింది తీర్పులలో ఏది 'ప్రణబ్ కుమార్ చటోపాధ్యాయ' సూత్రం లేదా CJI ప్రాధాన్యతను విస్తరించింది, ఇది ప్రస్తుత కొలీజియం మోడల్‌కు దారితీసింది? సరైన చారిత్రక క్రమం లేదా మైలురాయి తీర్పు సంఘాన్ని ఎంచుకోండి.",
+    "opts": [
+      "First Judges Case (1981)",
+      "Second Judges Case (1993)",
+      "Third Judges Case (1998)",
+      "Fourth Judges Case (2015)"
+    ],
+    "ans": 1,
+    "exp": "The Second Judges Case (1993) ruled that the Chief Justice of India must be given primacy in the matter of appointments to the Supreme Court and established the collegium system, diluting the executive's absolute primacy."
+  },
+  {
+    "id": "P2_ADV_078",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Which of the following constitutional provisions empowers the Parliament to alter the boundaries or names of existing States without the consent of the State Legislatures concerned?",
+    "te": "సంబంధిత రాష్ట్ర శాసనసభల అనుమతి లేకుండా ఇప్పటికే ఉన్న రాష్ట్రాల సరిహద్దులను లేదా పేర్లను మార్చడానికి పార్లమెంట్‌కు క్రింది ఏ రాజ్యాంగ నిబంధన అధికారం ఇస్తుంది?",
+    "opts": [
+      "Article 2",
+      "Article 3",
+      "Article 368",
+      "Article 4"
+    ],
+    "ans": 1,
+    "exp": "Article 3 of the Indian Constitution grants Parliament the power to form new States, alter the areas, boundaries, or names of existing States, provided a Bill for this purpose is introduced on the recommendation of the President and after referring it to the state legislature concerned for its views."
+  },
+  {
+    "id": "P2_ADV_079",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Consider the discretionary powers of a State Governor: 1. Reservation of a State Bill for the consideration of the President under Article 200. 2. Recommendation for the imposition of President's Rule under Article 356. 3. Appointment of the Chief Minister when no party has a clear majority. Which of these are true constitutional discretion according to the Supreme Court (Samsher Singh case)?",
+    "te": "రాష్ట్ర గవర్నర్ యొక్క విచక్షణా అధికారాలను పరిశీలించండి: 1. ఆర్టికల్ 200 ప్రకారం రాష్ట్రపతి పరిశీలన కోసం రాష్ట్ర బిల్లును రిజర్వ్ చేయడం. 2. ఆర్టికల్ 356 ప్రకారం రాష్ట్రపతి పాలన విధించాలని సిఫార్సు చేయడం. 3. ఏ పార్టీకి స్పష్టమైన మెజారిటీ లేనప్పుడు ముఖ్యమంత్రిని నియమించడం. సుప్రీంకోర్టు (శంషేర్ సింగ్ కేసు) ప్రకారం వీటిలో నిజమైన రాజ్యాంగ విచక్షణ ఏది?",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 2,
+    "exp": "In Samsher Singh v. State of Punjab (1974), the Supreme Court held that the Governor exercises powers without ministerial advice only where the Constitution expressly so provides (like Article 200 reservation) or by necessary implication (like choosing a CM in a hung assembly). Recommendation under Article 356 is based on aid and advice of the Council of Ministers, though communicated independently."
+  },
+  {
+    "id": "P2_ADV_080",
+    "paper": "Paper-II",
+    "topic": "Union and State Governments: President, Prime Minister, Parliament, Governor, Chief Minister, Judiciary",
+    "difficulty": "Advanced",
+    "en": "Which of the following writs can be issued against both public authorities and private individuals/bodies for the enforcement of fundamental rights?",
+    "te": "ప్రాథమిక హక్కుల అమలు కోసం పబ్లిక్ అథారిటీలు మరియు ప్రైవేట్ వ్యక్తులు/సంస్థలు రెండింటికీ వ్యతిరేకంగా క్రింది ఏ రిట్‌ను జారీ చేయవచ్చు?",
+    "opts": [
+      "Mandamus",
+      "Certiorari",
+      "Habeas Corpus",
+      "Quo-Warranto"
+    ],
+    "ans": 2,
+    "exp": "Habeas Corpus (to have the body of) can be issued against both public authorities as well as private individuals, safeguarding personal liberty against illegal detention by anyone."
+  },
+  {
+    "id": "P2_ADV_081",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Which of the following constitutional provisions empowers the Parliament to legislate on a matter enumerated in the State List in the national interest, provided a resolution is passed by the Rajya Sabha supported by not less than two-thirds of the members present and voting?",
+    "te": "ರಾಜ್ಯಸಭೆಯು ಹಾಜರಿರುವ ಮತ್ತು ಮತ ಚಲಾಯಿಸುತ್ತಿರುವ ಸದಸ್ಯರಲ್ಲಿ ಮೂರನೇ ಎರಡರಷ್ಟು ಕಡಿಮೆ ಇಲ್ಲದ ಸದಸ್ಯರ ಬೆಂಬಲದೊಂದಿಗೆ ನಿರ್ಣಯವನ್ನು ಅಂಗೀಕರಿಸಿದರೆ, ರಾಷ್ಟ್ರೀಯ ಹಿತಾಸಕ್ತಿಯಲ್ಲಿ ರಾಜ್ಯ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಿಷಯದ ಮೇಲೆ ಕಾನೂನು ಮಾಡಲು ಸಂಸತ್ತಿಗೆ ಕೆಳಗಿನ ಯಾವ ಸಾವಿಧಾನಿಕ ನಿಬಂಧನೆಯು ಅಧಿಕಾರ ನೀಡುತ್ತದೆ?",
+    "opts": [
+      "Article 249",
+      "Article 250",
+      "Article 252",
+      "Article 253"
+    ],
+    "ans": 0,
+    "exp": "Article 249 empowers the Parliament to legislate on State List subjects if the Rajya Sabha passes a resolution with a 2/3rd majority stating that it is necessary in the national interest."
+  },
+  {
+    "id": "P2_ADV_082",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Consider the recommendations of the Sarkaria Commission (1983-88) regarding Union-State relations: 1. The Governor should not be removed before the expiry of his tenure except in rare and compelling circumstances. 2. Article 356 should be used very sparingly, as a measure of last resort. 3. Residual powers of legislation should continue to remain with the Union Parliament. Which of the statements given above are correct?",
+    "te": "ಕೇಂದ್ರ-ರಾಜ್ಯ ಸಂಬಂಧಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸರ್ಕಾರಿಯಾ ಆಯೋಗದ (1983-88) ಶಿಫಾರಸುಗಳನ್ನು ಪರಿಗಣಿಸಿ: 1. ಅಪರೂಪದ ಮತ್ತು ಬಲವಂತದ ಸಂದರ್ಭಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ರಾಜ್ಯಪಾಲರನ್ನು ಅವರ ಅಧಿಕಾರಾವಧಿ ಮುಗಿಯುವ ಮೊದಲು ವಜಾಗೊಳಿಸಬಾರದು. 2. ವಿಧಿ 356 ಅನ್ನು ಬಹಳ ಮಿತವಾಗಿ, ಕೊನೆಯ ಉಪಾಯದ ಕ್ರಮವಾಗಿ ಬಳಸಬೇಕು. 3. ಶಾಸಕಾಂಗದ ಅವಶೇಷ ಅಧಿಕಾರಗಳು ಕೇಂದ್ರ ಸಂಸತ್ತಿನಲ್ಲಿಯೇ ಇರಬೇಕು. ಮೇಲಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿದೆ?",
+    "opts": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "ans": 3,
+    "exp": "All three statements are correct as per the recommendations of the Sarkaria Commission on Centre-State relations."
+  },
+  {
+    "id": "P2_ADV_083",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "With reference to the 74th Constitutional Amendment Act, 1992, which of the following committees/bodies is mandated to prepare draft development plans for the district as a whole?",
+    "te": "74ನೇ ಸಾವಿಧಾನಿಕ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆ, 1992 ರ ಉಲ್ಲೇಖದೊಂದಿಗೆ, ಇಡೀ ಜಿಲ್ಲೆಗೆ ಕರಡು ಅಭಿವೃದ್ಧಿ ಯೋಜನೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲು ಕೆಳಗಿನ ಯಾವ ಸಮಿತಿ/ಸಂಸ್ಥೆಯನ್ನು ಕಡ್ಡಾಯಗೊಳಿಸಲಾಗಿದೆ?",
+    "opts": [
+      "District Planning Committee (Article 243ZD)",
+      "Metropolitan Planning Committee (Article 243ZE)",
+      "District Development Council",
+      "State Finance Commission"
+    ],
+    "ans": 0,
+    "exp": "Article 243ZD of the Constitution mandates the constitution of a District Planning Committee at the district level to consolidate plans prepared by panchayats and municipalities and to prepare a draft development plan for the district as a whole."
+  },
+  {
+    "id": "P2_ADV_084",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Which of the following bodies are statutory bodies rather than constitutional bodies? 1. National Human Rights Commission 2. Central Information Commission 3. National Commission for Scheduled Tribes 4. Competition Commission of India",
+    "te": "ಕೆಳಗಿನ ಯಾವ ಸಂಸ್ಥೆಗಳು ಸಾವಿಧಾನಿಕ ಸಂಸ್ಥೆಗಳಿಗಿಂತ ಶಾಸನಬದ್ಧ ಸಂಸ್ಥೆಗಳಾಗಿವೆ? 1. ರಾಷ್ಟ್ರೀಯ ಮಾನವ ಹಕ್ಕುಗಳ ಆಯೋಗ 2. ಕೇಂದ್ರ ಮಾಹಿತಿ ಆಯೋಗ 3.Scheduled Tribes ರಾಷ್ಟ್ರೀಯ ಆಯೋಗ 4. ಭಾರತೀಯ ಸ್ಪರ್ಧಾ ಆಯೋಗ",
+    "opts": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "ans": 0,
+    "exp": "National Human Rights Commission, Central Information Commission, and Competition Commission of India are statutory bodies created by acts of Parliament. National Commission for Scheduled Tribes is a constitutional body under Article 338A."
+  },
+  {
+    "id": "P2_ADV_085",
+    "paper": "Paper-II",
+    "topic": "Indian Federal Structure: Union-State Relations, 73rd and 74th Amendments, Constitutional & Statutory Bodies",
+    "difficulty": "Advanced",
+    "en": "Under the 73rd Constitutional Amendment Act, which of the following provisions are mandatory (compulsory) for states to adopt in their Panchayati Raj legislation?",
+    "te": "73ನೇ ಸಾವಿಧಾನಿಕ ತಿದ್ದುಪಡಿ ಕಾಯ್ದೆಯಡಿಯಲ್ಲಿ, ರಾಜ್ಯಗಳು ತಮ್ಮ ಪಂಚಾಯತ್ ರಾಜ್ ಕಾನೂನಿನಲ್ಲಿ ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಕೆಳಗಿನ ಯಾವ ನಿಬಂಧನೆಗಳು ಕಡ್ಡಾಯವಾಗಿವೆ?",
+    "opts": [
+      "Organization of Gram Sabhas in a village or group of villages",
+      "Provision for reservation of seats for backward classes (BCs) in panchayats",
+      "Devolution of powers to panchayats to levy taxes",
+      "Indirect elections to the post of Chairperson at the intermediate level"
+    ],
+    "ans": 0,
+    "exp": "Organization of Gram Sabha is a mandatory provision under Article 243A. Reservation for BCs, power to levy taxes, and method of electing intermediate chairpersons are left to the discretion of the state legislatures (voluntary provisions)."
+  },
+  {
+    "id": "P2_ADV_086",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Which sociologist propounded the concept of 'Dominant Caste' and drew empirical evidence primarily from the Rampura village study in Karnataka?",
+    "te": "'ప్రభుత్వ కులం' (Dominant Caste) భావనను ప్రతిపాదించి, కర్ణాటకలోని రాంపుర గ్రామం ఆధారంగా అనుభవపూర్వక సాక్ష్యాలను సేకరించిన ప్రముఖ సామాజిక శాస్త్రవేత్త ఎవరు?",
+    "opts": [
+      "G.S. Ghurye",
+      "M.N. Srinivas",
+      "Andre Beteille",
+      "D.P. Mukerji"
+    ],
+    "ans": 1,
+    "exp": "M.N. Srinivas introduced the concept of 'Dominant Caste' based on his ethnographic study of Rampura village, highlighting criteria like numerical strength, economic power, and political clout."
+  },
+  {
+    "id": "P2_ADV_087",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "In the context of Indian kinship systems, what does the term 'Tarawad' refer to, and which community traditionally practiced it?",
+    "te": "భారతీయ బంధుత్వ వ్యవస్థల సందర్భంలో 'తరవాడ్' (Tarawad) అనగా ఏమి మరియు ఏ సమాజం సాంప్రదాయకంగా దీనిని ఆచరించింది?",
+    "opts": [
+      "Patrilineal joint family system among the Nairs of Kerala",
+      "Matrilineal joint family system among the Nairs of Kerala",
+      "Polyandrous marital alliance among the Todas of Nilgiris",
+      "Patrilocal residential lineage among the Khasis of Meghalaya"
+    ],
+    "ans": 1,
+    "exp": "Tarawad refers to the traditional matrilineal joint family system of the Nair community in Kerala, headed by the eldest male member known as the Karanavan."
+  },
+  {
+    "id": "P2_ADV_088",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Elwin-Ghurye debate on Indian tribes is a landmark discourse in Indian anthropology. What was Verrier Elwin's core proposition regarding tribal policy?",
+    "te": "భారతీయ గిరిజనులపై ఎల్విన్-ఘుర్యే వాదన (Elwin-Ghurye debate) మానవ శాస్త్రంలో ముఖ్యమైనది. గిరిజన విధానంపై వెరియర్ ఎల్విన్ ప్రతిపాదించిన ప్రధాన సిద్ధాంతం ఏమిటి?",
+    "opts": [
+      "Complete assimilation of tribes into the Hindu caste fold",
+      "Creation of an autonomous tribal state with absolute sovereignty",
+      "Establishment of a 'National Park' approach to isolate and protect tribal culture from rapid external exploitation",
+      "Immediate conversion of tribal communities to modern industrial wage-laborers"
+    ],
+    "ans": 2,
+    "exp": "Verrier Elwin advocated for a policy of protection and isolation, often termed the 'National Park' view, to shield vulnerable tribes from the disruptive exploitation of mainstream society, which contrasted with G.S. Ghurye's assimilationist approach."
+  },
+  {
+    "id": "P2_ADV_089",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Louis Dumont, in his seminal work 'Homo Hierarchicus', argued that the caste system is fundamentally based upon which ideological opposition?",
+    "te": "లూయిస్ డిమోంట్ తన ప్రసిద్ధ గ్రంథం 'హోమో హైరార్కికస్' (Homo Hierarchicus) లో కుల వ్యవస్థ ప్రాథమికంగా ఏ సైద్ధాంతిక వ్యతిరేకతపై ఆధారపడి ఉందని వాదించారు?",
+    "opts": [
+      "Rich versus Poor",
+      "Purity versus Pollution",
+      "Ruler versus Ruled",
+      "Brahmins versus Shudras"
+    ],
+    "ans": 1,
+    "exp": "Louis Dumont analyzed the Indian caste system through structuralist framework, emphasizing that the entire hierarchy is structured around the fundamental religious opposition of 'Purity versus Pollution'."
+  },
+  {
+    "id": "P2_ADV_090",
+    "paper": "Paper-II",
+    "topic": "Indian Social Structure: Caste, Family, Marriage, Religion, Tribal Communities",
+    "difficulty": "Advanced",
+    "en": "Which of the following forms of marriage involves a bride-price where the groom's family compensates the bride's family, traditionally found in several Indian tribal communities?",
+    "te": "కింది వివాహ రూపాలలో ఏది వధువు ధరను (bride-price) కలిగి ఉంటుంది, ఇక్కడ వరుడి కుటుంబం వధువు కుటుంబానికి నష్టపరిహారం చెల్లిస్తుంది, ఇది అనేక భారతీయ గిరిజన సమాజాలలో సాంప్రదాయకంగా కనిపిస్తుంది?",
+    "opts": [
+      "Brahma Vivaha",
+      "Asura Vivaha",
+      "Gandharva Vivaha",
+      "Rakshasa Vivaha"
+    ],
+    "ans": 1,
+    "exp": "Asura Vivaha, as classified in ancient Hindu texts and observed in various tribal practices, involves the purchase of the bride through a bride-price given by the groom to the bride's parents."
+  },
+  {
+    "id": "P2_ADV_091",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the structural manifestations of Casteism in contemporary India: 1. It operates not merely through ritual hierarchy, but increasingly through economic segmentation and political mobilization. 2. The concept of 'Sanskritization' propounded by M.N. Srinivas implies the complete structural eradication of caste stratification. Which of the statements given above is/are correct?",
+    "te": "సmకాలీన భారతదేశంలో కులతత్వం యొక్క నిర్మాణ వ్యక్తీకరణలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి: 1. ఇది కేవలం ఆచార层次 క్రమానుగత ద్వారానే కాకుండా, ఆర్థిక విభజన మరియు రాజకీయ సమీకరణ ద్వారా ఎక్కువగా పనిచేస్తుంది. 2. M.N. శ్రీనివాస్ ప్రతిపాదించిన 'సంస్కృతీకరణ' భావన కుల శ్రేణీకరణ యొక్క పూర్తి నిర్మాణపరమైన నిర్మూలనను సూచిస్తుంది. పై ఇవ్వబడిన ప్రకటనలలో ఏది/ఏవి సరైనది/సరియైనవి?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 0,
+    "exp": "Statement 1 is correct as modern casteism utilizes economic power and democratic political platforms. Statement 2 is incorrect because Sanskritization allows lower castes to adopt upper-caste customs to improve status, but it does not eradicate the caste structure itself."
+  },
+  {
+    "id": "P2_ADV_092",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "Which of the following sociological approaches views Communalism primarily as a result of elite manipulation of identity for political and economic power rather than primordial religious hatred?",
+    "te": "ప్రాథమిక మతపరమైన ద్వేషం కంటే రాజకీయ మరియు ఆర్థిక శక్తి కోసం గుర్తింపును ప్రముఖులు తారుమారు చేయడం వల్లనే మతతత్వం కలుగుతుందని క్రింది ఏ సామాజిక శాస్త్ర దృక్పథం ప్రధానంగా చూస్తుంది?",
+    "opts": [
+      "Primordialist Approach / ప్రిమోర్డియలిస్ట్ దృక్పథం",
+      "Instrumentalist Approach / ఇన్‌స్ట్రుమెంటలిస్ట్ దృక్పథం",
+      "Civilizational Approach / నాగరికతా దృక్పథం",
+      "Fatalist Approach / ఫేటలిస్ట్ దృక్పథం"
+    ],
+    "ans": 1,
+    "exp": "The Instrumentalist approach views ethnicity and communal identity as instruments manipulated by elites to achieve political and economic gains."
+  },
+  {
+    "id": "P2_ADV_093",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "In the context of Regionalism and Sub-nationalism in India, which constitutional provision empowers Parliament to form new states or alter areas, boundaries, or names of existing states, reflecting the federal mechanism to address regional aspirations?",
+    "te": "భారతదేశంలో ప్రాంతీయవాదం మరియు ఉప-జాతీయవాదం సందర్భంలో, ప్రాంతీయ ఆకాంక్షలను పరిష్కరించడానికి ఫెడరల్ విధానాన్ని ప్రతిబింబిస్తూ, కొత్త రాష్ట్రాలను ఏర్పాటు చేయడానికి లేదా సరిహద్దులను లేదా పేర్లను మార్చడానికి పార్లమెంటుకు ఏ రాజ్యాంగ నిబంధన అధికారం ఇస్తుంది?",
+    "opts": [
+      "Article 2 / ఆర్టికల్ 2",
+      "Article 3 / ఆర్టికల్ 3",
+      "Article 370 / ఆర్టికల్ 370",
+      "Article 371 / ఆర్టికల్ 371"
+    ],
+    "ans": 1,
+    "exp": "Article 3 of the Indian Constitution grants Parliament the power to form new states and alter existing state boundaries, serving as a legal mechanism to manage regionalism."
+  },
+  {
+    "id": "P2_ADV_094",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "The United Nations Convention on the Rights of the Child (UNCRC) defines a child as every human being below the age of how many years, unless under the law applicable to the child, majority is attained earlier?",
+    "te": "ఐక్యరాజ్యసమితి బాలల హక్కుల సమావేశం (UNCRC) ప్రకారం, బాలల వర్తింపు చట్టం ప్రకారం ముందుగానే మేజర్ హోదా వస్తే తప్ప, ఎంత వయస్సు కంటే తక్కువ ఉన్న ప్రతి మానవుడిని పిల్లవాడిగా నిర్వచించింది?",
+    "opts": [
+      "14 years / 14 సంవత్సరాలు",
+      "16 years / 16 సంవత్సరాలు",
+      "18 years / 18 సంవత్సరాలు",
+      "21 years / 21 సంవత్సరాలు"
+    ],
+    "ans": 2,
+    "exp": "According to Article 1 of the UNCRC, a child is defined as any human being below the age of 18 years unless national law recognizes an earlier age of majority."
+  },
+  {
+    "id": "P2_ADV_095",
+    "paper": "Paper-II",
+    "topic": "Social Issues: Casteism, Communalism, Regionalism, Violence Against Women, Child Labour, Human Rights",
+    "difficulty": "Advanced",
+    "en": "The landmark Supreme Court judgment that laid down comprehensive guidelines (known as Vishakha Guidelines) to prevent sexual harassment of women at workplaces, later codified into an Act, was delivered in which year?",
+    "te": "పనిచేసే ప్రదేశాలలో మహిళలపై లైంగిక వేధింపులను నివారించడానికి సమగ్ర మార్గదర్శకాలను (విశాఖ మార్గదర్శకాలుగా పిలుస్తారు) జారీ చేసిన మరియు తరువాత చట్టంగా రూపొందించబడిన మైలురాయి సుప్రీంకోర్టు తీర్పు ఏ సంవత్సరంలో ఇవ్వబడింది?",
+    "opts": [
+      "1993 / 1993",
+      "1997 / 1997",
+      "2005 / 2005",
+      "2013 / 2013"
+    ],
+    "ans": 1,
+    "exp": "The Vishakha v. State of Rajasthan judgment was delivered by the Supreme Court in 1997, laying down guidelines which were later made into the POSH Act of 2013."
+  },
+  {
+    "id": "P2_ADV_096",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Consider the following statements regarding the 'Jangamitta' and early socio-religious reform movements in Hyderabad State: 1. Bhagya Reddy Varma founded the 'Jana Pracharini Sabha' to propagate social awareness. 2. The Adi-Hindu social movement specifically rejected the caste hierarchy and emphasized indigenous identity. Which of the statements given above is/are correct?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో 'జంగమిట్ట' మరియు ప్రారంభ సామాజిక-మత సంస్కరణ ఉద్యమాలకు సంబంధించి ఈ క్రింది ప్రకటనలను పరిశీలించండి: 1. భాగ్య రెడ్డి వర్మ సామాజిక చైతన్యాన్ని పెంపొందించడానికి 'జన ప్రచారణి సభ'ను స్థాపించారు. 2. ఆది-హిందూ సామాజిక ఉద్యమం కుల శ్రేణిని నిర్ద్వంద్వంగా తిరస్కరించింది మరియు స్వదేశీ గుర్తింపును నొక్కి చెప్పింది. పై ఇవ్వబడిన ప్రకటనలలో ఏది/ఏవి సరైనది/సైనవి?",
+    "opts": [
+      "1 only / 1 మాత్రమే",
+      "2 only / 2 మాత్రమే",
+      "Both 1 and 2 / 1 మరియు 2 రెండూ",
+      "Neither 1 nor 2 / 1 లేదా 2 ఏదీ కాదు"
+    ],
+    "ans": 2,
+    "exp": "Both statements are historically correct. Bhagya Reddy Varma played a pivotal role in the Adi-Hindu movement and established various organizations like Jana Pracharini Sabha to educate and uplift the marginalized communities in the Nizam's dominion.",
+    "exp_te": "రెండు ప్రకటనలు చారిత్రాత్మకంగా సరైనవే. నిజాం పాలనలో అణగారిన వర్గాలను చైతన్యం చేయడానికి మరియు ఉద్ధరించడానికి భాగ్య రెడ్డి వర్మ ఆది-హిందూ ఉద్యమంలో కీలక పాత్ర పోషించారు మరియు జన ప్రచారణి సభ వంటి వివిధ సంస్థలను స్థాపించారు."
+  },
+  {
+    "id": "P2_ADV_097",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "The legendary 'Telangana Armed Struggle' (1946-1951) witnessed active participation of women. Who among the following women leaders went underground and operated guerrilla squads against the Razakars and Nizam's forces?",
+    "te": "ప్రసిద్ధ 'తెలంగాణ సాయుధ పోరాటం' (1946-1951) లో మహిళలు క్రియాశీలకంగా పాల్గొనారు. రజాకార్లు మరియు నిజాం సైన్యాలపై గెరిల్లా దళాలను నడిపిన మహిళా నాయకులలో క్రింది వారిలో ఎవరు భూగర్భంలోకి వెళ్లి పోరాడారు?",
+    "opts": [
+      "Chakkilam Rukminamma / చక్కిలం రుక్మిణమ్మ",
+      "Ailamma Chakali / చాకలి ఐలమ్మ",
+      "Mallu Swarajyam / మల్లు స్వరాజ్యం",
+      "Arutla Kamala Devi / ఆరుట్ల కమలా దేవి"
+    ],
+    "ans": 2,
+    "exp": "Comrade Mallu Swarajyam joined the communist-led armed struggle at a very young age and actively led guerrilla squads, carrying a rifle and fighting against the landlords and Nizam's forces.",
+    "exp_te": "కామ్రేడ్ మల్లు స్వరాజ్యం చాలా చిన్న వయస్సులోనే కమ్యూనిస్ట్ నేతృత్వంలోని సాయుధ పోరాటంలో చేరారు మరియు తుపాకీ పట్టుకుని భూస్వాములు మరియు నిజాం సైన్యాలపై గెరిల్లా దళాలకు నాయకత్వం వహించారు."
+  },
+  {
+    "id": "P2_ADV_098",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "In the context of Backward Class movements in India, the 'Satyshodhak Samaj' founded by Jyotirao Phule in 1873 had which of the following primary objectives?",
+    "te": "భారతదేశంలో వెనుకబడిన తరగతుల ఉద్యమాల సందర్భంలో, 1873లో జ్యోతిరావ్ పూలే స్థాపించిన 'సత్యశోధక్ సమాజ్' యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To demand separate electorates for untouchables / అస్పృశ్యుల కోసం ప్రత్యేక నియోజకవర్గాలను డిమాండ్ చేయడం",
+      "To liberate Shudras and Atishudras from intellectual and religious exploitation by Brahmins / బ్రాహ్మణుల మేధో మరియు మతపరమైన దోపిడీ నుండి శూద్రులు మరియు అతిశూద్రులను విముక్తి చేయడం",
+      "To establish a separate sovereign state for the backward classes / వెనుకబడిన తరగతుల కోసం ప్రత్యేక సార్వభౌమ కుటుంబాన్ని ఏర్పాటు చేయడం",
+      "To promote Sanskrit education among the lower castes / కులాల మధ్య సంస్కృత విద్యను ప్రోత్సహించడం"
+    ],
+    "ans": 1,
+    "exp": "Jyotirao Phule established Satyshodhak Samaj (Society of Seekers of Truth) to liberate Shudras and Atishudras (Dalits and Backward Classes) from the exploitation and dominance of the Brahminical social order.",
+    "exp_te": "బ్రాహ్మణిక సామాజిక వ్యవస్థ యొక్క దోపిడీ మరియు ఆధిపత్యం నుండి శూద్రులు మరియు అతిశూద్రులను (దళిత మరియు వెనుకబడిన తరగతులు) విముక్తి చేయడానికి జ్యోతిరావ్ పూలే సత్యశోధక్ సమాజ్‌ను స్థాపించారు."
+  },
+  {
+    "id": "P2_ADV_099",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "The 'Koottangal' or the tribal resistance movements against British forest laws in colonial India often involved the assertion of customary rights. In the context of Telangana, the legendary tribal uprising led by Ramji Gond against British hegemony took place in which region?",
+    "te": "వలస భారతదేశంలో బ్రిటిష్ అటవీ చట్టాలకు వ్యతిరేకంగా గిరిజన ప్రతిఘటన ఉద్యమాలు సాంప్రదాయ హక్కుల పరిరక్షణను కోరాయి. తెలంగాణ సందర్భంలో, బ్రిటిష్ ఆధిపత్యానికి వ్యతిరేకంగా రామ్జీ గోండ్ నేతృత్వంలో జరిగిన ప్రసిద్ధ గిరిజన తిరుగుబాటు ఏ ప్రాంతంలో జరిగింది?",
+    "opts": [
+      "Khammam region / ఖమ్మం ప్రాంతం",
+      "Adilabad region (Ausa/Nirmal) / ఆదిలాబాద్ ప్రాంతం (నిర్మల్)",
+      "Warangal region / వరంగల్ ప్రాంతం",
+      "Mahabubnagar region / మహబూబ్ నగర్ ప్రాంతం"
+    ],
+    "ans": 1,
+    "exp": "Ramji Gond led a massive tribal revolt against the British and the Nizam's local agents in the Adilabad region, particularly around Nirmal, during the 1857 upheaval, resulting in his execution on a banyan tree with hundreds of followers.",
+    "exp_te": "1857 తిరుగుబాటు కాలంలో ఆదిలాబాద్ ప్రాంతంలో, ముఖ్యంగా నిర్మల్ చుట్టుపక్కల బ్రిటిష్ మరియు నిజాం స్థానిక ఏజెంట్లకు వ్యతిరేకంగా రామ్జీ గోండ్ భారీ గిరిజన తిరుగుబాటుకు నాయకత్వం వహించారు."
+  },
+  {
+    "id": "P2_ADV_100",
+    "paper": "Paper-II",
+    "topic": "Social Movements: Dalit, Backward Class, Women, Tribal and Environmental Movements in Telangana & India",
+    "difficulty": "Advanced",
+    "en": "Which of the following environmental movements in India is uniquely characterized by the 'Appiko' movement, which is the southern counterpart of the Chipko movement, led in Karnataka?",
+    "te": "కర్ణాటకలో చిప్కో ఉద్యమానికి దక్షిణ భారతదేశ ప్రతిరూపమైన 'అప్పికో' ఉద్యమం ద్వారా ప్రత్యేకంగా గుర్తించబడిన భారతదేశంలోని పర్యావరణ ఉద్యమం ఏది?",
+    "opts": [
+      "Narmada Bachao Andolan / నర్మదా బచావో ఆందోళன்",
+      "Silent Valley Movement / సైలెంట్ వ్యాలీ ఉద్యమం",
+      "Appiko Movement in Western Ghats / పశ్చిమ కనుమలలో అప్పికో ఉద్యమం",
+      "Baliapal Movement / బాలిపాల్ ఉద్యమం"
+    ],
+    "ans": 2,
+    "exp": "The Appiko movement (meaning 'to hug' in Kannada) was a grassroots environmental movement in the Western Ghats region of Karnataka in 1983, mirroring the Chipko movement to protect trees from commercial felling.",
+    "exp_te": "అప్పికో ఉద్యమం (కన్నడలో 'కౌగిలించుకోవడం' అని అర్థం) అనేది వాణిజ్య నరికివేత నుండి చెట్లను రక్షించడానికి చిప్కో ఉద్యమానికి ప్రతిరూపంగా 1983లో కర్ణాటకలోని పశ్చిమ కనుమల ప్రాంతంలో జరిగిన అటవీ పరిరక్షణ ఉద్యమం."
+  }
+]

@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "P4_BAS_001",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "Who was the ruler of Hyderabad State when it was integrated into the Indian Union in 1948?",
+    "te": "1948లో హైదరాబాద్ రాష్ట్రం భారత యూనియన్‌లో విలీనమైనప్పుడు దాని పాలకుడు ఎవరు?",
+    "opts": [
+      "Mir Mahboob Ali Khan",
+      "Mir Osman Ali Khan",
+      "Sikandar Jah",
+      "Nizam Ali Khan"
+    ],
+    "ans": 1,
+    "exp": "Mir Osman Ali Khan was the VII and last Nizam of Hyderabad who ruled until the state's accession to India in 1948."
+  },
+  {
+    "id": "P4_BAS_002",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "In which year was the prominent Farmana issued by the Nizam defining the 'Mulki' rules?",
+    "te": "'ముల్కీ' నిబంధనలను నిర్వచిస్తూ నిజాం ఏ సంవత్సరంలో ప్రముఖ ఫర్మానాను జారీ చేశారు?",
+    "opts": [
+      "1909",
+      "1919",
+      "1933",
+      "1948"
+    ],
+    "ans": 1,
+    "exp": "The historic Farmana defining Mulki rules and state employment was issued in 1919 by Mir Osman Ali Khan."
+  },
+  {
+    "id": "P4_BAS_003",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "What does the term 'Mulki' generally signify in the context of the erstwhile Hyderabad State?",
+    "te": "గత హైదరాబాద్ రాష్ట్ర సందర్భంలో 'ముల్కీ' అనే పదం సాధారణంగా దేనిని సూచిస్తుంది?",
+    "opts": [
+      "Foreign invader",
+      "Permanent resident of Hyderabad State",
+      "Military commander",
+      "Jagirdar"
+    ],
+    "ans": 1,
+    "exp": "Mulki referred to a permanent resident or native of the Hyderabad State, eligible for local jobs and privileges."
+  },
+  {
+    "id": "P4_BAS_004",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "Mir Osman Ali Khan is well-known for establishing which of the following premier educational institutions?",
+    "te": "కింది ప్రముఖ విద్యా సంస్థలలో దేనిని ఏర్పాటు చేసినందుకు మీర్ ఉస్మాన్ అలీ ఖాన్ ప్రసిద్ధి చెందారు?",
+    "opts": [
+      "Osmania University",
+      "Jawaharlal Nehru Technological University",
+      "Aligarh Muslim University",
+      "Banaras Hindu University"
+    ],
+    "ans": 0,
+    "exp": "Mir Osman Ali Khan established Osmania University in 1918 through a royal charter, making Urdu the medium of instruction."
+  },
+  {
+    "id": "P4_BAS_005",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "According to the 1919 Farmana, how many years of continuous residence was required to qualify as a Mulki?",
+    "te": "1919 ఫర్మానా ప్రకారం, ముల్కీగా అర్హత సాధించడానికి ఎన్ని సంవత్సరాల నిరంతర నివాసం అవసరం?",
+    "opts": [
+      "5 years",
+      "10 years",
+      "12 years",
+      "15 years"
+    ],
+    "ans": 3,
+    "exp": "The 1919 Farmana stipulated that a person must have resided in Hyderabad State for a continuous period of 15 years to be recognized as a Mulki."
+  },
+  {
+    "id": "P4_BAS_001",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "What was the official code name for the military operation conducted by India to annex Hyderabad State in 1948?",
+    "te": "1948 లో హైదరాబాద్ సంస్థానాన్ని విలీనం చేయడానికి భారత్ నిర్వహించిన సైనిక చర్యకు అధికారిక సంకేత నామం ఏమిటి?",
+    "opts": [
+      "Operation Polo",
+      "Operation Vijay",
+      "Operation Blue Star",
+      "Operation Meghdoot"
+    ],
+    "ans": 0,
+    "exp": "Operation Polo was the code name for the Police Action in September 1948."
+  },
+  {
+    "id": "P4_BAS_002",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "Who was appointed as the Military Governor of Hyderabad immediately after the Police Action in 1948?",
+    "te": "1948 లో పోలీసు చర్య తక్షణమే హైదరాబాద్ సైనిక గవర్నర్‌గా ఎవరు నియమితులయ్యారు?",
+    "opts": [
+      "M. K. Vellodi",
+      "J. N. Chaudhuri",
+      "B. Ramakrishna Rao",
+      "Nizam VII"
+    ],
+    "ans": 1,
+    "exp": "Major General J.N. Chaudhuri served as the Military Governor of Hyderabad from September 1948 to December 1949."
+  },
+  {
+    "id": "P4_BAS_003",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "Who became the first Chief Minister of the civil administration in Hyderabad State under the Vellodi ministry in 1950?",
+    "te": "1950 లో వెల్లోడి మంత్రివర్గం ఆధ్వర్యంలో హైదరాబాద్ రాష్ట్ర పౌర పరిపాలన మొదటి ముఖ్యమంత్రి ఎవరు?",
+    "opts": [
+      "Burgula Ramakrishna Rao",
+      "M. K. Vellodi",
+      "Swami Ramanand Tirth",
+      "Mir Osman Ali Khan"
+    ],
+    "ans": 1,
+    "exp": "M.K. Vellodi was appointed as the first Chief Minister (civil administration) of Hyderabad State in January 1950."
+  },
+  {
+    "id": "P4_BAS_004",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "In which year did the major Non-Mulki or Mulki Agitation erupt in Hyderabad State?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో ప్రధానమైన ముల్కీ లేదా నాన్-ముల్కీ ఉద్యమం ఏ సంవత్సరంలో చెలరేగింది?",
+    "opts": [
+      "1948",
+      "1950",
+      "1952",
+      "1956"
+    ],
+    "ans": 2,
+    "exp": "The 1952 Mulki Agitation started as a protest against non-local employees taking up jobs meant for locals."
+  },
+  {
+    "id": "P4_BAS_005",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "The 1952 Mulki Agitation initially sparked from which educational institution in Hyderabad?",
+    "te": "1952 నాటి ముల్కీ ఉద్యమం మొదట హైదరాబాద్‌లోని ఏ విద్యా సంస్థ నుండి ప్రారంభమైంది?",
+    "opts": [
+      "Osmania University",
+      "City College",
+      "Nizam College",
+      "Science College, Saifabad"
+    ],
+    "ans": 1,
+    "exp": "The 1952 agitation intensified significantly following the City College incident in Hyderabad."
+  },
+  {
+    "id": "P4_BAS_011",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "Who was the Chairman of the States Reorganisation Commission (SRC) appointed in 1953?",
+    "te": "1953 లో నియమించబడిన రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) అధ్యక్షులు ఎవరు?",
+    "opts": [
+      "Fazal Ali",
+      "K. M. Panikkar",
+      "H. N. Kunzru",
+      "Jawaharlal Nehru"
+    ],
+    "ans": 0,
+    "exp": "Fazal Ali was the Chairman of the States Reorganisation Commission, with K. M. Panikkar and H. N. Kunzru as members."
+  },
+  {
+    "id": "P4_BAS_012",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "What was the initial recommendation of the States Reorganisation Commission (SRC) regarding Hyderabad State?",
+    "te": "హైదరాబాద్ రాష్ట్రం గురించి రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) యొక్క ప్రాథమిక సిఫార్సు ఏమిటి?",
+    "opts": [
+      "Immediate merger with Andhra State",
+      "To continue Hyderabad as a separate state (Telangana) with provisions for merger later",
+      "Division of Hyderabad into three states",
+      "Direct administration under the Central Government"
+    ],
+    "ans": 1,
+    "exp": "SRC recommended maintaining Hyderabad as a separate state called Telangana with an option to merge with Andhra after 1956 if 2/3rd of the assembly agreed."
+  },
+  {
+    "id": "P4_BAS_013",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "On which date was the Gentlemen's Agreement signed to protect the interests of Telangana?",
+    "te": "తెలంగాణ ప్రయోజనాలను పరిరక్షించడానికి పెద్దమనుషుల ఒప్పందం ఏ తేదీన సంతకం చేయబడింది?",
+    "opts": [
+      "February 20, 1956",
+      "November 1, 1956",
+      "January 26, 1956",
+      "August 15, 1956"
+    ],
+    "ans": 0,
+    "exp": "The Gentlemen's Agreement was signed on February 20, 1956, at Hyderabad House in New Delhi by leaders of Andhra and Telangana."
+  },
+  {
+    "id": "P4_BAS_014",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "How many leaders from the Telangana region and Andhra region each signed the Gentlemen's Agreement?",
+    "te": "పెద్దమనుషుల ఒప్పందంపై తెలంగాణ ప్రాంతం మరియు ఆంధ్ర ప్రాంతం నుండి ఎంతమంది చొప్పున నాయకులు సంతకం చేశారు?",
+    "opts": [
+      "Two each",
+      "Three each",
+      "Four each",
+      "Five each"
+    ],
+    "ans": 2,
+    "exp": "Four leaders from Telangana (Burgula Ramakrishna Rao, K.V. Ranga Reddy, M. Chenna Reddy, J.V. Narasinga Rao) and four from Andhra (Bezwada Gopala Reddy, Neelam Sanjiva Reddy, G. Latchanna, A. Satyanarayana Raju) signed it."
+  },
+  {
+    "id": "P4_BAS_015",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "Under the Gentlemen's Agreement, if the Chief Minister was from the Andhra region, which key post should be given to a leader from the Telangana region?",
+    "te": "పెద్దమనుషుల ఒప్పందం ప్రకారం, ముఖ్యమంత్రి ఆంధ్ర ప్రాంతం వారైతే, తెలంగాణ ప్రాంత నాయకునికి ఏ కీలక పదవి ఇవ్వాలి?",
+    "opts": [
+      "Speaker",
+      "Deputy Chief Minister",
+      "Home Minister",
+      "Finance Minister"
+    ],
+    "ans": 1,
+    "exp": "The agreement stipulated that if the Chief Minister belonged to the Andhra region, the Deputy Chief Ministership should be given to a leader from the Telangana region."
+  },
+  {
+    "id": "P4_BAS_016",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "In which year did the major open agitation for a separate Telangana state erupt prominently?",
+    "te": "ప్రత్యేక తెలంగాణ రాష్ట్రం కోసం పెద్ద ఎత్తున బహిరంగ ఉద్యమం ఏ సంవత్సరంలో బద్దలైంది?",
+    "opts": [
+      "1956",
+      "1969",
+      "1972",
+      "1991"
+    ],
+    "ans": 1,
+    "exp": "The major open agitation for a separate Telangana state emerged prominently in the year 1969 due to the continuous violation of safeguards."
+  },
+  {
+    "id": "P4_BAS_017",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "What does TPS stand for in the context of the 1969 Telangana movement?",
+    "te": "1969 తెలంగాణ ఉద్యమ సందర్భంలో TPS అనగా ఏమి?",
+    "opts": [
+      "Telangana Praja Samithi",
+      "Telangana Political Struggle",
+      "Telangana People's Syndicate",
+      "Telangana Progressive Society"
+    ],
+    "ans": 0,
+    "exp": "TPS stands for Telangana Praja Samithi, which played a pivotal role in leading the 1969 Telangana agitation."
+  },
+  {
+    "id": "P4_BAS_018",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "Who was the founder president of the Telangana Praja Samithi (TPS)?",
+    "te": "తెలంగాణ ప్రజా సమితి (TPS) వ్యవస్థాపక అధ్యక్షుడు ఎవరు?",
+    "opts": [
+      "M. Chenna Reddy",
+      "K. Madhava Rao",
+      "Achyutha Reddy",
+      "Kaloji Narayana Rao"
+    ],
+    "ans": 2,
+    "exp": "Achyutha Reddy was the founder president of the Telangana Praja Samithi (TPS) formed in 1969."
+  },
+  {
+    "id": "P4_BAS_019",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "The Prime Minister of India announced the Eight-Point Formula in which year to address the Telangana grievances?",
+    "te": "తెలంగాణ సమస్యలను పరిష్కరించడానికి భారతదేశ ప్రధాని ఏ సంవత్సరంలో ఎనిమిది సూత్రాల సూత్రాన్ని (Eight-Point Formula) ప్రకటించారు?",
+    "opts": [
+      "1968",
+      "1969",
+      "1971",
+      "1973"
+    ],
+    "ans": 1,
+    "exp": "Prime Minister Indira Gandhi announced the Eight-Point Formula in April 1969 as a measure to address the grievances of the Telangana agitation."
+  },
+  {
+    "id": "P4_BAS_020",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "Which of the following was a primary reason for the 1969 Telangana agitation?",
+    "te": "క్రింది వాటిలో 1969 తెలంగాణ ఉద్యమానికి ప్రాథమిక కారణం ఏది?",
+    "opts": [
+      "Surplus revenue diversion and violation of employment safeguards",
+      "Imposition of a new national language",
+      "Establishment of heavy industries in coastal Andhra",
+      "Abolition of the princely states"
+    ],
+    "ans": 0,
+    "exp": "The non-implementation of the Gentlemen's Agreement, diversion of Telangana surpluses, and violation of employment safeguards for locals were the primary reasons for the 1969 agitation."
+  },
+  {
+    "id": "P4_BAS_021",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "In which year was the Six-Point Formula introduced to address the grievances of the people of Telangana?",
+    "te": "తెలంగాణ ప్రజల ఆందోళనలను పరిష్కరించడానికి ఆరు సూత్రాల పథకం ఏ సంవత్సరంలో ప్రవేశపెట్టబడింది?",
+    "opts": [
+      "1969",
+      "1971",
+      "1973",
+      "1975"
+    ],
+    "ans": 2,
+    "exp": "The Six-Point Formula was proposed in September 1973 as a political compromise to provide a balanced development of different parts of the state and safeguard the interests of local people."
+  },
+  {
+    "id": "P4_BAS_022",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "Which Constitutional Amendment Act inserted Article 371-D to provide special provisions for the state of Andhra Pradesh?",
+    "te": "ఆంధ్రప్రదేశ్ రాష్ట్రానికి ప్రత్యేక నిబంధనలను అందించడానికి ఏ రాజ్యాంగ సవరణ చట్టం ద్వారా 371-D అధికారాన్ని చేర్చారు?",
+    "opts": [
+      "32nd Constitutional Amendment Act, 1973",
+      "36th Constitutional Amendment Act, 1975",
+      "38th Constitutional Amendment Act, 1975",
+      "42nd Constitutional Amendment Act, 1976"
+    ],
+    "ans": 0,
+    "exp": "The 32nd Constitutional Amendment Act of 1973 added Article 371-D to the Constitution of India to give effect to the Six-Point Formula."
+  },
+  {
+    "id": "P4_BAS_023",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "The Presidential Order relating to public employment and educational opportunities in Andhra Pradesh, based on the Six-Point Formula, was issued in which year?",
+    "te": "ఆరు సూత్రాల పథకం ఆధారంగా ఆంధ్రప్రదేశ్‌ನಲ್ಲಿ ప్రజా ఉద్యోగాలు మరియు విద్యా అవకాశాలకు సంబంధించిన రాష్ట్రపతి ఉత్తర్వులు ఏ సంవత్సరంలో జారీ చేయబడ్డాయి?",
+    "opts": [
+      "1973",
+      "1974",
+      "1975",
+      "1977"
+    ],
+    "ans": 2,
+    "exp": "The Andhra Pradesh Educational and Public Employment (Requirement of Local Cadres and Regulation of Direct Recruitment) Order, famously known as the Presidential Order, was issued in 1975."
+  },
+  {
+    "id": "P4_BAS_024",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "Under the Presidential Order 1975, how many zones were originally created in Andhra Pradesh for the purpose of local cadres in public employment?",
+    "te": "1975 నాటి రాష్ట్రపతి ఉత్తర్వుల ప్రకారం, ప్రజా ఉద్యోగాలలో స్థానిక కేడర్ల కొరకు ఆంధ్రప్రదేశ్‌లో మొదటగా ఎన్ని జోన్‌లను ఏర్పాటు చేశారు?",
+    "opts": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "ans": 2,
+    "exp": "The Presidential Order of 1975 divided the state of Andhra Pradesh into six zones (Zones I to VI) for organizing local cadres in public services."
+  },
+  {
+    "id": "P4_BAS_025",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of introducing the Six-Point Formula in Andhra Pradesh?",
+    "te": "ఆంధ్రప్రదేశ్‌లో ఆరు సూత్రాల పథకాన్ని ప్రవేశపెట్టడానికి ప్రధాన ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "Creation of a separate Telangana state",
+      "Abolition of the Mulki rules permanently",
+      "Accelerated development of backward areas and equitable employment opportunities",
+      "Privatization of all government sectors"
+    ],
+    "ans": 2,
+    "exp": "The Six-Point Formula aimed at accelerated development of backward areas of the state and providing equitable opportunities to different areas in matters of education and employment."
+  },
+  {
+    "id": "P4_BAS_026",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of G.O. 610 issued in 1985?",
+    "te": "1985 లో జారీ చేయబడిన జి.ఓ. 610 యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To correct the violations in the implementation of the Presidential Order regarding local employment",
+      "To nationalize private lands in Telangana",
+      "To establish a separate police force for the region",
+      "To distribute funds equally among all districts"
+    ],
+    "ans": 0,
+    "exp": "G.O. 610 was issued to rectify irregularities and violations in the employment of non-locals in local cadre posts in Telangana, in violation of the 1975 Presidential Order."
+  },
+  {
+    "id": "P4_BAS_027",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "Who headed the committee appointed by the Government of Andhra Pradesh in 2001 to review the implementation of G.O. 610?",
+    "te": "జి.ఓ. 610 అమలును సమీక్షించడానికి 2001 లో ఆంధ్రప్రదేశ్ ప్రభుత్వం నియమించిన కమిటీకి అధ్యక్షత వహించిన వారు ఎవరు?",
+    "opts": [
+      "Sundaresan",
+      "Jayabharath Reddy",
+      "Girglani",
+      "J.M. LingDoh"
+    ],
+    "ans": 1,
+    "exp": "The Jayabharath Reddy Committee was constituted to examine the implementation of G.O. 610 and identify the extent of violations."
+  },
+  {
+    "id": "P4_BAS_028",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "The Sundaresan Committee was primarily associated with reviewing employment issues and irregularities in which sector?",
+    "te": "సుందరేశన్ కమిటీ ప్రధానంగా ఏ రంగంలో ఉద్యోగ సమస్యలు మరియు అక్రమాలను సమీక్షించడంతో సంబంధం కలిగి ఉంది?",
+    "opts": [
+      "Agriculture and Irrigation",
+      "Public Sector Undertakings and Government Corporations",
+      "Primary Education",
+      "Cooperative Banks"
+    ],
+    "ans": 1,
+    "exp": "The Sundaresan Committee was appointed to study the employment of non-locals in Public Sector Undertakings (PSUs), corporations, and autonomous bodies in the state."
+  },
+  {
+    "id": "P4_BAS_029",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "In which year did the historic Srikakulam Peasant Uprising and the rise of the Naxalite movement take place in Andhra Pradesh?",
+    "te": "ఆంధ్రప్రదేశ్‌లో చారిత్రాత్మక శ్రీకాకుళం రైతా్రా పోరాటం మరియు నక్సలైట్ ఉద్యమ ఆవిర్భావం ఏ సంవత్సరంలో జరిగింది?",
+    "opts": [
+      "1946-48",
+      "1968-69",
+      "1952-54",
+      "1980-82"
+    ],
+    "ans": 1,
+    "exp": "The Naxalite movement gained significant momentum with the Srikakulam peasant uprising in the late 1960s, specifically around 1968-69."
+  },
+  {
+    "id": "P4_BAS_030",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "What was the main grievance highlighted by the Jayabharath Reddy Committee report regarding Telangana employees?",
+    "te": "తెలంగాణ ఉద్యోగులకు సంబంధించి జయభారత్ రెడ్డి కమిటీ నివేదిక వెల్లడించిన ప్రధాన సమస్య ఏమిటి?",
+    "opts": [
+      "Low salaries compared to other states",
+      "Massive usurpation of local jobs by non-locals",
+      "Lack of promotional opportunities in the private sector",
+      "Excessive working hours"
+    ],
+    "ans": 1,
+    "exp": "The Jayabharath Reddy Committee report revealed that thousands of local government jobs meant for Telangana people were occupied by non-locals, violating the Presidential Order."
+  },
+  {
+    "id": "P4_BAS_031",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Which of the following cultural and folk festivals was promoted as a symbol of Telangana's feminine identity and state festival?",
+    "te": "కింది వాటిలో తెలంగాణ స్త్రీల ఆత్మగౌరవానికి మరియు రాష్ట్ర పండుగగా ఏ సాంస్కృతిక మరియు జానపద ఉత్సవాన్ని ప్రోత్సహించారు?",
+    "opts": [
+      "Bonalu",
+      "Bathukamma",
+      "Sammakka Saralamma Jatara",
+      "Ugadi"
+    ],
+    "ans": 1,
+    "exp": "Bathukamma is celebrated as the state festival of Telangana, representing the cultural spirit and feminine identity of the region."
+  },
+  {
+    "id": "P4_BAS_032",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "What was the name of the cultural organization formed by Gaddar and other artists that played a key role in the Telangana movement through songs and dance?",
+    "te": "తెలంగాణ ఉద్యమంలో పాటలు మరియు నృత్యాల ద్వారా కీలక పాత్ర పోషించిన గద్దర్ మరియు ఇతర కళాకారులు ఏర్పాటు చేసిన సాంస్కృతిక సంస్థ పేరు ఏమిటి?",
+    "opts": [
+      "Praja Natya Mandali",
+      "Telangana Kala Samithi",
+      "Golla Bhamma",
+      "Telangana Dhoom Dhaam"
+    ],
+    "ans": 3,
+    "exp": "Telangana Dhoom Dhaam was a prominent cultural platform that used folk songs, dance, and art to spread awareness about the Telangana movement."
+  },
+  {
+    "id": "P4_BAS_033",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Bonalu is a traditional folk festival dedicated to which deity, celebrated during the Hindu calendar month of Ashada?",
+    "te": "హిందూ క్యాలెండర్ ప్రకారం ఆషాడ మాసంలో జరుపుకునే బోనాలు పండుగ ఏ దేవతకు అంకితం చేయబడిన సాంప్రదాయ జానపద ఉత్సవం?",
+    "opts": [
+      "Goddess Durga",
+      "Goddess Mahankali",
+      "Goddess Lakshmi",
+      "Goddess Saraswati"
+    ],
+    "ans": 1,
+    "exp": "Bonalu is an annual traditional festival of Telangana dedicated to Goddess Mahankali, celebrated majorly in Hyderabad and Secunderabad."
+  },
+  {
+    "id": "P4_BAS_034",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Who wrote the famous Telangana movement song 'Jai Telangana, Jai Jai Telangana'?",
+    "te": "ప్రసిద్ధ తెలంగాణ ఉద్యమ గీతం 'జై తెలంగాణ, జై జై తెలంగాణ' ఎవరు రాశారు?",
+    "opts": [
+      "Gorati Venkanna",
+      "Ande Sri",
+      "Gaddar",
+      "Namoori Sadanandam"
+    ],
+    "ans": 1,
+    "exp": "Ande Sri is a renowned poet and lyricist who wrote 'Jai Telangana, Jai Jai Telangana', which later became the state song (Jeya Geetam) of Telangana."
+  },
+  {
+    "id": "P4_BAS_035",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Which prominent poet and writer penned the famous folk song 'Palle Kanneeru Peduthundhi' depicting the plight of Telangana villages?",
+    "te": "తెలంగాణ గ్రామాల దుస్థితిని వర్ణిస్తూ 'పల్లె కన్నీరు పెడుతుందోయ్' అనే ప్రసిద్ధ జానపద గేయాన్ని రచించిన ప్రముఖ కవి మరియు రచయిత ఎవరు?",
+    "opts": [
+      "Gudeppa Mallaiah",
+      "Belli Lalitha",
+      "Gorati Venkanna",
+      "Vimalakka"
+    ],
+    "ans": 2,
+    "exp": "Gorati Venkanna wrote the poignant folk song 'Palle Kanneeru Peduthundhi', which highlighted the socio-economic backwardness and struggles of Telangana villages."
+  },
+  {
+    "id": "P4_BAS_036",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "In which year was the Telangana Rashtra Samithi (TRS) officially founded?",
+    "te": "తెలంగాణ రాష్ట్ర సమితి (TRS) అధికారికంగా ఏ సంవత్సరంలో స్థాపించబడింది?",
+    "opts": [
+      "1999",
+      "2000",
+      "2001",
+      "2004"
+    ],
+    "ans": 2,
+    "exp": "TRS was founded by K. Chandrashekar Rao on April 27, 2001, at Jalagam Vengal Rao Park in Hyderabad with the single agenda of achieving a separate Telangana state."
+  },
+  {
+    "id": "P4_BAS_037",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Who among the following founded the Telangana Jana Sabha in 1997?",
+    "te": "క్రింది వారిలో 1997 లో తెలంగాణ జనసభను ఎవరు స్థాపించారు?",
+    "opts": [
+      "K. Chandrashekar Rao",
+      "Prof. Jayashankar",
+      "Gaddar",
+      "Bonaiah"
+    ],
+    "ans": 1,
+    "exp": "Telangana Jana Sabha was formed in 1997 under the leadership of Prof. Jayashankar and other intellectuals to propagate the ideology of separate statehood."
+  },
+  {
+    "id": "P4_BAS_038",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "The famous Warangal Declaration, which outlined the political and socio-economic aspirations for a separate Telangana, was adopted in which year?",
+    "te": "ప్రత్యేక తెలంగాణ రాజకీయ మరియు సామాజిక-ఆర్థిక ఆకాంక్షలను వివరించిన ప్రసిద్ధ వరంగల్ డిక్లరేషన్ ఏ సంవత్సరంలో ఆమోదించబడింది?",
+    "opts": [
+      "1997",
+      "1999",
+      "2001",
+      "2003"
+    ],
+    "ans": 0,
+    "exp": "The Warangal Declaration was adopted in 1997 by various peoples' organizations, highlighting the internal colonialism and demanding a separate state."
+  },
+  {
+    "id": "P4_BAS_039",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Who resigned from the post of Deputy Speaker of the AP Legislative Assembly and TDP in 2001 to launch the TRS party?",
+    "te": "TRS పార్టీని ప్రారంభించడానికి 2001 లో ఆంధ్రప్రదేశ్ శాసనసభ డిప్యూటీ స్పీకర్ మరియు TDP పదవికి ఎవరు రాజీనామా చేశారు?",
+    "opts": [
+      "T. Harish Rao",
+      "K. Chandrashekar Rao",
+      "Etela Rajender",
+      "N. Nayani Narasimha Reddy"
+    ],
+    "ans": 1,
+    "exp": "K. Chandrashekar Rao resigned from TDP and the Deputy Speaker post in 2001 due to the party's inaction on Telangana and subsequently launched TRS."
+  },
+  {
+    "id": "P4_BAS_040",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Where was the first plenary meeting of the Telangana Rashtra Samithi held in 2001?",
+    "te": "2001 లో తెలంగాణ రాష్ట్ర సమితి మొదటి ప్లీనరీ సమావేశం ఎక్కడ జరిగింది?",
+    "opts": [
+      "Hyderabad",
+      "Karimnagar",
+      "Warangal",
+      "Nizamabad"
+    ],
+    "ans": 1,
+    "exp": "The first historic public meeting and plenary of TRS was held in Karimnagar on May 17, 2001, which marked the beginning of the second phase of the Telangana movement."
+  },
+  {
+    "id": "P4_BAS_041",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of the Sakala Janula Samme (All People's Strike) during the Telangana movement?",
+    "te": "తెలంగాణ ఉద్యమ సమయంలో సకల జనుల సమ్మె యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To demand higher salaries for government employees / ప్రభుత్వ ఉద్యోగులకు ఎక్కువ జీతాలు డిమాండ్ చేయడం",
+      "To paralyze the government administration and press for a separate Telangana state / ప్రభుత్వ యంత్రాన్ని స్తంభింపజేసి ప్రత్యేక తెలంగాణ రాష్ట్రం కోసం ఒత్తిడి చేయడం",
+      "To protest against power tariff hikes / విద్యుత్ ఛార్జీల పెంపునకు నిరసనగా",
+      "To boycott the elections / ఎన్నికలను బహిష్కరించడానికి"
+    ],
+    "ans": 1,
+    "exp": "Sakala Janula Samme was a massive 42-day strike involving all sections of society to paralyze the government and achieve Telangana statehood. / సకల జనుల సమ్మె అనేది ప్రభుత్వాన్ని స్తంభింపజేసి తెలంగాణ రాష్ట్ర సాధన కోసం సమాజంలోని అన్ని వర్గాలు పాల్గొన్న భారీ 42 రోజుల సమ్మె."
+  },
+  {
+    "id": "P4_BAS_042",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagra Haram",
+    "difficulty": "Basic",
+    "en": "Along the banks of which water body was the 'Million March' organized in Hyderabad?",
+    "te": "హైదరాబాద్‌లో 'మిలియన్ మార్చ్' ఏ జలవనరు తీరంలో నిర్వహించబడింది?",
+    "opts": [
+      "Hussain Sagar / హుస్సేన్ సాగర్",
+      "Osman Sagar / ఉస్మాన్ సాగర్",
+      "Himayat Sagar / హిమాయత్ సాగర్",
+      "Mir Alam Tank / మీర్ ఆలం ట్యాంక్"
+    ],
+    "ans": 0,
+    "exp": "The Million March was organized on March 10, 2011, along the banks of Hussain Sagar in Hyderabad, inspired by the Egyptian revolution. / ఈజిప్షియన్ విప్లవం స్ఫూర్తితో మార్చి 10, 2011న హైదరాబాద్‌లోని హుస్సేన్ సాగర్ తీరంలో మిలియన్ మార్చ్ నిర్వహించబడింది."
+  },
+  {
+    "id": "P4_BAS_043",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "What was the main purpose of the 'Sagara Haram' program?",
+    "te": "'సాగర హారం' కార్యక్రమం యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To clean Hussain Sagar lake / హుస్సేన్ సాగర్ సరస్సును శుభ్రపరచడం",
+      "To form a human chain around Hussain Sagar demanding Telangana state / తెలంగాణ రాష్ట్రం డిమాండ్ చేస్తూ హుస్సేన్ సాగర్ చుట్టూ మానవ హారంగా ఏర్పడటం",
+      "To protest against irrigation projects / సాగునీటి ప్రాజెక్టులకు వ్యతిరేకంగా నిరసన తెలపడం",
+      "To organize a fish festival / చేపల ఉత్సవాన్ని నిర్వహించడం"
+    ],
+    "ans": 1,
+    "exp": "Sagara Haram was organized in September 2012 as a massive human chain program around Hussain Sagar to press for the formation of Telangana. / తెలంగాణ ఏర్పాటును కోరుతూ హుస్సేన్ సాగర్ చుట్టూ భారీ మానవ హారంగా సెప్టెంబర్ 2012లో సాగర హారం నిర్వహించబడింది."
+  },
+  {
+    "id": "P4_BAS_044",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "When was the Telangana Rashtra Samithi (TRS) political party founded to achieve separate statehood?",
+    "te": "ప్రత్యేక రాష్ట్ర సాధన కోసం తెలంగాణ రాష్ట్ర సమితి (TRS) రాజకీయ పార్టీ ఎప్పుడు స్థాపించబడింది?",
+    "opts": [
+      "1999",
+      "2001",
+      "2004",
+      "2009"
+    ],
+    "ans": 1,
+    "exp": "TRS was founded by K. Chandrashekar Rao on April 27, 2001, at Jalagam Vengal Rao (JVR) Park in Hyderabad. / కే. చంద్రశేఖర రావు ఏప్రిల్ 27, 2001న హైదరాబాద్‌లోని జలగం వెంగళరావు (JVR) పార్కులో TRS పార్టీని స్థాపించారు."
+  },
+  {
+    "id": "P4_BAS_045",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "Which of the following mass organizations played a crucial role in mobilizing cultural and public support during the Telangana movement?",
+    "te": "తెలంగాణ ఉద్యమ సమయంలో సాంస్కృతిక మరియు ప్రజా మద్దతును సమీకరించడంలో క్రింది వాటిలో ఏ ప్రజా సంఘం కీలక పాత్ర పోషించింది?",
+    "opts": [
+      "Telangana Boggu Ghani Karmika Sangham (TBGKS) / తెలంగాణ బొగ్గు గని కార్మిక సంఘం",
+      "Telangana Praja Front (TPF) / తెలంగాణ ప్రజా ఫ్రంట్",
+      "Telangana Vidyarthi Vedika (TVV) / తెలంగాణ విద్యార్థి వేదిక",
+      "All of the above / పైవన్నీ"
+    ],
+    "ans": 3,
+    "exp": "Various cultural groups, student unions, and employee associations like TBGKS, TPF, and TVV played a massive role in mass mobilization. / TBGKS, TPF, మరియు TVV వంటి వివిధ సాంస్కృతిక సమూహాలు, విద్యార్థి సంఘాలు మరియు ఉద్యోగుల సంఘాలు ప్రజా సమీకరణలో భారీ పాత్ర పోషించాయి."
+  },
+  {
+    "id": "P4_BAS_046",
+    "paper": "Paper-IV",
+    "topic": "Fast unto Death by KCR (2009), Joint Action Committees (JACs), Srikrishna Committee Report",
+    "difficulty": "Basic",
+    "en": "In which year did K. Chandrashekar Rao (KCR) undertake his historic 'Fast unto Death' demanding the formation of a separate Telangana state?",
+    "te": "ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటును కోరుతూ కె. చంద్రశేఖర రావు (కెసిఆర్) ఏ సంవత్సరంలో చారిత్రాత్మక 'ఆమరణ నిరాహార దీక్ష' చేపట్టారు?",
+    "opts": [
+      "2001",
+      "2009",
+      "2010",
+      "2014"
+    ],
+    "ans": 1,
+    "exp": "KCR launched his fast-unto-death on November 29, 2009, at Alugunur in Karimnagar district, which acted as a major turning point in the Telangana movement."
+  },
+  {
+    "id": "P4_BAS_047",
+    "paper": "Paper-IV",
+    "topic": "Fast unto Death by KCR (2009), Joint Action Committees (JACs), Srikrishna Committee Report",
+    "difficulty": "Basic",
+    "en": "What was the primary purpose of forming the Joint Action Committee (JAC) during the 2009-2010 Telangana movement?",
+    "te": "2009-2010 తెలంగాణ ఉద్యమ కాలంలో జేఏసీ (ఉమ్మడి కార్యాచరణ కమిటీ) ఏర్పాటు వెనుక ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To conduct business summits",
+      "To unite various sections, parties, and organizations for the Telangana statehood demand",
+      "To manage elections in the region",
+      "To draft the state budget"
+    ],
+    "ans": 1,
+    "exp": "JACs (such as the Political JAC and Student JAC) were formed to bring together political parties, students, employees, and various organizations onto a single platform to intensify the agitation."
+  },
+  {
+    "id": "P4_BAS_048",
+    "paper": "Paper-IV",
+    "topic": "Fast unto Death by KCR (2009), Joint Action Committees (JACs), Srikrishna Committee Report",
+    "difficulty": "Basic",
+    "en": "Who was the chairman of the Committee for Consultations on the Situation in Andhra Pradesh (popularly known as the Srikrishna Committee)?",
+    "te": "ఆంధ్రప్రదేశ్ పరిస్థితిపై సంప్రదింపుల కమిటీ (సాధారణంగా శ్రీకృష్ణ కమిటీ అని పిలుస్తారు) అధ్యక్షులు ఎవరు?",
+    "opts": [
+      "Justice B.N. Srikrishna",
+      "Justice A.P. Shah",
+      "Justice J.S. Verma",
+      "Justice R.M. Lodha"
+    ],
+    "ans": 0,
+    "exp": "Justice B.N. Srikrishna headed the five-member committee appointed by the Government of India in February 2010 to look into the demand for a separate Telangana state."
+  },
+  {
+    "id": "P4_BAS_049",
+    "paper": "Paper-IV",
+    "topic": "Fast unto Death by KCR (2009), Joint Action Committees (JACs), Srikrishna Committee Report",
+    "difficulty": "Basic",
+    "en": "In which month and year was the Srikrishna Committee report officially submitted to the Central Government?",
+    "te": "శ్రీకృష్ణ కమిటీ నివేదికను ఏ నెల మరియు సంవత్సరంలో అధికారికంగా కేంద్ర ప్రభుత్వానికి సమర్పించారు?",
+    "opts": [
+      "December 2009",
+      "December 2010",
+      "January 2011",
+      "February 2014"
+    ],
+    "ans": 1,
+    "exp": "The Srikrishna Committee submitted its comprehensive report on the Telangana issue to the Union Ministry of Home Affairs on December 30, 2010."
+  },
+  {
+    "id": "P4_BAS_050",
+    "paper": "Paper-IV",
+    "topic": "Fast unto Death by KCR (2009), Joint Action Committees (JACs), Srikrishna Committee Report",
+    "difficulty": "Basic",
+    "en": "Following the intense agitation and KCR's fast unto death, which historical announcement was made by Union Home Minister P. Chidambaram on December 9, 2009?",
+    "te": "తీవ్రమైన ఉద్యమం మరియు కెసిఆర్ ఆమరణ నిరాహార దీక్ష నేపథ్యంలో, డిసెంబర్ 9, 2009న కేంద్ర హోంమంత్రి పి. చిదంబరం ఏ చారిత్రాత్మక ప్రకటన చేశారు?",
+    "opts": [
+      "Initiation of the process for the formation of a separate Telangana state",
+      "Creation of a new railway zone",
+      "Implementation of six-point formula",
+      "Dissolution of the state assembly"
+    ],
+    "ans": 0,
+    "exp": "On December 9, 2009, the Government of India announced that the process for forming a separate Telangana state would be initiated, following KCR's fast-unto-death."
+  },
+  {
+    "id": "P4_BAS_051",
+    "paper": "Paper-IV",
+    "topic": "Parliamentary Process and Passage of Andhra Pradesh Reorganisation Act, 2014",
+    "difficulty": "Basic",
+    "en": "In which year was the Andhra Pradesh Reorganisation Bill passed by the Indian Parliament?",
+    "te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ బిల్లును భారత పార్లమెంటు ఏ సంవత్సరంలో ఆమోదించింది?",
+    "opts": [
+      "2012",
+      "2013",
+      "2014",
+      "2015"
+    ],
+    "ans": 2,
+    "exp": "The Andhra Pradesh Reorganisation Act, 2014 was passed by Parliament in February 2014 to carve out the separate state of Telangana."
+  },
+  {
+    "id": "P4_BAS_052",
+    "paper": "Paper-IV",
+    "topic": "Parliamentary Process and Passage of Andhra Pradesh Reorganisation Act, 2014",
+    "difficulty": "Basic",
+    "en": "Which house of the Indian Parliament first introduced the Andhra Pradesh Reorganisation Bill, 2014?",
+    "te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ బిల్లు, 2014 ను భారత పార్లమెంటులో ఏ సభలో మొదట ప్రవేశపెట్టారు?",
+    "opts": [
+      "Lok Sabha (లోక్ సభ)",
+      "Rajya Sabha (రాజ్యసభ)",
+      "Both houses simultaneously (రెండు సభలలో ఏకకాలంలో)",
+      "State Legislative Assembly (రాష్ట్ర శాసనసభ)"
+    ],
+    "ans": 0,
+    "exp": "The Andhra Pradesh Reorganisation Bill was first introduced in the Lok Sabha on 13 February 2014."
+  },
+  {
+    "id": "P4_BAS_053",
+    "paper": "Paper-IV",
+    "topic": "Parliamentary Process and Passage of Andhra Pradesh Reorganisation Act, 2014",
+    "difficulty": "Basic",
+    "en": "Who was the President of India when the Andhra Pradesh Reorganisation Act received assent?",
+    "te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టానికి రాష్ట్రపతి ఆమోదం లభించిన సమయంలో భారత రాష్ట్రపతి ఎవరు?",
+    "opts": [
+      "Pratibha Patil (ప్రతిభా పాటిల్)",
+      "Pranab Mukherjee (ప్రణబ్ ముఖర్జీ)",
+      "A. P. J. Abdul Kalam (ఎ.పి.జె. అబ్దుల్ కలామ్)",
+      "Ram Nath Kovind (రామ్ నాథ్ కోవింద్)"
+    ],
+    "ans": 1,
+    "exp": "Pranab Mukherjee was the President of India who gave his assent to the Andhra Pradesh Reorganisation Bill on 1 March 2014."
+  },
+  {
+    "id": "P4_BAS_054",
+    "paper": "Paper-IV",
+    "topic": "Parliamentary Process and Passage of Andhra Pradesh Reorganisation Act, 2014",
+    "difficulty": "Basic",
+    "en": "What was the appointed date (effective date) for the formation of the new state of Telangana as per the Act?",
+    "te": "చట్టం ప్రకారం కొత్త తెలంగాణ రాష్ట్ర ఏర్పాటుకు నిర్దేశించిన తేదీ (అపాయింటెడ్ డేట్) ఏది?",
+    "opts": [
+      "26 January 2014",
+      "14 February 2014",
+      "1 June 2014",
+      "2 June 2014"
+    ],
+    "ans": 3,
+    "exp": "June 2, 2014, was officially declared as the Appointed Day for the formation of the state of Telangana."
+  },
+  {
+    "id": "P4_BAS_055",
+    "paper": "Paper-IV",
+    "topic": "Parliamentary Process and Passage of Andhra Pradesh Reorganisation Act, 2014",
+    "difficulty": "Basic",
+    "en": "Under which Article of the Indian Constitution was the Andhra Pradesh Reorganisation Bill introduced to form a new state?",
+    "te": "కొత్త రాష్ట్ర ఏర్పాటు కోసం ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ బిల్లును భారత రాజ్యాంగంలోని ఏ ఆర్టికల్ కింద ప్రవేశపెట్టారు?",
+    "opts": [
+      "Article 2 (ఆర్టికల్ 2)",
+      "Article 3 (ఆర్టికల్ 3)",
+      "Article 368 (ఆర్టికల్ 368)",
+      "Article 356 (ఆర్టికల్ 356)"
+    ],
+    "ans": 1,
+    "exp": "Article 3 of the Indian Constitution empowers Parliament to form new states by separation of territory from any state."
+  },
+  {
+    "id": "P4_BAS_056",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "Who was the ruler of Hyderabad State during the integration of Hyderabad into the Indian Union in 1948?",
+    "te": "1948 లో హైదరాబాద్ రాష్ట్రం భారత Union లో విలీనమైనప్పుడు హైదరాబాద్ రాజ్యానికి పాలకుడు ఎవరు?",
+    "opts": [
+      "Mir Mahbub Ali Khan",
+      "Mir Osman Ali Khan",
+      "Salar Jung I",
+      "Nizam Ali Khan"
+    ],
+    "ans": 1,
+    "exp": "Mir Osman Ali Khan was the last Nizam who ruled Hyderabad State until its integration in 1948 through Operation Polo."
+  },
+  {
+    "id": "P4_BAS_057",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of the Mulki Rules in the erstwhile Hyderabad State?",
+    "te": "పూర్వపు హైదరాబాద్ రాష్ట్రంలో ముల్కీ నిబంధనల యొక్క ప్రాథమిక ఉద్దేశం ఏమిటి?",
+    "opts": [
+      "To promote foreign trade",
+      "To protect the employment rights of locals",
+      "To collect land revenue",
+      "To abolish the Jagirdari system"
+    ],
+    "ans": 1,
+    "exp": "Mulki Rules were enacted to protect the employment and educational opportunities of the local people (Mulkis) of Hyderabad State against outsiders."
+  },
+  {
+    "id": "P4_BAS_058",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "In which year was the famous Farmana issued by Mir Osman Ali Khan defining a 'Mulki'?",
+    "te": "'ముల్కీ'ని నిర్వచించి మీర్ ఉస్మాన్ అలీ ఖాన్ ప్రసిద్ధ ఫర్మానాను ఏ సంవత్సరంలో జారీ చేశారు?",
+    "opts": [
+      "1911",
+      "1919",
+      "1935",
+      "1948"
+    ],
+    "ans": 1,
+    "exp": "The 1919 Farmana issued by Nizam Mir Osman Ali Khan clearly defined who qualified as a Mulki (local resident) in Hyderabad State."
+  },
+  {
+    "id": "P4_BAS_059",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "According to the 1919 Farmana, how many years of continuous residence in Hyderabad State was required to be classified as a Mulki?",
+    "te": "1919 ఫర్మానా ప్రకారం, ముల్కీగా వర్గీకరించబడటానికి హైదరాబాద్ రాష్ట్రంలో ఎన్ని సంవత్సరాలు నిరంతరం నివసించాలి?",
+    "opts": [
+      "5 years",
+      "10 years",
+      "12 years",
+      "15 years"
+    ],
+    "ans": 2,
+    "exp": "According to the 1919 Farmana, a person had to reside continuously in Hyderabad State for a minimum of 15 years (later often associated with 12-15 years criteria as per specific circulars) or born there to be a Mulki."
+  },
+  {
+    "id": "P4_BAS_060",
+    "paper": "Paper-IV",
+    "topic": "Idea of Telangana (1948-1970): Hyderabad State under Mir Osman Ali Khan, Mulki Rules, 1919 Farmana",
+    "difficulty": "Basic",
+    "en": "Mir Osman Ali Khan was the ________ Nizam of Hyderabad.",
+    "te": "మీర్ ఉస్మాన్ అలీ ఖాన్ హైదరాబాద్ యొక్క ________ వ నిజామ్.",
+    "opts": [
+      "5th",
+      "7th",
+      "9th",
+      "11th"
+    ],
+    "ans": 1,
+    "exp": "Mir Osman Ali Khan Bahadur was the seventh and last Nizam of Hyderabad State, ruling from 1911 to 1948."
+  },
+  {
+    "id": "P4_BAS_061",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "What was the code name given to the military operation launched by the Government of India to annex Hyderabad State in 1948?",
+    "te": "1948 లో హైదరాబాద్‌ సంస్థానాన్ని విలీనం చేయడానికి భారత ప్రభుత్వం నిర్వహించిన సైనిక చర్యకు ఏ పేరు పెట్టారు?",
+    "opts": [
+      "Operation Polo",
+      "Operation Vijay",
+      "Operation Blue Star",
+      "Operation Meghdoot"
+    ],
+    "ans": 0,
+    "exp": "Operation Polo was the military action code name in September 1948 by which the Indian Army annexed the Hyderabad State."
+  },
+  {
+    "id": "P4_BAS_062",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "Who served as the Military Governor of Hyderabad immediately after the Police Action in 1948?",
+    "te": "1948లో పోలీస్ చర్య తర్వాత హైదరాబాద్ మొదటి సైనిక గవర్నర్‌గా ఎవరు నియమితులయ్యారు?",
+    "opts": [
+      "M.K. Vellodi",
+      "J.N. Chaudhuri",
+      "Burgula Ramakrishna Rao",
+      "Nawab Ali Yavar Jung"
+    ],
+    "ans": 1,
+    "exp": "Major General J.N. Chaudhuri served as the Military Governor of Hyderabad from September 1948 to December 1949."
+  },
+  {
+    "id": "P4_BAS_063",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "Who was appointed as the first Chief Minister (Civil Administrator) of Hyderabad State under the M.K. Vellodi civilian administration in 1950?",
+    "te": "1950 లో ఎం.కె. వెళ్లాడి పౌర పాలన కింద హైదరాబాద్ రాష్ట్రానికి మొదటి ముఖ్యమంత్రిగా (సివిల్ అడ్మినిస్ట్రేటర్) ఎవరు నియమితులయ్యారు?",
+    "opts": [
+      "Burgula Ramakrishna Rao",
+      "M.K. Vellodi",
+      "Swami Ramanand Tirth",
+      "Dr. M. Chenna Reddy"
+    ],
+    "ans": 1,
+    "exp": "M.K. Vellodi was appointed as the Chief Minister of Hyderabad State heading the civil administration from January 1950 to March 1952."
+  },
+  {
+    "id": "P4_BAS_064",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "In which year did the famous 'Mulki Agitation' erupt in the Hyderabad State?",
+    "te": "హైదరాబాద్ రాష్ట్రంలో ప్రసిద్ధమైన 'ముల్కీ ఉద్యమం' ఏ సంవత్సరంలో చెలరేగింది?",
+    "opts": [
+      "1948",
+      "1950",
+      "1952",
+      "1956"
+    ],
+    "ans": 2,
+    "exp": "The 1952 Mulki Agitation was a major protest in Hyderabad State against the influx of non-mulkis (outsiders) into local jobs."
+  },
+  {
+    "id": "P4_BAS_065",
+    "paper": "Paper-IV",
+    "topic": "Police Action (1948), Military Rule (JN Chaudhuri), Civil Administration (MK Vellodi), 1952 Mulki Agitation",
+    "difficulty": "Basic",
+    "en": "The 1952 Mulki Agitation primarily originated from which educational institution in Hyderabad?",
+    "te": "1952 నాటి ముల్కీ ఉద్యమం ప్రధానంగా హైదరాబాద్‌లోని ఏ విద్యా సంస్థ నుండి ప్రారంభమైంది?",
+    "opts": [
+      "Osmania University",
+      "City College",
+      "Nizam College",
+      "Dar-us-Shifa High School"
+    ],
+    "ans": 1,
+    "exp": "The 1952 Mulki agitation ignited intensely from the City College incident in Hyderabad, resulting in police firing and student casualties."
+  },
+  {
+    "id": "P4_BAS_066",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "Who was the Chairman of the States Reorganisation Commission (SRC) appointed in 1953?",
+    "te": "1953 లో నియమించబడిన రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) అధ్యక్షులు ఎవరు?",
+    "opts": [
+      "Fazal Ali",
+      "K.M. Panikkar",
+      "H.N. Kunzru",
+      "Jawaharlal Nehru"
+    ],
+    "ans": 0,
+    "exp": "Fazal Ali was the Chairman of the States Reorganisation Commission, with K.M. Panikkar and H.N. Kunzru as members."
+  },
+  {
+    "id": "P4_BAS_067",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "What was the main recommendation of the States Reorganisation Commission (SRC) regarding the Hyderabad State?",
+    "te": "హైదరాబాద్ రాష్ట్రం గురించి రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) యొక్క ప్రధాన సిఫార్సు ఏమిటి?",
+    "opts": [
+      "To retain Hyderabad as a separate permanent state",
+      "To merge Hyderabad with Andhra State immediately",
+      "To dismember Hyderabad State and merge Telugu-speaking areas with Andhra State",
+      "To merge Hyderabad entirely with Bombay State"
+    ],
+    "ans": 2,
+    "exp": "The SRC recommended the dismemberment of Hyderabad State and the merger of its Telugu-speaking region (Telangana) with the Andhra State, keeping it separate temporarily."
+  },
+  {
+    "id": "P4_BAS_068",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "On which date was the Gentlemen's Agreement signed?",
+    "te": "పెద్దమనుషుల ఒప్పందం ఏ తేదీన సంతకం చేయబడింది?",
+    "opts": [
+      "February 20, 1956",
+      "November 1, 1956",
+      "January 26, 1956",
+      "August 15, 1956"
+    ],
+    "ans": 0,
+    "exp": "The Gentlemen's Agreement was signed on February 20, 1956, at Hyderabad House in New Delhi by leaders of Telangana and Andhra regions."
+  },
+  {
+    "id": "P4_BAS_069",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "How many points were there in the Gentlemen's Agreement of 1956 to safeguard the interests of Telangana?",
+    "te": "తెలంగాణ ప్రయోజనాలను పరిరక్షించడానికి 1956 పెద్దమనుషుల ఒప్పందంలో ఎన్ని అంశాలు ఉన్నాయి?",
+    "opts": [
+      "10 points",
+      "8 points",
+      "14 points",
+      "6 points"
+    ],
+    "ans": 1,
+    "exp": "The Gentlemen's Agreement consisted of 14 points covering safeguards related to education, employment, revenue, and governance for Telangana."
+  },
+  {
+    "id": "P4_BAS_070",
+    "paper": "Paper-IV",
+    "topic": "States Reorganisation Commission (SRC) Recommendations and Gentlemen's Agreement (1956)",
+    "difficulty": "Basic",
+    "en": "Who among the following leaders signed the Gentlemen's Agreement representing the Telangana region?",
+    "te": "కింది నాయకులలో తెలంగాణ ప్రాంతం తరపున పెద్దమనుషుల ఒప్పందంపై సంతకం చేసిన వారు ఎవరు?",
+    "opts": [
+      "Bezawada Gopala Reddy",
+      "Neelam Sanjiva Reddy",
+      "Burgula Ramakrishna Rao",
+      "Burugula Ramakrishna Rao did not sign, leaders were K.V. Ranga Reddy and Dr. M. Chenna Reddy"
+    ],
+    "ans": 3,
+    "exp": "The signatories from Telangana were B. Rama Krishna Rao, K.V. Ranga Reddy, Dr. M. Chenna Reddy, and J.V. Narsing Rao."
+  },
+  {
+    "id": "P4_BAS_071",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "In which year did the major open agitation for a separate Telangana state erupt?",
+    "te": "ప్రత్యేక తెలంగాణ రాష్ట్రం కోసం పెద్దఎత్తున బహిరంగ ఉద్యమం ఏ సంవత్సరంలో చెలరేగింది?",
+    "opts": [
+      "1956",
+      "1969",
+      "1972",
+      "2001"
+    ],
+    "ans": 1,
+    "exp": "The 1969 Telangana agitation erupted as a major movement protesting the violation of safeguards and job opportunities for locals."
+  },
+  {
+    "id": "P4_BAS_072",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "What does TPS stand for in the context of the 1969 Telangana movement?",
+    "te": "1969 తెలంగాణ ఉద్యమ సందర్భంలో TPS అనగా ఏమి?",
+    "opts": [
+      "Telangana Praja Samithi",
+      "Telangana Political Struggle",
+      "Telangana People's Secretariat",
+      "Telangana Parishad Samithi"
+    ],
+    "ans": 0,
+    "exp": "TPS stands for Telangana Praja Samithi, which spearheaded the 1969 agitation."
+  },
+  {
+    "id": "P4_BAS_073",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "The Gentlemen's Agreement was signed in which year to protect the interests of Telangana?",
+    "te": "తెలంగాణ ప్రయోజనాలను పరిరక్షించడానికి పెద్దమనుషుల ఒప్పందం ఏ సంవత్సరంలో కుదిరింది?",
+    "opts": [
+      "1950",
+      "1952",
+      "1956",
+      "1969"
+    ],
+    "ans": 2,
+    "exp": "The Gentlemen's Agreement was signed on February 20, 1956, preceding the formation of Andhra Pradesh."
+  },
+  {
+    "id": "P4_BAS_074",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "Which of the following was a primary grievance during the 1969 Telangana agitation?",
+    "te": "1969 తెలంగాణ ఉద్యమ సమయంలో క్రింది వాటిలో ప్రధానమైన ఆందోళన ఏమిటి?",
+    "opts": [
+      "Surplus revenue diversion and employment violations",
+      "Lack of coastal line",
+      "Language policy disputes",
+      "Agricultural taxation"
+    ],
+    "ans": 0,
+    "exp": "The diversion of Telangana surpluses and non-implementation of employment safeguards for locals were core grievances."
+  },
+  {
+    "id": "P4_BAS_075",
+    "paper": "Paper-IV",
+    "topic": "Violation of Safeguards, Emergence of 1969 Telangana Agitation, TPS and Eight-Point/Five-Point Formulas",
+    "difficulty": "Basic",
+    "en": "The Eight-Point Formula was announced by the Prime Minister of India in response to the 1969 agitation. Who was the Prime Minister at that time?",
+    "te": "1969 ఉద్యమానికి ప్రతిస్పందనగా భారత ప్రధాని ఎనిమిది సూత్రాల సూత్రాన్ని ప్రకటించారు. ఆ సమయంలో ప్రధాని ఎవరు?",
+    "opts": [
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Lal Bahadur Shastri",
+      "Morarji Desai"
+    ],
+    "ans": 1,
+    "exp": "Indira Gandhi announced the Eight-Point Formula in April 1969 to address the grievances of the Telangana agitation."
+  },
+  {
+    "id": "P4_BAS_076",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "In which year was the Six-Point Formula introduced to resolve the grievances related to public employment in Andhra Pradesh?",
+    "te": "ఆంధ్రప్రదేశ్ లో ప్రభుత్వ ఉద్యోగాలకు సంబంధించిన సమస్యలను పరిష్కరించడానికి ఆరసూత్రాల సూత్రం (సిక్స్-పాయింట్ ఫార్ములా) ఏ సంవత్సరంలో ప్రవేశపెట్టబడింది?",
+    "opts": [
+      "1969",
+      "1971",
+      "1973",
+      "1975"
+    ],
+    "ans": 2,
+    "exp": "The Six-Point Formula was proposed in 1973 as a political compromise to provide equitable opportunities in education and employment to people of different regions of the state."
+  },
+  {
+    "id": "P4_BAS_077",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "Which Constitutional Amendment Act inserted Article 371-D to give legal backing to the Six-Point Formula?",
+    "te": "ఆరసూత్రాల సూత్రానికి చట్టబద్ధత కల్పించడానికి ఏ రాజ్యాంగ సవరణ చట్టం ద్వారా ఆర్టికల్ 371-D ను చేర్చారు?",
+    "opts": [
+      "32nd Amendment Act, 1973",
+      "36th Amendment Act, 1975",
+      "42nd Amendment Act, 1976",
+      "44th Amendment Act, 1978"
+    ],
+    "ans": 0,
+    "exp": "The Constitution (Thirty-Second Amendment) Act, 1973 inserted Article 371-D to empower the President to provide equitable opportunities and facilities to people belonging to different parts of Andhra Pradesh."
+  },
+  {
+    "id": "P4_BAS_078",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "When was the Presidential Order issued pursuant to Article 371-D of the Constitution regarding public employment?",
+    "te": "ప్రభుత్వ ఉద్యోగాలకు సంబంధించి రాజ్యాంగంలోని ఆర్టికల్ 371-D ప్రకారం రాష్ట్రపతి ఉత్తర్వులు ఎప్పుడు జారీ చేయబడ్డాయి?",
+    "opts": [
+      "1973",
+      "1974",
+      "1975",
+      "1977"
+    ],
+    "ans": 2,
+    "exp": "The Presidential Order, known as the Andhra Pradesh Public Employment (Organization of Local Cadres and Regulation of Direct Recruitment) Order, was issued in 1975."
+  },
+  {
+    "id": "P4_BAS_079",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of the Six-Point Formula and the Presidential Order of 1975?",
+    "te": "ఆరసూత్రాల సూత్రం మరియు 1975 రాష్ట్రపతి ఉత్తర్వుల యొక్క ప్రాథమిక ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "Abolition of the princely states",
+      "Equitable opportunities in education and public employment for all regions",
+      "Creation of a separate Telangana state",
+      "Establishment of Panchayati Raj institutions"
+    ],
+    "ans": 1,
+    "exp": "The primary objective was to ensure equitable opportunities in matters of public employment and education for people residing in different regions of Andhra Pradesh, particularly protecting local interests."
+  },
+  {
+    "id": "P4_BAS_080",
+    "paper": "Paper-IV",
+    "topic": "Mobilisational Phase (1971-1990): Six-Point Formula, Article 371-D, Presidential Order 1975",
+    "difficulty": "Basic",
+    "en": "Under the Presidential Order of 1975, the state was divided into how many zones for the purpose of local cadres in public employment?",
+    "te": "1975 నాటి రాష్ట్రపతి ఉత్తర్వుల ప్రకారం, ప్రభుత్వ ఉద్యోగాలలో స్థానిక కేడర్ల కొరకు రాష్ట్రం ఎన్ని జోన్లుగా విభజించబడింది?",
+    "opts": [
+      "Four zones",
+      "Five zones",
+      "Six zones",
+      "Seven zones"
+    ],
+    "ans": 2,
+    "exp": "The Presidential Order of 1975 organized public services into local cadres by dividing the state into six zones (later modified to seven zones), with specific reservations for locals."
+  },
+  {
+    "id": "P4_BAS_081",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "Who was the chairman of the committee appointed by the government in 2001 to look into the implementation of G.O. 610?",
+    "te": "G.O. 610 అమలును పరిశీలించడానికి 2001 లో ప్రభుత్వం నియమించిన కమిటీకి అధ్యక్షుడు ఎవరు?",
+    "opts": [
+      "Jayabharath Reddy",
+      "Sundaresan",
+      "Girglani",
+      "J.M. Lyngdoh"
+    ],
+    "ans": 0,
+    "exp": "The Jayabharath Reddy Committee was appointed to study the violations of G.O. 610 regarding the employment of local and non-local personnel in Telangana."
+  },
+  {
+    "id": "P4_BAS_082",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "What was the primary objective of G.O. 610 issued in December 1985?",
+    "te": "డిసెంబర్ 1985 లో జారీ చేయబడిన G.O. 610 యొక్క ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To allocate funds for irrigation projects",
+      "To repatriate non-local employees working in Telangana region to their native regions",
+      "To establish central universities in Hyderabad",
+      "To introduce land ceiling acts in Andhra Pradesh"
+    ],
+    "ans": 1,
+    "exp": "G.O. 610 was issued to ensure that non-local employees holding jobs meant for locals in Telangana are repatriated to their respective zones."
+  },
+  {
+    "id": "P4_BAS_083",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "The Sundaresan Committee was mainly concerned with which of the following issues?",
+    "te": "సుందరేశన్ కమిటీ ప్రధానంగా ఏ అంశంతో సంబంధం కలిగి ఉంది?",
+    "opts": [
+      "Forest rights of tribals",
+      "Identification of surplus lands",
+      "Identification of non-local employees in various government departments",
+      "Water sharing between riparian states"
+    ],
+    "ans": 2,
+    "exp": "The Sundaresan Committee was formed to identify non-local employees working in various government departments in violation of presidential orders and guidelines."
+  },
+  {
+    "id": "P4_BAS_084",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "In which district did the historic Telangana Armed Peasant Struggle (1946-1951) primarily originate?",
+    "te": "చారిత్రక తెలంగాణ సాయుధ రైతాంగ పోరాటం (1946-1951) ప్రధానంగా ఏ జిల్లాలో ప్రారంభమైంది?",
+    "opts": [
+      "Nalgonda",
+      "Karimnagar",
+      "Adilabad",
+      "Warangal"
+    ],
+    "ans": 0,
+    "exp": "The Telangana Armed Peasant Struggle began as a revolt against the oppressive feudal lords and Razakars, originating primarily in the Nalgonda district (Jangaon taluka area)."
+  },
+  {
+    "id": "P4_BAS_085",
+    "paper": "Paper-IV",
+    "topic": "G.O. 610 and Jayabharath Reddy Committee, Sundaresan Committee, Naxalite Movement and Peasant Struggles",
+    "difficulty": "Basic",
+    "en": "The Naxalite movement in Andhra Pradesh gained significant momentum following the uprising in which year and place?",
+    "te": "ఆంధ్రప్రదేశ్‌లో నక్సలైట్ ఉద్యమం ఏ సంవత్సరంలో జరిగిన తిరుగుబాటు తర్వాత గణనీయమైన ఊపును అందుకుంది?",
+    "opts": [
+      "1948 in Srikakulam",
+      "1968 in Naxalbari",
+      "1969 in Srikakulam",
+      "1975 in Jagtial"
+    ],
+    "ans": 2,
+    "exp": "The Srikakulam peasant uprising in 1969 marked the major entry and spread of the Naxalite movement in Andhra Pradesh."
+  },
+  {
+    "id": "P4_BAS_086",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Which of the following traditional festivals of Telangana is predominantly celebrated by women using floral arrangements?",
+    "te": "తెలంగాణలో క్రింది వాటిలో ఏ సాంప్రదాయ పండుగను ప్రధానంగా మహిళలు పూలతో అమర్చి జరుపుకుంటారు?",
+    "opts": [
+      "Bonalu",
+      "Bathukamma",
+      "Sammakka Saralamma Jatara",
+      "Ugadi"
+    ],
+    "ans": 1,
+    "exp": "Bathukamma is a vibrant floral festival celebrated by the women of Telangana, representing the cultural identity of the region."
+  },
+  {
+    "id": "P4_BAS_087",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Bonalu festival is traditionally dedicated to which deity?",
+    "te": "బోనాల పండుగ సాంప్రదాయకంగా ఏ దేవతకు అంకితం చేయబడింది?",
+    "opts": [
+      "Durga",
+      "Lakshmi",
+      "Mahankali",
+      "Saraswati"
+    ],
+    "ans": 2,
+    "exp": "Bonalu is an annual Hindu festival celebrated in the Ashada masam, dedicated to Goddess Mahankali."
+  },
+  {
+    "id": "P4_BAS_088",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "What was the primary cultural and political platform used during the Telangana movement to spread awareness through folk songs and dances?",
+    "te": "జానపద పాటలు మరియు నృత్యాల ద్వారా అవగాహన కల్పించడానికి తెలంగాణ ఉద్యమ కాలంలో ఉపయోగించిన ప్రధాన సాంస్కృతిక మరియు రాజకీయ వేదిక ఏది?",
+    "opts": [
+      "Dhoom Dhaam",
+      "Kavi Sammelanam",
+      "Praja Natya Mandali",
+      "Vangmayi Utsavam"
+    ],
+    "ans": 0,
+    "exp": "Telangana Dhoom Dhaam was a unique cultural platform created during the movement that combined folk songs, dances, and speeches to mobilize the public."
+  },
+  {
+    "id": "P4_BAS_089",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Who among the following is widely known as the 'Telangana Nightingale' for her inspiring revolutionary songs during the movement?",
+    "te": "ఉద్యమ కాలంలో తన స్ఫూర్తిదాయక విప్లవ గీతాలతో 'తెలంగాణ నైటింగేల్' అని ఎవరిని విస్తృతంగా పిలుస్తారు?",
+    "opts": [
+      "Vimalakka",
+      "Rasamai Balakishan",
+      "Gaddar",
+      "Gorati Venkanna"
+    ],
+    "ans": 0,
+    "exp": "Vimalakka is a prominent folk singer and activist known for her powerful revolutionary songs that energized the Telangana movement."
+  },
+  {
+    "id": "P4_BAS_090",
+    "paper": "Paper-IV",
+    "topic": "Rise of Cultural Identity: Dhoom Dhaam, Bathukamma, Bonalu, Telangana Songs, Literature and Intellectuals",
+    "difficulty": "Basic",
+    "en": "Which famous poet and lyricist wrote the well-known song 'Palle Paduchulu' and 'Galli Gallana' which became anthems of Telangana cultural assertion?",
+    "te": "తెలంగాణ సాంస్కృతిక అస్తిత్వానికి ప్రతీకలుగా నిలిచిన 'పల్లె పడుచులు' మరియు 'గల్లీ గల్లానా' వంటి ప్రసిద్ధ పాటలను రచించిన కవి మరియు గేయ రచయిత ఎవరు?",
+    "opts": [
+      "Ande Sri",
+      "Gorati Venkanna",
+      "Namoori Sadanandam",
+      "Gaddar"
+    ],
+    "ans": 1,
+    "exp": "Gorati Venkanna is a renowned poet and folk singer whose songs like 'Golivaram' and 'Palle Paduchulu' deeply reflected Telangana's rural life and cultural identity."
+  },
+  {
+    "id": "P4_BAS_091",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "In which year was the Telangana Rashtra Samithi (TRS) formally founded by K. Chandrashekar Rao?",
+    "te": "కె. చంద్రశేఖర రావు తెలంగాణ రాష్ట్ర సమితిని (TRS) అధికారికంగా ఏ సంవత్సరంలో స్థాపించారు?",
+    "opts": [
+      "1999",
+      "2001",
+      "2004",
+      "2009"
+    ],
+    "ans": 1,
+    "exp": "TRS was founded on April 27, 2001, at Jaladrushyam in Hyderabad to achieve statehood for Telangana.",
+    "exp_te": "తెలంగాణ రాష్ట్ర సాధన కోసం TRS ఏప్రిల్ 27, 2001న హైదరాబాద్‌లోని జలదృశ్యంలో స్థాపించబడింది."
+  },
+  {
+    "id": "P4_BAS_092",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "The historic 'Warangal Declaration' emphasizing the formation of a separate Telangana state was adopted in which year?",
+    "te": "ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటును నొక్కిచెప్పిన చారిత్రాత్మక 'వరంగల్ డిక్లరేషన్' ఏ సంవత్సరంలో ఆమోదించబడింది?",
+    "opts": [
+      "1997",
+      "2001",
+      "2004",
+      "2009"
+    ],
+    "ans": 0,
+    "exp": "The Warangal Declaration was adopted in 1997, giving a major fillip to the separate statehood movement.",
+    "exp_te": "ప్రత్యేక రాష్ట్ర ఉద్యమానికి ఊపునిస్తూ 1997లో వరంగల్ డిక్లరేషన్ ఆమోదించబడింది."
+  },
+  {
+    "id": "P4_BAS_093",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Telangana Jana Sabha was formed in the 1990s primarily to act as a platform for what cause?",
+    "te": "తెలంగాణ జనసభ 1990లలో ప్రధానంగా ఏ అంశం కోసం వేదికగా పనిచేయడానికి ఏర్పడింది?",
+    "opts": [
+      "Economic reforms",
+      "Telangana statehood and regional grievances",
+      "Agricultural subsidies",
+      "Labor union rights"
+    ],
+    "ans": 1,
+    "exp": "Telangana Jana Sabha was established to voice regional grievances and campaign for a separate Telangana state.",
+    "exp_te": "తెలంగాణ జనసభ ప్రాంతీయ సమస్యలను గళం ఎత్తడానికి మరియు ప్రత్యేక తెలంగాణ రాష్ట్రం కోసం ప్రచారం చేయడానికి స్థాపించబడింది."
+  },
+  {
+    "id": "P4_BAS_094",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Where was the political party Telangana Rashtra Samithi (TRS) officially launched in 2001?",
+    "te": "2001లో తెలంగాణ రాష్ట్ర సమితి (TRS) రాజకీయ పార్టీ అధికారికంగా ఎక్కడ ప్రారంభించబడింది?",
+    "opts": [
+      "Warangal Fort",
+      "Jaladrushyam, Hyderabad",
+      "Osmania University, Hyderabad",
+      "Karimnagar Collectorate"
+    ],
+    "ans": 1,
+    "exp": "TRS was officially launched at Jaladrushyam near Hussain Sagar in Hyderabad on April 27, 2001.",
+    "exp_te": "TRS ఏప్రిల్ 27, 2001న హైదరాబాద్‌లోని హుస్సేన్ సాగర్ సమీపంలో ఉన్న జలదృశ్యంలో అధికారికంగా ప్రారంభించబడింది."
+  },
+  {
+    "id": "P4_BAS_095",
+    "paper": "Paper-IV",
+    "topic": "Towards Statehood (1991-2014): Warangal Declaration, Telangana Jana Sabha, TRS Formation (2001)",
+    "difficulty": "Basic",
+    "en": "Who resigned from his position as Deputy Speaker of the Andhra Pradesh Legislative Assembly and from TDP to float the TRS party?",
+    "te": "TRS పార్టీని స్థాపించడానికి ఆంధ్రప్రదేశ్ శాసనసభ డిప్యూటీ స్పీకర్ పదవికి మరియు టీడీపీకి ఎవరు రాజీనామా చేశారు?",
+    "opts": [
+      "M. Kodandaram",
+      "K. Chandrashekar Rao",
+      "Prof. Jayashankar",
+      "N. Janardhana Reddy"
+    ],
+    "ans": 1,
+    "exp": "K. Chandrashekar Rao resigned from TDP and the post of Deputy Speaker in 2001 to spearhead the Telangana movement through TRS.",
+    "exp_te": "టీఆర్‌ఎస్ ద్వారా తెలంగాణ ఉద్యమానికి నాయకత్వం వహించడానికి కె. చంద్రశేఖర రావు 2001లో టీడీపీకి మరియు డిప్యూటీ స్పీకర్ పదవికి రాజీనామా చేశారు."
+  },
+  {
+    "id": "P4_BAS_096",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "Which major political party was founded in 2001 specifically with the single-point agenda of achieving a separate Telangana state?",
+    "te": "ప్రత్యేక తెలంగాణ సాధనే ఏకైక এজెండాగా 2001లో స్థాపించబడిన ప్రధాన రాజకీయ పార్టీ ఏది?",
+    "opts": [
+      "Congress",
+      "BJP",
+      "TRS (BRS)",
+      "TDP"
+    ],
+    "ans": 2,
+    "exp": "TRS (Telangana Rashtra Samithi), now BRS, was founded by K. Chandrashekar Rao in April 2001 for statehood."
+  },
+  {
+    "id": "P4_BAS_097",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "What was the primary nature of the 'Sakala Janula Samme' (All People's Strike) in 2011?",
+    "te": "2011లో జరిగిన 'సకల జనుల సమ్మె' యొక్క ప్రధాన స్వభావం ఏమిటి?",
+    "opts": [
+      "Only agricultural strike",
+      "Indefinite general strike involving all sections of society",
+      "Only student protest",
+      "Transport workers strike"
+    ],
+    "ans": 1,
+    "exp": "Sakala Janula Samme was a massive 42-day indefinite general strike involving government employees, advocates, teachers, and all sections of society."
+  },
+  {
+    "id": "P4_BAS_098",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "Along which famous water body in Hyderabad was the 'Million March' organized in March 2011?",
+    "te": "మార్చి 2011లో 'మిలియన్ మార్చ్' హైదరాబాద్‌లోని ఏ ప్రసిద్ధ జలాశయం ఒడ్డున నిర్వహించబడింది?",
+    "opts": [
+      "Hussain Sagar",
+      "Mir Alam Tank",
+      "Osman Sagar",
+      "Himayat Sagar"
+    ],
+    "ans": 0,
+    "exp": "The Million March was organized on the banks of Hussain Sagar in Hyderabad on March 10, 2011."
+  },
+  {
+    "id": "P4_BAS_099",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "What was the main objective of the 'Sagara Haram' protest program held during the Telangana movement?",
+    "te": "తెలంగాణ ఉద్యమ కాలంలో నిర్వహించిన 'సాగర హారం' నిరసన కార్యక్రమం యొక్క ముఖ్య ఉద్దేశ్యం ఏమిటి?",
+    "opts": [
+      "To protest against water projects",
+      "To form a human chain around Hussain Sagar demanding Telangana statehood",
+      "To clean the Hussain Sagar lake",
+      "To protest against electricity tariffs"
+    ],
+    "ans": 1,
+    "exp": "Sagara Haram was organized as a massive human chain around Hussain Sagar on September 30, 2012, to press for statehood."
+  },
+  {
+    "id": "P4_BAS_100",
+    "paper": "Paper-IV",
+    "topic": "Role of Political Parties, Mass Movements, Sakala Janula Samme, Million March, Sagara Haram",
+    "difficulty": "Basic",
+    "en": "Which of the following mass groups played a vital backbone role in sustaining the Telangana movement through aggressive protests and strikes?",
+    "te": "క్రింది వాటిలో ఏ సామాజిక వర్గం దూకుడుగా నిరసనలు మరియు సమ్మెల ద్వారా తెలంగాణ ఉద్యమాన్ని నిలబెట్టడంలో కీలకమైన వెన్నెముక పాత్ర పోషించింది?",
+    "opts": [
+      "Students and Youth",
+      "Industrialists",
+      "Real estate developers",
+      "Foreign investors"
+    ],
+    "ans": 0,
+    "exp": "Students and youth formed the backbone of the Telangana movement, spearheading universities, protests, and direct actions."
+  }
+]

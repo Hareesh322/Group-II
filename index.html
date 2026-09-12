@@ -60,12 +60,12 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <div class="stat"><b>4</b>Papers</div><div class="stat"><b>600</b>Marks TSPSC Pattern</div><div class="stat"><b>₹10</b>Per Paid Attempt</div>
 </div>
 </div>
-<div class="section-title"><h2>What is included</h2><div class="muted">Fast on-demand question loader hosted directly on GitHub Pages[cite: 1].</div></div>
+<div class="section-title"><h2>What is included</h2><div class="muted">Direct integration with your GitHub Pages question bank.</div></div>
 <div class="grid4">
-<div class="card"><b>📚 Syllabus-wise</b><p class="muted">Strictly mapped to TSPSC Papers I, II, III, and IV.</p></div>
-<div class="card"><b>🎯 Difficulty Tiers</b><p class="muted">Dynamically loads Basic, Medium, or Advanced JSON files.</p></div>
-<div class="card"><b>🔄 Real Randomization</b><p class="muted">Shuffles questions on every single test attempt.</p></div>
-<div class="card"><b>📄 PDF Reports</b><p class="muted">Instant scoring breakdown, analysis, and printable scorecard.</p></div>
+<div class="card"><b>📚 Complete Syllabus</b><p class="muted">Strictly mapped across all 4 Group-II papers.</p></div>
+<div class="card"><b>🎯 Tiered Difficulty</b><p class="muted">Basic, Medium, and Advanced levels.</p></div>
+<div class="card"><b>🔄 Full Randomization</b><p class="muted">Unique question selection for every attempt.</p></div>
+<div class="card"><b>📄 Instant Scorecard</b><p class="muted">Printable PDF analysis with performance stats.</p></div>
 </div>
 </section>
 
@@ -178,7 +178,7 @@ main{max-width:1180px;margin:auto;padding:34px 20px 70px}.screen{display:none}.s
 <script>
 const CONFIG = {
   TEST_FEE: 10,
-  PAYMENT_UPI_ID: "YOUR-UPI-ID@BANK",
+  PAYMENT_UPI_ID: "YOUR-UPI-ID@BANK", // Replace with your active UPI ID
   DEMO_ADMIN_KEY: "ADMIN-DEMO-123"
 };
 
@@ -276,23 +276,24 @@ function submitPaymentUTR(){
   showScreen("passkey");
 }
 
-// DYNAMIC FILE FETCHING ENGINE MATCHING YOUR EXACT GITHUB REPOSITORY STRUCTURE
+// EXACT GITHUB PATH MAPPING: folder=paper1..4 | file=paperi..iv_difficulty.json
 async function fetchPaperQuestions(paper, difficulty){
   const meta = {
-    "Paper-I":   { folder: "paper1", prefix: "paperi" },
-    "Paper-II":  { folder: "paper2", prefix: "paperii" },
-    "Paper-III": { folder: "paper3", prefix: "paperiii" },
-    "Paper-IV":  { folder: "paper4", prefix: "paperiv" }
+    "Paper-I":   { folder: "paper1", filePrefix: "paperi" },
+    "Paper-II":  { folder: "paper2", filePrefix: "paperii" },
+    "Paper-III": { folder: "paper3", filePrefix: "paperiii" },
+    "Paper-IV":  { folder: "paper4", filePrefix: "paperiv" }
   };
 
-  const selected = meta[paper] || meta["Paper-I"];
-  const filePath = `data/${selected.folder}/${selected.prefix}_${difficulty.toLowerCase()}.json`;
+  const config = meta[paper] || meta["Paper-I"];
+  const diff = difficulty.toLowerCase();
+  const filePath = `data/${config.folder}/${config.filePrefix}_${diff}.json`;
 
   toast(`Loading ${difficulty} questions for ${paper}...`);
   const response = await fetch(filePath);
 
   if(!response.ok){
-    throw new Error(`Failed to load ${filePath}. Check that the file exists on GitHub.`);
+    throw new Error(`Failed to load ${filePath} (HTTP ${response.status}). Ensure the file exists on GitHub.`);
   }
 
   return await response.json();
